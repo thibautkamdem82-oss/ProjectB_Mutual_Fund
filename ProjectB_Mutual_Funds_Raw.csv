@@ -1,0 +1,781 @@
+Fund Legal Name,Fund ID,ISIN,Asset Class,Primary Region Focus,Investment Style,Share Class Currency,Fund Domicile,AUM (USD millions),NAV per Share,Ongoing Charges / TER (%),Return 1Y (%),Return 3Y Ann. (%),Return 5Y Ann. (%),Volatility 3Y (%),Sharpe Ratio 3Y,Max Drawdown 5Y (%),Net Flows 12M (USD mn),Excess Return vs Bench 1Y (%),Portfolio Turnover (%),Inception Year,SFDR Classification,Morningstar Rating,Manager Tenure (Years),Top Holding Weight (%),Cash Weight (%)
+Horizon Mixed Fund 0,FND0000,LU9877058541,Mixed,APAC,Value,GBP,France,1502.92,54.08,0.13,34.92,6.16,7.88,13.01,0.49,-15.11,35.97,-0.69,12.35,2023,Art 9,3,2.10,9.77,3.59
+Horizon Mixed Fund 1,FND0001,LU1370581291,Mixed,Global,Value,USD,Ireland,379.41,121.59,0.21,-25.24%,7.66,2.24,16.05,0.98,-8.29,-18.31,4.37,53.02,2022,Art 9,n/a,3.79,11.85,4.32
+Horizon Alternatives Fund 2,FND0002,LU3953069917,Alternatives,Emerging Markets,growth,JPY,Luxembourg,324.74,62.43,0.24,8.26,-5.75,15.32,21.98,-0.09,-3.36%,395.50,3.60,77.31,2013,Article 6,3,5.16,7.30,3.77
+Horizon Fixed Income Fund 3,FND0003,LU4718236073,Fixed Income,United States,Blend,JPY,UK,200.13,94.49,0.16,,0.37,10.37,25.99,1.25,-17.96,-26.47,3.00,43.45,2007,N/A,n/a,11.36,1.56,1.96
+Horizon Money Market Fund 4,FND0004,LU2591412620,Money Market,US,Growth,usd,France,596.50,91.63,0.43,17.25,4.25,10.69,35.03,,-23.58,,1.79,53.80,2011,Article 8,2,1.60,6.67,0.00
+Horizon FI Fund 5,FND0005,LU5792779430,FI,APAC,Growth,usd,Ireland,194.62,20.95,0.28,1.32,2.54,19.17%,8.72,0.97,-11.05,109.44,-1.49%,44.50,2013,Article 9,★★★,9.84,11.05,1.94
+Horizon Mixed Fund 6,FND0006,LU4066704463,Mixed,Asia Pacific,Value,GBP,France,37.11,60.24,0.72,-4.04,23.09,5.18%,15.15,0.60,-27.58,-159.40,2.69,85.17,2007,Art.8,2,3.38,11.07,6.29
+Horizon equity Fund 7,FND0007,LU2351306537,equity,United States,Aggressive,JPY,Luxembourg,529.71,55.54,0.41,25.57,-5.55,14.23,17.72,0.75,-20.98,149.28,2.27,13.01%,2018,N/A,4 stars,0.20,5.34,0.53
+Horizon Fixed Income Fund 8,FND0008,LU8130470910,Fixed Income,United States,Blend,USD,Luxembourg,204.66,100.53,0.46,-6.13,-1.43,7.15,12.53,0.29,-27.72,45.80,2.47,29.78,2012,Article 8,5,7.16,10.24,1.36
+Horizon FI Fund 9,FND0009,LU5709934972,FI,US,Value,EUR ,US,334.81,63.53,0.42%,,-1.34,2.10,6.95,0.66,-27.14,67.05,1.51,20.37,2022,,2,10.27,5.73%,4.14%
+Horizon equity Fund 10,FND0010,LU9646689057,equity,Europe,Growth,JPY,US,1004.55,56.12,0.15%,-3.23,6.46,8.88,21.72,1.47%,-21.80,-405.39,-1.33,94.34,2009,Article 8,,10.49,9.51,3.84
+Horizon FI Fund 11,FND0011,LU2568321574,FI,US,Value,USD,luxembourg,128.72,45.87,0.23,10.47,9.69,10.28,17.55,0.50,-34.34,214.84,7.05%,32.02,1999,N/A,2,2.21,10.79,3.32
+Horizon Money Market Fund 12,FND0012,LU2728901259,Money Market,europe,Aggressive,usd,Luxembourg,1588.85,41.90,0.43,19.82,10.05,6.47,,0.40,-13.36,-10.93,3.18,44.40,2009,article 6,n/a,13.19,3.39,3.83
+Horizon equity Fund 13,FND0013,LU1230159479,equity,europe,Income,JPY,Ireland,404.46,48.59,0.63,8.35%,1.43,5.66,,0.32,-12.00,47.32,6.35,31.63,2008,Art 9,4 stars,10.22,10.66,5.72
+Horizon fixed-income Fund 14,FND0014,LU9519020590,fixed-income,EM,VALUE,EUR,UK,869.90,36.01,0.29,7.40,-5.86,11.31%,16.01,0.96,-23.39,94.10,-1.18,5.00,2022,article 6,n/a,6.49,1.00,3.87
+Horizon Equity Fund 15,FND0015,LU8256023850,Equity,europe,VALUE,GBP,IE,2290.26,46.00,0.28,,10.38,4.68,,0.77,-14.58%,480.08,1.12,143.47,2021,Article 8,3,7.07,5.59,3.35
+Horizon Money Market Fund 16,FND0016,LU1778509363,Money Market,United States,Income,GBP,Luxembourg,2599.54%,98.14,0.36,,-3.50,1.36,6.48,0.71,-11.30,-22.16,-1.54,51.79,2001,Art.8,3,5.59,3.20,5.34
+Horizon Alternatives Fund 17,FND0017,LU5094032442,Alternatives,US,Aggressive,EUR,luxembourg,5629.90,31.76,0.17%,4.94,10.65,11.01,8.36,0.72,-8.51,,1.50,82.98,2011,N/A,★★★,1.45,8.02,1.34
+Horizon fixed-income Fund 18,FND0018,,fixed-income,Europe,Income,JPY,Ireland,306.54,15.19,0.79,8.94,5.30,2.42,24.83,0.37,-30.25,-128.51,1.00,38.87,2022,article 6,★★★,5.02%,6.00,0.00
+Horizon Mixed Fund 19,FND0019,,Mixed,Emerging Markets,growth,JPY,France,103.55,26.12,0.09,-1.27,9.50%,-2.03,12.01,0.53,-13.53,186.62,-2.81,12.71,2013,Art.8,3,3.87,6.90,1.28
+Horizon FI Fund 20,FND0020,LU5212548518,FI,Global,VALUE,JPY,IE,1314.32,54.21,0.09,29.59,10.39,1.77,11.53,0.55,-9.68,-237.42,5.00,51.88,2017,Art 9,4 stars,5.49,6.89,1.07
+Horizon Mixed Fund 21,,LU1085063678,Mixed,Europe,Aggressive,GBP,Ireland,1133.20,34.25,0.22%,4.35%,11.12,8.80,1.00,0.22,-22.59,-192.38,-1.29,76.92,n.a.,Article 8,,6.33,9.21,1.11
+Horizon FI Fund 22,FND0022,LU9694781641,FI,Emerging Markets,growth,EUR ,France,2440.03,102.72,0.42,7.38,16.73%,21.54,14.64%,1.12,-24.03%,-293.75,1.02,65.55,2022,Article 9,1,3.58,10.44,1.90%
+Horizon Alternatives Fund 23,FND0023,,Alternatives,Europe,Value,USD,US,1982.48,68.98%,0.37,6.71,2.21,-0.58,16.70%,-0.54,-13.02,-474.23,-7.90,80.63%,2007,Article 6,4 stars,3.92,4.32,8.19
+Horizon fixed-income Fund 24,FND0024,LU1605728107,fixed-income,APAC,Blend,JPY,luxembourg,1473.37,40.13,0.16%,4.26%,0.65,8.45,12.17,-0.55,-9.07,82.62,0.48,98.31,2021,Art 9,5,4.24,2.65,3.25
+Horizon Alternatives Fund 25,FND0025,LU9829406280,Alternatives,EM,Blend,usd,Ireland,6663.00,129.65,0.35,1.55,7.45%,4.71,15.43,0.49,-23.15%,122.55,4.91,32.04%,2012,article 6,3,2.50,11.50,0.00%
+Horizon equity Fund 26,FND0026,LU9451232715,equity,Europe,Aggressive,EUR,UK,1585.80,20.81%,0.12,-12.18,8.34,10.40,11.49,0.94,-26.13,340.22,1.95,28.86,2015,article 6,n/a,0.88%,10.92,0.00
+Horizon Fixed Income Fund 27,FND0027,LU8806550978,Fixed Income,Global,VALUE,USD,IE,1532.62,46.87,0.42,29.53,15.35%,14.46,15.35,0.27%,-30.22,-154.77,1.96,54.50,2005,Art 9,3,3.61%,11.01,0.00
+Horizon fixed-income Fund 28,FND0028,LU1498770844,fixed-income,Europe,Blend,USD,IE,353.36,68.58,0.49,7.41,2.95,13.34,2.93,0.20%,-12.58%,192.61,-0.44,55.19%,2007,Art 9,,14.65%,10.29%,0.59
+Horizon Money Market Fund 29,FND0029,LU4063988664,Money Market,EM,VALUE,JPY,Cayman,859.82%,83.23,0.11,29.58,1.77,18.94,2.16,0.70,-23.98%,578.07,7.01,13.86,2022,N/A,1,0.20,12.07,4.88
+Horizon Equity Fund 30,FND0030,LU8100215212,Equity,Asia Pacific,Value,EUR ,UK,397.08,40.67,0.21,7.96%,-6.60,16.99,18.54,0.63,-14.66,266.87,-1.52,15.23,2002,Article 6,3,13.03,6.47,6.82
+Horizon FI Fund 31,FND0031,LU7024082886,FI,EM,growth,USD,Ireland,118.77%,143.62,0.55,10.06,15.21,-5.20%,18.83,0.53,-11.67,7.26,-3.30,26.28,2011,Article 9,n/a,3.53,12.12,1.52
+Horizon fixed-income Fund 32,FND0032,LU8376860395,fixed-income,Global,Income,JPY,US,,32.86,0.57,15.36,13.27,8.26,11.44,0.03,-17.59,4.29,-4.16,148.72,2015.0,Article 6,n/a,6.56,8.53,1.21
+Horizon Alternatives Fund 33,FND0033,LU8366942239,Alternatives,Emerging Markets,Aggressive,GBP,US,6476.91,42.37%,0.17,16.21,-2.54,4.59,15.94,-0.23,-26.24,56.28,-1.99,38.18,2008,Art.8,1,9.06%,8.29,0.06%
+Horizon Equity Fund 34,FND0034,LU6727882524,Equity,United States,Growth,GBP,Ireland,357.89,65.23,0.34,35.58,19.35,16.27,,-0.53,-25.88,-81.65,-1.52%,53.55,2017,Article 6,4,4.55,7.39,5.61
+Horizon fixed-income Fund 35,FND0035,LU4768821500,fixed-income,Asia Pacific,growth,EUR,luxembourg,390.19,95.49,0.54%,-5.85,1.40,11.91,13.10,0.49,-24.24,-60.78,10.95,8.33,2007,article 6,3,2.04,9.97%,3.81
+Horizon FI Fund 36,FND0036,LU8530232040,FI,APAC,VALUE,usd,France,4212.18,75.83,0.88,15.34,7.83,-1.59%,11.18,,-11.22,141.78,1.03%,97.93,2013,article 6,2,3.08%,6.85,3.26%
+Horizon Alternatives Fund 37,FND0037,LU3019985928,Alternatives,Asia Pacific,Blend,EUR ,Cayman,183.10,40.99,0.43,-16.14,8.88,18.64,20.06,0.52,-20.03,-283.18,6.67,14.07,2020,Article 9,4 stars,5.80,11.97,1.97
+Horizon equity Fund 38,FND0038,LU6318552634,equity,United States,growth,usd,France,3110.50,47.06,0.26,17.31,-2.64,1.47,,0.35%,-18.99%,365.61,4.67,21.40,2004,Article 6,2,4.05,11.38,2.85
+Horizon Mixed Fund 39,FND0039,LU6410606715,Mixed,europe,VALUE,GBP,France,117.24,75.90,0.43,11.69,-6.06,11.30%,14.34,0.56,-2.00,-86.91,-4.51,41.86,2023,,2,0.41,16.35,0.01
+Horizon Mixed Fund 40,FND0040,LU6814713436,Mixed,US,growth,USD,France,655.64,46.56,0.55,-1.17,-0.68,19.84,12.45,0.17,-23.58,111.07,-3.34,20.65,2012,Art 9,1,9.58,12.97,5.90%
+Horizon fixed-income Fund 41,FND0041,LU1739555789,fixed-income,United States,Value,JPY,Cayman,386.66,46.35%,0.86,10.48,8.55,6.50,12.00,0.09,-24.41,-270.78,4.02,16.09%,2001,Article 8,n/a,4.67,7.33,3.26
+Horizon Equity Fund 42,FND0042,LU1158470221,Equity,Emerging Markets,VALUE,usd,luxembourg,270.76,63.03%,0.21,33.76,,2.06,16.12,0.51,-23.72,,0.62%,152.10,2014,Article 9,n/a,7.15,6.71,3.32
+Horizon Fixed Income Fund 43,FND0043,,Fixed Income,Europe,Value,usd,US,287.70,104.75,0.24%,2.87,13.80,2.10,18.55,0.62,-22.62,21.73,-0.72,22.41,2021,Article 8,5,3.08,4.05,2.71
+Horizon FI Fund 44,FND0044,LU3659147018,FI,APAC,Blend,JPY,IE,2069.09,96.00,0.53,17.60,-1.75,0.15,6.01,0.79%,-14.62,,-4.01,29.61,2001,Art.8,4 stars,0.20,10.00,0.93
+Horizon fixed-income Fund 45,FND0045,LU6584101049,fixed-income,EM,growth,EUR,Luxembourg,388.46%,50.38,0.10,,-0.59,5.01,14.48,0.75,-6.76,-237.40,-2.40,70.63,2003,N/A,★★★,3.39,4.53%,3.02
+Horizon FI Fund 46,FND0046,,FI,Asia Pacific,growth,JPY,Luxembourg,474.32%,64.06%,0.12,17.25%,15.83,-11.13,,0.22,-15.96,-290.27,10.51,67.92%,2005,Art 9,n/a,3.63,17.14,1.55
+Horizon equity Fund 47,FND0047,,equity,Asia Pacific,Blend,EUR,IE,438.06,79.94,0.23,12.36,13.25,12.15,12.70,0.79,-13.66,189.98,-8.75,28.82,2020,Article 8,5,5.24,8.47,3.70
+Horizon Alternatives Fund 48,FND0048,LU1887734116,Alternatives,EM,Income,EUR ,Ireland,460.56,39.56,0.10,-7.84,-0.15,3.62,13.08,0.07,-21.68,-192.09,0.79,22.86,2014,Article 9,★★★,8.74,6.67,2.66
+Horizon Mixed Fund 49,FND0049,LU8283904255,Mixed,Europe,Aggressive,USD,US,682.16,108.91,0.23,2.19,-7.35,4.68,7.21%,1.37,-34.80,-17.88,1.20,10.56,2015,Article 9,2,11.89,9.26,5.10
+Horizon fixed-income Fund 50,FND0050,LU8873845400,fixed-income,Asia Pacific,VALUE,USD,IE,86.12,136.43,0.12,-10.24,-5.47,8.48,10.56,0.80,-22.99,-357.11,5.07,24.17,2013,Article 8,4,0.20,10.14,2.34
+Horizon Fixed Income Fund 51,FND0051,LU6206858291,Fixed Income,Asia Pacific,Aggressive,JPY,Cayman,1117.18,142.60,0.09,9.53,10.33,24.73,11.71,0.20,-28.21,24.87,-5.30,15.35,2019,Article 6,4 stars,8.67,8.57,0.03
+Horizon FI Fund 52,FND0052,LU4147395295,FI,Asia Pacific,Growth,JPY,Ireland,2615.08,96.19,0.50,-3.73,8.80,10.75,18.12,0.60,-14.49,164.28,-4.02,37.97,2002,Article 6,★★★,10.82,3.84,2.96
+Horizon Equity Fund 53,FND0053,LU8573448641,Equity,Europe,growth,EUR,IE,119.70,23.42,0.19,11.71,16.89,-9.86,10.89,-0.01,-5.38,32.21,-2.34,10.47,2020,Article 8,3,6.26,8.10,5.73
+Horizon fixed-income Fund 54,FND0054,LU3465222836,fixed-income,Global,VALUE,EUR,Cayman,940.75,51.54,0.57,3.91,7.64,-2.42,10.65,1.04,-19.96%,341.24,4.31,70.07%,2014,,4,7.33%,3.66,4.44
+Horizon Mixed Fund 55,FND0055,LU4807751010,Mixed,europe,Blend,GBP,Cayman,1282.46,119.75,0.22,-7.49,8.76,7.43,2.22,0.79,-17.95,-242.46,-1.64,400.00%,2007,Art 9,2,9.24,9.58,0.60
+Horizon Alternatives Fund 56,FND0056,LU3961831937,Alternatives,US,growth,GBP,Luxembourg,670.88,30.18,0.42,2.06,-5.03,8.99,2.96,0.35,-18.20,586.52,1.77,15.76,2002,Article 8,★★★,5.18,12.16,5.80
+Horizon Equity Fund 57,FND0057,LU4006612725,Equity,APAC,Growth,EUR ,luxembourg,312.46,80.10%,0.43,31.49,6.85%,4.68,13.55,1.01,-2.00,-95.48,3.80,76.00,2006,Art 9,★★★,8.04,1.00,0.00
+Horizon Mixed Fund 58,FND0058,LU8415683438,Mixed,Global,growth,EUR,France,12.67,40.33,0.20,0.76,11.22%,3.14,7.22,0.74,-18.05,255.16,0.70,49.02,2004,article 6,★★★,0.20,14.39,3.40
+Horizon Fixed Income Fund 59,FND0059,LU4323127685,Fixed Income,United States,Income,JPY,Luxembourg,272.55,48.37,0.52%,2.07,10.58,8.34,18.27%,,-18.31%,289.42,3.67,14.19,2008,,4 stars,4.26,2.43,5.28%
+Horizon Equity Fund 60,FND0060,,Equity,Global,Growth,EUR,France,979.73,128.79,0.25,15.43,1.85,-6.34,12.36,1.07,-16.89%,-144.92,-4.13,13.46%,2017,Article 6,4,9.05,10.74,2.73
+Horizon Alternatives Fund 61,,LU7030391756,Alternatives,Emerging Markets,Blend,GBP,Ireland,1777.65,39.78,0.50,18.00,4.69,6.57,9.00,0.48,-14.20,,0.78,31.04,2021,Art 9,2,8.21,11.80,3.20
+Horizon Mixed Fund 62,FND0062,,Mixed,APAC,Aggressive,EUR,Luxembourg,39636.31,58.61,0.14,-12.37,0.19,-8.19,7.62,0.03,-8.05%,55.34,0.23,14.27,1999,Article 6,★★★,10.95,7.68,3.70
+Horizon Money Market Fund 63,FND0063,LU4935224539,Money Market,Global,Value,usd,Luxembourg,1080.81,72.58,0.19,23.35,11.30,14.09,16.67,0.22,-7.31,312.02,4.50,69.36,2014,N/A,,8.78,1.74,5.54
+Horizon equity Fund 64,FND0064,LU9569595313,equity,europe,growth,GBP,US,210.15,35.90,0.21,15.59,-8.51,-1.87,11.93,1.37,-24.48,,7.59,119.38,2000,Article 9,2,4.97%,6.41,2.71
+Horizon Money Market Fund 65,FND0065,LU5589088996,Money Market,EM,Growth,EUR ,US,,151.79,0.23,26.04,1.28%,4.02,18.17,0.84,-19.83,-398.64,-1.41,21.19,2005,Art 9,1,2.09,7.01,0.00
+Horizon Mixed Fund 66,FND0066,LU1888707217,Mixed,Europe,Blend,usd,IE,,192.67,0.53%,22.09,-1.24,11.81,15.89,0.29,-13.79,-62.82,-1.80,43.60,2011,N/A,2,7.13,14.11,6.23
+Horizon Fixed Income Fund 67,FND0067,LU8320979340,Fixed Income,Global,Income,GBP,UK,160.62,28.31,0.18,9.52,3.96,-6.13,17.83,,-25.66,-399.18,-3.54,20.78,2013,Art 9,3,6.81,12.53,5.00
+Horizon FI Fund 68,FND0068,LU1358117073,FI,Europe,Growth,USD,Ireland,680.50,44.28,0.76,-14.98,1.10%,3.72,1.00%,0.13,-2.00,-79.31,7.05,11.83,2006,article 6,1,7.37,11.53,5.78
+Horizon Alternatives Fund 69,FND0069,LU4297471228,Alternatives,Global,Value,usd,Luxembourg,,10.61,0.40,10.13%,10.89%,18.37,22.88,1.19,-16.70,-292.83,5.53,53.83,1998,Article 9,1,8.20,8.72,4.35
+Horizon FI Fund 70,FND0070,LU3489067426,FI,Global,growth,usd,UK,389.55,77.27,0.20,20.33%,-7.42,-5.02,15.76,0.83,-11.12,-277.59,-2.36,16.88,2010,Article 9,2,7.20,2.65%,2.74%
+Horizon equity Fund 71,FND0071,,equity,Emerging Markets,VALUE,usd,Cayman,219.82,72.49,0.55%,11.06,-6.64,0.13,,0.74,-29.74,-5.61,0.92,40.00,2002,Art 9,4,9.55,13.20,0.00
+Horizon fixed-income Fund 72,FND0072,LU2985421537,fixed-income,EM,Growth,JPY,luxembourg,708.61,59.89,0.46,-13.94,,-12.08,9.57,0.29,-21.68%,-156.24,3.78,69.47,2005,Art 9,2,7.98,9.43,5.66
+Horizon FI Fund 73,FND0073,LU4899275296,FI,EM,Blend,EUR ,Ireland,2230.45,79.04,0.20%,13.62,0.30%,18.61,12.91,1.08,-39.94,102.94%,-0.03,11.85,2022,Article 6,,8.15,10.15,0.63
+Horizon fixed-income Fund 74,FND0074,,fixed-income,US,Income,USD,IE,,116.99,0.44,0.80,6.99,2.76,24.28,1.16%,-24.06%,-70.65,1.90,11.29,2016,Article 9,4,7.90,5.19,2.79
+Horizon FI Fund 75,FND0075,LU4235256351,FI,EM,Value,JPY,France,85.68,91.25%,0.20,-13.09,22.91%,2.16%,15.16,0.55,-10.57,-320.55,-0.88,10.82,2010,Art.8,3,2.90,4.78,5.86
+Horizon equity Fund 76,FND0076,LU5824882115,equity,Emerging Markets,Blend,JPY,IE,2551.24,63.58,0.41,19.92,9.96%,9.18,12.30,1.06,-10.21,-19.08,2.10,33.72,2022,Art.8,n/a,9.84%,4.98,5.07
+Horizon FI Fund 77,FND0077,LU2090841347,FI,europe,VALUE,JPY,luxembourg,167.34,37.78,0.65,20.78,-0.38,7.60,15.19,0.34,-31.29,-164.63,0.26,54.66,2009,Article 6,★★★,7.00,6.40,5.18
+Horizon Money Market Fund 78,FND0078,LU2454965126,Money Market,europe,Aggressive,EUR ,Ireland,1258.76,33.22,0.38,19.52,14.73,0.49%,24.78,1.56%,-15.96,-292.23,-2.14,87.30,2005,Article 9,,9.45,5.83,5.98
+Horizon Money Market Fund 79,FND0079,LU8669874110,Money Market,US,Value,USD,Luxembourg,349.39,113.25,0.11,-16.85,12.68,1.11,18.63,0.36,-15.63,,6.48,28.30,2003,N/A,2,2.31,11.98,4.59
+Horizon equity Fund 80,FND0080,LU6227816529,equity,Asia Pacific,Value,EUR ,Luxembourg,1427.74%,41.31,0.19,9.29,14.33,4.72,8.95,1.36,-2.00,330.99,0.20,176.62,2003,,,4.88,9.56%,2.04%
+Horizon Mixed Fund 81,FND0081,LU1785604032,Mixed,Asia Pacific,Growth,JPY,Cayman,174.94,68.20%,0.32,28.96,,4.91,11.71,1.33%,-20.22,463.96,1.76,21.88,2018,article 6,4,2.12,6.57,1.99
+Horizon FI Fund 82,FND0082,LU3710558230,FI,Emerging Markets,Blend,USD,Ireland,341.00,18.89,0.53%,18.08%,17.42,15.73,7.93,0.65,-21.94,-15.37,4.12,32.95,2010,Article 9,,10.53,13.25,1.96
+Horizon Mixed Fund 83,FND0083,LU1950565844,Mixed,europe,Blend,usd,US,456.93%,38.73,0.17%,21.84,,15.29,20.01,0.52,-8.11%,-112.40,2.74,61.18%,2019,Article 9,4 stars,7.54,2.97,2.92
+Horizon FI Fund 84,FND0084,LU3976857055,FI,APAC,VALUE,USD,US,4654.48,126.68,0.66,-4.42,1.85,-1.76,19.58,0.36,-17.14,-74.07%,0.72,31.53,2022,Article 8,3,7.93,3.98,0.00
+Horizon Mixed Fund 85,FND0085,LU8994618307,Mixed,Global,Growth,GBP,Cayman,164.29,84.19,0.29,14.12%,11.06%,6.82,17.50,0.32,-3.67,-108.96,-1.79,42.00,2006,Article 8,★★★,10.35,2.86,1.92
+Horizon FI Fund 86,FND0086,LU4310917079,FI,Emerging Markets,Aggressive,GBP,France,183.57,33.09,0.18,11.17,11.19,9.01,6.75,0.54,-21.10,28.18,-1.26%,6.54,2012,Article 8,4 stars,5.99,11.87%,1.92
+Horizon fixed-income Fund 87,FND0087,LU7061828939,fixed-income,United States,VALUE,EUR,Cayman,264.58,88.72,0.22,9.09,4.97,8.26,15.45,0.39,-23.33,-357.84,5.37,77.06,2000,Art 9,1,11.48,4.76,2.65
+Horizon Equity Fund 88,FND0088,,Equity,APAC,Value,JPY,Luxembourg,1747.06,25.68,0.50,-6.65,14.48,8.54,9.48,,-30.21%,-112.89,3.81,43.04%,2003,Article 6,4,5.31,10.26,2.20
+Horizon FI Fund 89,FND0089,LU8745619201,FI,US,Value,GBP,France,110.95,78.04,0.20,24.44,20.60,9.18%,14.25,0.53,-22.58,135.43,-4.77,5.65,2016,Art.8,3,0.20,11.22,0.67
+Horizon Alternatives Fund 90,FND0090,LU9748140576,Alternatives,United States,growth,EUR,US,5795.26,137.52,0.34,-5.09,5.41,-8.91,11.33,0.64,-23.63,26.54,0.28%,13.52,1998,Article 9,2,8.25,14.41,2.11
+Horizon Equity Fund 91,FND0091,,Equity,europe,Income,EUR ,Luxembourg,284.37,34.11,0.53%,12.96,-2.13%,12.36,7.90,0.31,-23.91,115.43,-1.74,40.01,2004,Article 9,4 stars,1.61%,12.75,3.20
+Horizon Alternatives Fund 92,FND0092,LU8143655710,Alternatives,europe,Aggressive,EUR,IE,155.23,66.20,0.36,13.88,-0.98,11.38,16.96,0.84,-21.64,-639.26,6.39,41.61,2006,Art 9,3,10.51,6.45,1.07
+Horizon Alternatives Fund 93,FND0093,,Alternatives,EM,Growth,usd,Ireland,281.03,57.94,0.13,25.21,12.48,12.78,24.94,-0.31,-19.79,-434.41%,-4.37,15.06,2011,Article 9,1,3.31,9.11,4.09
+Horizon equity Fund 94,FND0094,LU6022849117,equity,US,Blend,JPY,Ireland,665.39,41.79%,0.35,6.25,6.13,9.63,6.74,0.83,-2.00,-159.72,0.74,76.12,2018,N/A,4 stars,2.64,9.13,3.97%
+Horizon Money Market Fund 95,FND0095,LU3879669018,Money Market,Emerging Markets,Growth,GBP,Ireland,3748.59,78.17,0.37,0.70,7.67,4.73,,0.89,-5.43,96.82,-3.35,15.37,1998,Article 9,4 stars,10.58,9.47,1.51
+Horizon Fixed Income Fund 96,FND0096,LU2832000825,Fixed Income,APAC,Growth,USD,IE,162.75,30.17,0.37,19.91,-11.34,25.71,13.83,1.40,-28.06,178.25,0.52,62.02,2004,Art 9,1,2.80%,7.79,1.50
+Horizon equity Fund 97,FND0097,LU5127931130,equity,europe,Growth,EUR ,Luxembourg,709.28%,20.00,0.64,20.73%,-0.39,3.59,3.93,0.45,-15.24,116.43%,1.60,99.10,1998,Article 9,5,1.69,9.50,4.32
+Horizon Equity Fund 98,FND0098,LU9468798546,Equity,US,VALUE,USD,Ireland,701.54,80.51,0.29%,36.38%,-5.33,8.33,17.42%,-0.01,-12.73,511.97,3.15%,25.34,2001,article 6,n/a,0.20,9.97%,1.91
+Horizon FI Fund 99,FND0099,LU2315632021,FI,Asia Pacific,VALUE,EUR ,France,185.31,83.84,0.21,14.72,-0.53%,3.26,,0.51,-8.98,-627.29,-3.73,106.90,2003,Art 9,n/a,14.19,5.02,0.97
+Horizon fixed-income Fund 100,FND0100,LU2399463834,fixed-income,US,VALUE,EUR ,luxembourg,171.46,101.07,0.17,,4.34,13.05,6.45,-0.20,-15.63,-404.46,4.29,35.36,2020,Article 6,4 stars,4.87,13.59,0.00
+Horizon fixed-income Fund 101,FND0101,LU8269860855,fixed-income,United States,Income,EUR,UK,2676.37%,34.30,0.19,13.16%,7.54,7.80,14.87,0.42,-2.54,241.99,-4.63,38.50,2016,,2,8.95%,6.66,6.21
+Horizon Alternatives Fund 102,FND0102,LU1111572583,Alternatives,europe,Blend,EUR,IE,1688.79,38.05,0.48,-3.21,4.25,11.38,1.00,1.26,-15.26,-209.61%,-5.23,57.28,2007,N/A,3,7.10,11.47,4.70
+Horizon Money Market Fund 103,FND0103,LU5093099320,Money Market,US,Aggressive,EUR,Luxembourg,613.02,23.09,0.38,16.80%,9.59,10.24,20.30%,0.61,-18.69,730.48,-2.88%,23.64,2023,article 6,4,5.74,4.34,3.88
+Horizon equity Fund 104,FND0104,,equity,Emerging Markets,Blend,EUR,US,1530.79,77.45,0.83,13.96,-5.34,2.19,14.28,0.50,-14.95,-283.49,-4.45,50.94,2019,Art 9,1,5.50,5.07,2.46
+Horizon Alternatives Fund 105,FND0105,LU8684224666,Alternatives,APAC,Blend,GBP,UK,1033.56,63.43,0.14,11.42,-7.80,16.85,,0.58,-19.15,55.69,-3.17,14.52,2022,Art.8,5,6.54,6.85,1.29
+Horizon equity Fund 106,FND0106,LU9968263028,equity,Emerging Markets,Income,EUR,US,1245.76,130.52,0.36,12.47,1.12,5.73,11.77%,0.96,-17.36,112.05,1.11,134.61,2013,article 6,,9.66,9.72,2.11
+Horizon Fixed Income Fund 107,FND0107,LU3640193616,Fixed Income,United States,Aggressive,usd,France,7128.12%,85.73,0.29,-4.01,5.74,-1.00,23.99,-0.12,-10.69,-26.92,-1.52,26.23,2019,Article 6,3,13.32,4.15,0.00
+Horizon Money Market Fund 108,FND0108,LU5059391306,Money Market,Emerging Markets,Income,GBP,luxembourg,115.03%,63.68,0.23,7.54,14.38,-6.55,8.31,0.68,-15.45,340.49,7.56,24.83,2000,article 6,4 stars,8.89,10.12,1.87
+Horizon equity Fund 109,FND0109,LU6220743015,equity,Global,Blend,EUR,France,790.01,67.63,0.14,20.47%,9.80,17.22,12.86,0.07,-30.21,211.27,0.86%,19.21,2004,N/A,1,1.67,9.93,3.39
+Horizon equity Fund 110,FND0110,,equity,APAC,VALUE,GBP,Cayman,966.70,74.16,0.46,13.98,8.15%,12.01,24.08,0.17,-27.01,-114.07,1.23,11.69,2019,article 6,2,1.33,1.55%,2.92
+Horizon Alternatives Fund 111,FND0111,LU1145129031,Alternatives,Asia Pacific,Income,EUR ,Ireland,4786.88,33.44,0.15,5.36,14.69,12.31,14.50,0.70,-15.63,-67.13,3.55,57.02,2020,Article 8,★★★,0.20,6.62,1.13
+Horizon FI Fund 112,FND0112,LU6700309570,FI,Asia Pacific,Growth,JPY,US,1484.18,57.72,0.24,2.62,2.39,4.01,5.22,0.23,-19.38,549.69,3.13,16.24,2019,Article 8,4,5.99,4.80,5.20
+Horizon Fixed Income Fund 113,FND0113,LU3465369751,Fixed Income,europe,growth,USD,US,1095.23,32.25,0.10,8.19,1.65,12.85%,5.66,0.73,-43.10,-182.45,-2.96,23.30,2017,Article 8,3,5.34,3.15,0.47
+Horizon FI Fund 114,FND0114,LU1427720023,FI,APAC,Blend,JPY,Ireland,,32.10,0.13,8.92,7.15,9.54,20.57,0.23,-22.47,430.53,5.54,37.02,2013,article 6,★★★,5.37,10.00,9.40
+Horizon Alternatives Fund 115,FND0115,LU1898461365,Alternatives,United States,VALUE,usd,luxembourg,2502.87,36.65,0.32%,12.08,15.91,-2.29,23.69,-0.32,-27.77,302.20,1.16,56.33,2017,,1,13.19,5.61%,6.81
+Horizon Mixed Fund 116,FND0116,LU4268464150,Mixed,Emerging Markets,growth,JPY,US,,64.52,0.43,-1.17,,15.08,23.98,0.70,-17.49,332.66,4.05,26.24,2007,Article 9,5,10.80,6.58,5.82
+Horizon Mixed Fund 117,FND0117,LU7163489010,Mixed,United States,Growth,usd,UK,2265.51,25.08,0.55,3.46,-3.13,2.88,12.29,0.36,-17.56,-165.57,-1.23%,27.65,1999,Article 6,2,6.07,4.06,6.09
+Horizon FI Fund 118,FND0118,LU2972233717,FI,APAC,growth,EUR,Luxembourg,,62.83,0.51,14.21,,2.39,15.68,0.12%,-17.04,-29.77,-3.13,10.12,2018,Article 8,4 stars,6.34,7.17,2.48
+Horizon equity Fund 119,FND0119,LU1074686453,equity,Emerging Markets,growth,GBP,luxembourg,1071.37,75.08,0.14%,-1.00,16.20,14.43%,,,-16.03%,28.88,1.72,41.44,2008,N/A,4,7.11%,3.31,3.05
+Horizon Equity Fund 120,FND0120,LU5435391396,Equity,EM,Aggressive,usd,Luxembourg,375.64%,66.04,0.48,15.16,-0.74,1.86,10.89,0.99,-26.68,269.61,2.43,28.53,2004,article 6,5,5.36%,4.55,1.11
+Horizon Alternatives Fund 121,FND0121,LU6499696221,Alternatives,United States,growth,EUR ,Cayman,354.94,34.38,0.19,9.64,-1.51,-6.69,11.57,-0.30,-17.31,530.52%,-0.57,89.59,1998,Article 9,4 stars,3.43,14.96,4.40
+Horizon equity Fund 122,FND0122,LU1036787968,equity,US,Aggressive,EUR ,luxembourg,6230.14,42.30%,0.58,22.66,11.19,7.81,7.21,0.27,-18.13,331.08,-2.01,90.73,2008,Article 8,n/a,1.85,12.66,4.70
+Horizon Alternatives Fund 123,FND0123,LU6055332477,Alternatives,US,growth,EUR,France,1037.19,92.42,0.63,15.63,-2.31,1.90,10.29,0.79%,-4.82,18.21,3.70,20.13,2009,Art.8,★★★,0.20,6.44,4.62
+Horizon equity Fund 124,FND0124,LU1046592485,equity,EM,VALUE,usd,IE,286.90,72.82,0.18,21.93,,9.50%,4.09,0.50,-15.26,639.72,-0.84,53.05,2000,N/A,★★★,2.35,1.27,5.08
+Horizon fixed-income Fund 125,FND0125,LU4332612792,fixed-income,Europe,growth,JPY,UK,512.81,53.19,0.43,16.23,12.88,11.75,17.84,0.74,-15.50,-251.61,-5.36,12.24,2002,Art.8,★★★,6.55,3.65,5.37
+Horizon equity Fund 126,FND0126,LU1596902585,equity,Global,VALUE,USD,Luxembourg,1299.49%,21.28,0.55,6.63,21.45,11.80,15.41%,1.38,-19.70,-92.64,-0.42,16.84,2015.0,Article 8,3,5.74,3.35,2.34
+Horizon Mixed Fund 127,FND0127,LU4372307922,Mixed,Emerging Markets,Income,usd,luxembourg,48.30,111.62,0.24,25.42,-4.11,9.29,10.97,1.39,-5.28,342.78,-1.87,58.76%,1999,Article 6,,6.88,10.74,3.00
+Horizon fixed-income Fund 128,FND0128,LU3006739264,fixed-income,EM,Growth,EUR ,France,574.95,37.76,0.24,5.24,16.26,14.69,20.99%,1.41,-8.24,197.72,-2.25,155.69,2021,Art.8,★★★,4.73,10.49,0.88
+Horizon Alternatives Fund 129,FND0129,LU6570752592,Alternatives,US,Growth,usd,Luxembourg,562.71,75.25,0.42,14.02,-1.57,10.65,7.64,0.60,-15.72,368.94,-4.46,45.12,2016,Art 9,2,0.20,10.67,2.59
+Horizon Mixed Fund 130,FND0130,LU2766397991,Mixed,europe,Value,EUR ,Cayman,705.01,63.50,0.49,10.18,-5.11,-2.81,14.68,0.40,-13.66,,6.20,31.46,2019,N/A,5,5.14,10.64,0.00
+Horizon Money Market Fund 131,FND0131,LU7060068702,Money Market,Emerging Markets,Income,EUR ,Ireland,240.27,47.06,0.52,3.32,3.98,20.46,12.32,0.86,-21.66,350.82,-2.77,29.67,2012,article 6,1,0.20,16.34,4.79
+Horizon FI Fund 132,FND0132,LU2704407423,FI,Europe,Value,EUR ,Ireland,976.83%,50.75,0.11,6.88,9.33,5.77,,1.05,-23.42,-127.06,-0.81,6.69,2012,Article 8,5,5.18%,1.00,0.83
+Horizon Money Market Fund 133,FND0133,LU8052433685,Money Market,Asia Pacific,Blend,GBP,US,1272.67,40.41,0.14,,,11.38,14.80,0.19,-13.13%,197.12,-1.46,24.38%,2012,Art.8,★★★,0.20,1.02,3.78
+Horizon Equity Fund 134,FND0134,LU4363217471,Equity,Global,growth,usd,US,,91.15,0.42,,,-5.42,9.56,0.16,-12.95,-121.62,0.70,9.08,2009,Art.8,1,11.99,16.20%,4.98
+Horizon Money Market Fund 135,FND0135,LU8702186916,Money Market,United States,growth,JPY,IE,2717.12,104.31,1.03,17.82%,10.96,14.19,26.55,0.13,-19.26,131.95,-3.35,81.09,2008,article 6,4,7.28%,6.45,5.25
+Horizon Alternatives Fund 136,FND0136,LU4838479572,Alternatives,Europe,Growth,JPY,Cayman,180.09,121.08,0.16,1.39,19.23,5.10,4.46%,0.91,-8.47,158.59,1.54,9.09,2008,,n/a,0.20,11.84,0.66
+Horizon FI Fund 137,FND0137,LU4923714998,FI,europe,VALUE,USD,US,403.22,73.24,0.68,9.94,24.39,5.34,3.46,0.03,-9.42,-10.42,2.23,13.51,2013,Art 9,3,12.38,6.20,1.50
+Horizon equity Fund 138,FND0138,LU4879343409,equity,Europe,Growth,GBP,UK,76.94,49.50,0.11,-1.19%,6.02,16.82,11.01,1.21,-3.22,81.90,-0.36,47.91,2010,Article 9,4,0.20,2.45,0.00
+Horizon FI Fund 139,FND0139,,FI,europe,Aggressive,EUR,Luxembourg,83.15,18.07,0.11,2.92,17.17,10.93,18.89,0.70,-14.85,-54.47,1.19,43.93,2012,Article 9,★★★,13.60%,9.82,3.38
+Horizon Alternatives Fund 140,FND0140,LU3693037791,Alternatives,Global,Blend,usd,US,971.51,114.87,0.33,3.44,14.17,19.48,14.54,0.47,-20.78%,492.64,4.51%,58.89,1999,Article 6,4 stars,0.20,2.22,3.84
+Horizon FI Fund 141,FND0141,LU7936890421,FI,United States,Value,EUR ,Luxembourg,1266.05,97.91,0.62,21.54,4.41,3.37,16.21,0.02,-9.55,-7.01,-2.32,5.00%,2003,Art.8,2,11.14,7.04,1.55
+Horizon equity Fund 142,FND0142,LU9443115775,equity,Global,Income,usd,IE,1684.48,24.53,0.27,10.54%,12.41,14.15,,,-23.05,-61.21,-2.06,20.00,2009,Article 6,5,2.03,12.82,4.54%
+Horizon Mixed Fund 143,FND0143,LU8854928798,Mixed,EM,Growth,USD,UK,456.17,55.23,0.52%,0.78,0.87,1.97,13.89,0.51,-7.99%,100.79,-0.22,42.50,2003,N/A,5,5.48,9.28,5.02
+Horizon Equity Fund 144,FND0144,LU2082315184,Equity,Asia Pacific,Value,JPY,luxembourg,548.63,103.27,0.10%,-4.17%,0.84,-3.55,14.46,0.44,-19.75,69.77,3.20,28.14,2014,article 6,4,8.78,5.19,0.00
+Horizon Money Market Fund 145,FND0145,LU1071577154,Money Market,Europe,VALUE,EUR ,UK,216.70,30.97%,0.30,23.36%,-10.82,2.87,5.21,,-25.35,-488.72,-1.20,48.92,2001,Article 8,4 stars,2.23,9.60,0.00
+Horizon Equity Fund 146,FND0146,,Equity,US,Income,EUR ,luxembourg,232.48,157.75,0.36,4.51,7.38,-2.38,5.58,0.30,-20.29,-122.91,-2.97,43.45,2003,Article 9,4,2.53%,16.26,0.00
+Horizon Fixed Income Fund 147,FND0147,LU3999913151,Fixed Income,Asia Pacific,growth,usd,Cayman,487.81,66.96,0.37,-7.06,8.27%,2.11,17.06,0.57,-22.61,-297.97,0.50,38.33,2008,,,0.26,6.35%,6.08
+Horizon fixed-income Fund 148,FND0148,LU6465615147,fixed-income,europe,Growth,JPY,Cayman,328.32,76.98,0.81%,14.58,5.98,-5.07,6.70%,-0.19,-5.78,340.26,0.22%,103.96,2004,Art.8,1,6.18,8.29,4.10
+Horizon Mixed Fund 149,FND0149,LU9044710524,Mixed,Europe,Blend,usd,Luxembourg,86.88%,52.82,0.50,2.39,16.83,-7.56,14.38%,-0.31,-22.94%,-62.76,1.49,101.32,2015.0,Article 6,4 stars,9.23,5.25,3.37
+Horizon fixed-income Fund 150,FND0150,,fixed-income,Asia Pacific,Growth,GBP,Cayman,,36.01,0.44,14.86%,-1.58,1.67,23.73,1.44,-23.70,193.93,-1.07,92.85,2003,Article 9,4,2.31,5.28,3.32
+Horizon Fixed Income Fund 151,FND0151,LU8263281927,Fixed Income,APAC,growth,usd,Luxembourg,4231.58,29.70,0.64,16.46,3.32,7.10,1.42,0.67,-23.31,-222.96%,-2.66,26.88,2003,Article 8,4,7.09,12.53,3.28
+Horizon Mixed Fund 152,FND0152,LU4634011740,Mixed,Global,growth,USD,UK,203.69,58.60,0.24,12.51,13.35,13.19,19.00,0.98,-12.98,,3.63,57.88,2000,N/A,3,10.00,9.22,3.73
+Horizon equity Fund 153,FND0153,LU4863085565,equity,United States,Blend,JPY,luxembourg,1559.81,12.47,0.10,21.96,17.63,2.37%,14.08,0.80,-8.42,64.86,-2.08,67.02,2000,N/A,4,15.51,8.19,3.31
+Horizon equity Fund 154,FND0154,LU8399601160,equity,Asia Pacific,Blend,JPY,Ireland,3641.99,63.53%,0.17,17.61,1.28,7.22,10.69,0.61,-22.63,531.75,8.28,44.55,2011,article 6,5,2.80,6.04,5.33
+Horizon Mixed Fund 155,FND0155,LU3376408950,Mixed,APAC,Aggressive,USD,IE,689.62,67.88,0.26,19.31,1.25,16.01,10.71,,-20.58%,-115.85,1.83,217.99,2001,Art.8,5,0.20,8.34,4.25
+Horizon equity Fund 156,FND0156,,equity,US,Growth,GBP,Luxembourg,,26.73,0.07,9.53,10.57,10.28,14.56,0.73,-12.42,-402.80%,-5.63,76.77,2021,Art 9,4 stars,5.10,6.29,2.89
+Horizon Equity Fund 157,FND0157,LU7537052494,Equity,EM,growth,GBP,IE,719.72,26.20,0.76,-19.15,16.69,15.15,14.30,0.94,-30.92,-75.18,-4.73,71.53,2010,Art 9,n/a,5.15,9.44,2.29
+Horizon Money Market Fund 158,FND0158,LU1404610599,Money Market,US,Growth,USD,IE,996.02%,51.22,0.34,,-9.47,10.25,12.24,0.82,-10.57,227.28,-2.51,46.74,1998,Article 9,1,0.60,12.29,5.26
+Horizon fixed-income Fund 159,FND0159,LU1886456495,fixed-income,Emerging Markets,Aggressive,usd,UK,90.98,51.17,0.25,-8.82%,11.38,5.81%,16.80,1.13,-22.83,-144.56,0.05,47.14,2020,Art 9,5,5.71,12.99,6.99
+Horizon equity Fund 160,FND0160,,equity,US,Value,EUR ,luxembourg,24.44,32.15,0.13,,10.77,-0.14,,0.90,-15.91,93.53,0.35,30.93,2015,Art.8,4 stars,7.12,10.66,6.35
+Horizon Alternatives Fund 161,FND0161,LU9693684182,Alternatives,EM,Value,EUR ,luxembourg,3663.19,28.47,0.20,10.49,3.99,-4.61,,,-10.70,-168.25,1.13,46.04,2001,Art.8,4,5.99,7.61,0.00
+Horizon Mixed Fund 162,FND0162,LU6035296891,Mixed,Asia Pacific,Value,EUR,Cayman,351.54,77.73,0.19,16.77,,2.57,9.32,0.27%,-10.54,,-0.56,6.08,1998,,1,5.45,7.87%,0.02
+Horizon Fixed Income Fund 163,FND0163,LU4666787215,Fixed Income,EM,Value,usd,US,3235.83,60.52,0.37,14.24,-5.16,-5.64,7.38,1.38%,-17.65,-239.49,3.48,12.48,2018,Article 6,3,6.03,8.57,6.44
+Horizon fixed-income Fund 164,FND0164,LU1532488375,fixed-income,APAC,Blend,JPY,luxembourg,971.85,82.23%,0.06,11.52,4.44,19.82,14.94,0.55,-5.97,124.03,-3.57%,27.54,2016,article 6,2,12.20%,12.60,3.59
+Horizon Equity Fund 165,FND0165,LU6404919362,Equity,europe,Income,EUR ,UK,233.89,87.65,0.13,4.03,13.09,12.38,20.46%,-0.36%,-6.52%,-121.59,-2.51,8.63%,1999,Art.8,1,7.66,11.81,7.77
+Horizon fixed-income Fund 166,FND0166,LU5056899122,fixed-income,Asia Pacific,VALUE,JPY,Cayman,374.59%,86.49,0.43,16.54,6.13,11.55,5.36,0.48,-15.13%,94.58,-0.32,33.16,01/2018,Article 9,2,6.09,1.35,2.43
+Horizon fixed-income Fund 167,FND0167,LU7101255553,fixed-income,United States,growth,JPY,Cayman,7822.12,46.76,0.61,19.36,7.19,11.55,9.71,0.19,-24.10,-104.33,0.87,120.50,1998,Art 9,5,8.27,4.65,4.78
+Horizon Alternatives Fund 168,FND0168,LU2045558811,Alternatives,Europe,Aggressive,EUR ,France,1286.64,57.00,0.22,-9.98,17.66,18.32,5.79,1.00,-25.77,192.21,-5.50,16.63,2015,Art 9,4,5.23,6.74,7.57
+Horizon Alternatives Fund 169,FND0169,LU1605298753,Alternatives,Asia Pacific,Blend,usd,Cayman,89.53,58.05%,0.69,26.44,-6.35,13.68,17.87,0.61,-17.69,12.13,-2.09,7.50%,2001,article 6,2,8.78,9.62,2.69
+Horizon Equity Fund 170,FND0170,,Equity,Emerging Markets,Aggressive,GBP,IE,644.87,14.22,0.26,3.61,15.08,4.96,,1.40,-12.82,22.45,0.79,40.14%,2018,N/A,2,9.61,1.00,3.55
+Horizon fixed-income Fund 171,FND0171,LU5865874060,fixed-income,EM,VALUE,usd,Ireland,482.46,20.95,0.23,5.33,12.99,0.99,11.73,,-2.98,-31.33,0.25,27.76,2006,Art.8,4 stars,9.13,6.33,5.99
+Horizon fixed-income Fund 172,FND0172,LU5385405068,fixed-income,Global,growth,EUR ,luxembourg,,99.42,0.24,27.81,,2.02,12.92,-0.13,-15.53,-278.71,-4.37,13.85,2010,N/A,1,9.20,9.42,5.31%
+Horizon Fixed Income Fund 173,FND0173,LU7571039931,Fixed Income,US,Income,JPY,Luxembourg,2437.61,54.55,0.37%,44.89,0.41,21.47%,4.77,1.25,-6.79,-160.21,-5.04,27.11,2010,Art.8,4 stars,6.00,16.54,2.70
+Horizon equity Fund 174,FND0174,LU7419826687,equity,EM,Aggressive,GBP,UK,988.41,24.10,0.33%,9.68,2.03,6.43,18.56,,-12.00%,-374.71%,-4.36,39.59,2016,Art.8,4,8.76,9.88,1.81
+Horizon FI Fund 175,FND0175,LU9088904350,FI,Emerging Markets,VALUE,EUR ,Cayman,125.06,13.16,0.71,16.84,,8.07,5.90,1.11,-17.81,316.63,0.69,101.52,2019,N/A,2,5.78,7.25,5.40%
+Horizon Money Market Fund 176,FND0176,LU7324296473,Money Market,Asia Pacific,VALUE,usd,Ireland,,41.02,0.24,-4.41,-4.17,3.79%,1.08,1.24%,-31.59,183.20,-1.46,197.08,2013,article 6,,3.55,7.07,2.58
+Horizon Money Market Fund 177,FND0177,LU4522361188,Money Market,EM,Aggressive,GBP,IE,175.00,166.55,0.23,15.82,3.15,-1.40,16.57,1.47,-12.18%,-347.13,-3.06%,38.66,2022,,3,4.72,10.74,2.16%
+Horizon FI Fund 178,FND0178,LU4654362094,FI,US,Growth,EUR,Ireland,308.86,82.46,0.22,31.29,18.07,13.47,5.22,0.60,-7.88%,2.26,0.61%,5.00,2009,N/A,4,0.53%,10.73,7.43
+Horizon Mixed Fund 179,FND0179,LU9730203717,Mixed,EM,Aggressive,GBP,Cayman,1655.23,87.88,0.33,16.47,0.17%,9.86,20.82%,0.18,-29.03,,5.06,164.95,2000,N/A,4,5.00,1.95,5.41
+Horizon FI Fund 180,FND0180,LU5182887314,FI,Global,Value,EUR,US,469.88,37.85,0.31,21.07,11.15,9.05,20.62,,-18.48,-143.56%,6.09%,65.51,2019,Art 9,1,10.70,4.09%,0.74
+Horizon FI Fund 181,FND0181,LU9586836664,FI,Asia Pacific,growth,GBP,Cayman,500.47,118.67,0.10,16.23,13.55%,14.04,14.19,0.38,-15.44,-439.08,4.13,15.71%,1998,Art.8,3,15.92,12.56,3.08
+Horizon fixed-income Fund 182,FND0182,LU3247210785,fixed-income,US,Growth,GBP,UK,,87.71%,0.14,12.84,10.01,9.01,10.05,0.39,-6.22,,-0.86,12.21,2009,article 6,n/a,5.14,4.41,7.45
+Horizon FI Fund 183,FND0183,LU5205126682,FI,Europe,Income,EUR,France,559.96,27.37,0.28,14.67,-0.78,1.13,6.53,0.60,-2.17,130.37,-1.81,67.21,2019,Article 8,5,8.72%,9.49,4.42
+Horizon Equity Fund 184,FND0184,LU9385731009,Equity,Asia Pacific,Income,EUR,US,2956.97,80.08,0.26,29.41,3.06,6.50,,1.16,-21.63,554.61,4.96,55.35,2015.0,Article 9,1,4.26,5.38,7.12
+Horizon Alternatives Fund 185,FND0185,LU3362119090,Alternatives,US,Aggressive,JPY,Cayman,93.73,57.67,0.13,4.29,7.06,7.25,13.73,0.58,-25.31,-319.76,-3.82%,110.37,2007,Article 8,4,8.45,8.43,0.00
+Horizon fixed-income Fund 186,FND0186,LU7659769628,fixed-income,APAC,Aggressive,EUR,Ireland,184.54%,74.74,0.30,-1.45,8.91,2.88,6.16,,-37.69,-259.83,7.06,29.76,2001,Article 6,★★★,4.26,17.97%,5.14%
+Horizon fixed-income Fund 187,FND0187,LU8572699866,fixed-income,Europe,growth,EUR,Ireland,,60.97,0.21,20.33,5.95,6.10,16.48,0.82,-12.52,148.36,-0.73,66.08,2013,Art 9,4,3.30%,5.85%,3.49
+Horizon fixed-income Fund 188,FND0188,LU7525048671,fixed-income,Emerging Markets,Value,EUR ,luxembourg,125.09%,42.86,0.65,24.78,14.69,3.31,18.67,0.42,-20.24,-106.56,1.33,53.54,1999,Article 6,,6.67,1.00,7.74
+Horizon Money Market Fund 189,FND0189,LU1309038441,Money Market,EM,growth,usd,Ireland,2527.05,56.59,0.97,12.30%,12.74,2.39,6.96,0.50,-14.31,-264.98%,-6.32,98.52,2014,Art 9,★★★,0.20%,1.10,2.17
+Horizon Equity Fund 190,FND0190,LU9133455285,Equity,US,Aggressive,EUR,UK,6.24,35.46,0.14,16.90,-6.88,-4.04,15.39%,0.67,-11.71,-46.78,7.08,53.70%,2012,N/A,,8.31,9.84,4.27
+Horizon fixed-income Fund 191,FND0191,LU9855158597,fixed-income,Emerging Markets,Blend,EUR,US,948.99,84.58,0.52,,5.10,6.38,5.92,-0.15%,-11.36,431.71,1.40,33.60%,2006,Article 6,2,3.35,8.65,1.97
+Horizon Mixed Fund 192,FND0192,LU9236194922,Mixed,US,Value,usd,Luxembourg,643.68%,134.34,0.10,31.00,-0.20,5.75,17.33,0.97,-26.17,129.58,4.21,38.20,2002,article 6,3,1.58,14.54,1.13
+Horizon fixed-income Fund 193,FND0193,LU1372311353,fixed-income,APAC,Growth,EUR ,Cayman,1103.84%,92.62,0.63,10.37,2.23,-1.77,21.99,1.01,-14.46,104.10,-3.76%,59.83,2016,Article 9,4 stars,8.15,13.21,3.05
+Horizon Mixed Fund 194,FND0194,LU8831710461,Mixed,United States,Growth,EUR,IE,429.87,49.79,0.26,6.84,-20.65,-0.14,16.70,,-10.11,-16.64,3.27,9.51,2014,Article 8,3,6.95%,7.62,6.56
+Horizon Equity Fund 195,FND0195,LU4548043753,Equity,United States,Aggressive,EUR ,Luxembourg,1315.69,29.79,0.14,30.77,6.39,16.72,18.72,0.64,-22.77,-416.26,6.09,42.77,2020,Article 6,3,4.68,5.21,3.13%
+Horizon Equity Fund 196,FND0196,LU1905327087,Equity,United States,Aggressive,EUR,Luxembourg,841.20,29.47,0.43%,29.27,20.60%,9.02,6.57,0.59,-27.76,278.13,0.75,79.25,2002,N/A,3,9.21%,6.72,0.00
+Horizon fixed-income Fund 197,FND0197,LU9545229046,fixed-income,Asia Pacific,Growth,USD,IE,498.29,40.86,0.34,8.38,4.06,-7.80,18.90,-0.21,-18.63,60.25,1.29%,16.11%,2018,Article 9,5,1.14,10.82,3.59%
+Horizon Alternatives Fund 198,FND0198,LU4571118948,Alternatives,Emerging Markets,growth,GBP,Luxembourg,20.92,62.13,0.55,4.46,10.51,10.95,16.21,1.27,-32.11,49.93,1.24,34.94,2020,Art.8,4 stars,5.10,8.10,0.00
+Horizon Fixed Income Fund 199,FND0199,,Fixed Income,APAC,VALUE,USD,Ireland,467.70,43.52,0.35,22.69,12.00,12.11,5.89,1.03,-9.26,420.78,0.47,39.21,2018,Art.8,★★★,2.44,3.58,9.04
+Horizon Money Market Fund 200,FND0200,LU8714864275,Money Market,United States,Growth,JPY,France,2330.43,78.08,0.20,26.69,-4.31,-0.04,16.41,0.18,-11.65,159.81,-0.57,26.82%,2003,Article 9,3,1.10,4.79,4.28
+Horizon Money Market Fund 201,FND0201,LU6626737687,Money Market,EM,Growth,EUR,Luxembourg,329.56,24.73,0.37%,9.09%,4.09,12.39,12.98,0.46,-25.46,13.99,2.43,56.17,2016,Article 8,4 stars,8.40,3.76%,2.15%
+Horizon equity Fund 202,FND0202,LU9003838814,equity,Asia Pacific,Growth,EUR,IE,2755.33,21.28,0.39,17.53,12.18,7.48%,8.53,-0.26,-2.00,498.34,-0.32,22.38,2001,Art.8,n/a,1.81,6.46,1.39
+Horizon FI Fund 203,FND0203,LU2965723587,FI,Emerging Markets,Income,EUR,US,548.82,72.95,0.55,9.30,10.38,6.59,12.85,0.14,-23.94,-348.57,6.72,15.37,2009,Art.8,n/a,8.12,2.04,5.11
+Horizon Equity Fund 204,,LU3040398013,Equity,Emerging Markets,Aggressive,USD,Cayman,1337.63,44.85,0.22,4.00,3.53,4.15,9.26,0.19,-16.32,-235.63,0.31,17.00,2003,Article 8,,6.54,7.14,2.09
+Horizon FI Fund 205,FND0205,LU4396301101,FI,EM,Growth,EUR ,Ireland,40.52,83.09,0.57,21.30,8.19,11.09,9.74,0.75,-16.63,-89.07,-3.86,5.29,2002,Art 9,★★★,1.66,7.63,3.48
+Horizon Alternatives Fund 206,FND0206,LU2492551280,Alternatives,Global,Value,usd,Ireland,923.02,56.27,0.27,,-4.18,6.67,21.23%,0.96%,-20.35,133.26,-4.36,24.30,2017,Article 8,2,3.62,6.11,0.63
+Horizon FI Fund 207,FND0207,LU5910392032,FI,Emerging Markets,Growth,USD,France,1601.95,78.62,0.71%,5.41,9.50,4.61,,0.60,-10.91,4.58,-4.32%,24.27,2014,Art 9,n/a,3.61,5.46,5.44
+Horizon Equity Fund 208,FND0208,LU7302144004,Equity,United States,Aggressive,USD,Ireland,685.01,64.32,0.47,-12.02,7.91,4.26,13.35,,-7.82,588.23,5.46,156.80,2013,article 6,4 stars,8.71,6.25%,2.02
+Horizon equity Fund 209,FND0209,,equity,EM,VALUE,JPY,UK,234.79,48.75%,0.17,,7.05,2.51,17.61,0.77,-10.43,13.33,1.09,25.61,2000,N/A,n/a,0.20,8.23,7.25
+Horizon fixed-income Fund 210,FND0210,,fixed-income,Emerging Markets,Blend,EUR,IE,119.60%,55.18,0.28,11.84,4.57,11.39,9.30,0.27,-13.17,-756.13%,-4.26,15.14,01/2018,N/A,5,0.20,14.66,0.00
+Horizon Alternatives Fund 211,FND0211,LU8228700001,Alternatives,Global,Growth,usd,Cayman,255.24,82.02,0.34,2.39,21.08,11.08,16.27,0.79,-26.63,118.05,4.78,65.87,2011,Article 6,3,9.08,4.84,4.52
+Horizon Mixed Fund 212,FND0212,LU5031071509,Mixed,United States,Value,USD,Ireland,348.06,19.93,0.86,-7.11,11.90,-1.24,20.47,1.19,-6.48,276.19,-1.13,24.11,2003,Art 9,4,2.86,12.64,3.09
+Horizon FI Fund 213,FND0213,LU4170301658,FI,europe,Growth,EUR,Luxembourg,6481.11,24.66,0.12%,12.06,-5.01,13.58,12.39,,-23.06,55.80,-2.20,90.74,2013,N/A,1,8.22,5.41,0.54
+Horizon equity Fund 214,FND0214,LU9795353382,equity,US,Blend,EUR,Luxembourg,1885.12%,37.30%,0.19,4.25,2.90%,-2.19,10.80,0.92,-16.01,-19.32,10.26,56.45,2022,Article 6,2,0.20,8.70,8.46
+Horizon Money Market Fund 215,FND0215,LU1040592756,Money Market,Global,VALUE,EUR ,Luxembourg,5512.72,53.77,0.39,9.06,17.39%,3.82,20.86,0.38,-23.94,,2.09,64.09,2009,Article 9,4 stars,3.10,6.96,0.41
+Horizon Equity Fund 216,FND0216,LU3786103856,Equity,EM,Income,EUR,IE,465.20,34.96,0.35,14.48,10.70,9.03,19.71,0.73,-22.42,-348.43,-2.59,21.81,2016,Article 8,5,0.20,1.00,3.06
+Horizon Alternatives Fund 217,FND0217,,Alternatives,EM,VALUE,EUR ,IE,451.20,35.45,0.20,3.64,3.36,-7.79,18.11,1.38,-3.05,144.95,-3.30,70.31,2015,Art 9,5,9.98,3.21,3.84
+Horizon FI Fund 218,FND0218,LU6104009774,FI,US,growth,USD,luxembourg,158.57,218.43%,0.38,6.45,0.79,8.42,7.49,0.56,-22.17,229.12,4.01,35.24%,2007,N/A,3,9.35,13.97,5.20
+Horizon fixed-income Fund 219,FND0219,LU2130027785,fixed-income,United States,Blend,GBP,Luxembourg,719.68,91.39,0.21,8.25,13.12,-11.93,24.64,1.08,-16.13,-107.51,-2.81,20.46,2020,N/A,5,7.46,5.31,4.64
+Horizon fixed-income Fund 220,FND0220,LU9482786228,fixed-income,APAC,Blend,usd,UK,15084.25,42.00,0.29,-2.77,3.12,9.70,4.44,,-23.74,-14.67,0.43,22.56,2004,Article 6,4 stars,16.57,6.62,1.49
+Horizon FI Fund 221,FND0221,LU8445518911,FI,APAC,Income,EUR ,Cayman,847.28,57.89,0.18,-15.83%,3.29,-6.67,21.66,0.41,-14.77,249.26,-1.96,115.65%,2022,Article 6,2,0.69,6.86,4.09%
+Horizon Money Market Fund 222,FND0222,LU3467496896,Money Market,United States,Growth,USD,UK,6735.16,34.22%,0.41%,8.58,-5.11,7.11,21.74,-0.04,-20.09,525.75,-3.06,11.86%,2019,Article 8,★★★,3.00,5.17,4.00
+Horizon FI Fund 223,FND0223,LU4650740669,FI,Europe,VALUE,GBP,UK,212.14,42.35,0.26,9.35,13.75,6.06,14.16,0.72,-6.06%,241.15,4.71,51.96,2010,Article 8,4 stars,10.07,8.58,4.93
+Horizon fixed-income Fund 224,FND0224,LU2073009175,fixed-income,europe,growth,EUR,UK,585.54,70.40,0.64,12.63,6.73,-5.72,20.73,-0.20,-8.56,-206.94,3.05,40.39,2008,Article 6,1,3.75,6.44,3.45
+Horizon Fixed Income Fund 225,FND0225,LU9086944999,Fixed Income,EM,Growth,EUR,France,453.13%,47.65,0.32,37.78,10.86,11.98,5.67,1.16,-17.69,318.85,-2.25,35.67,2001,N/A,5,0.20,7.08,0.00
+Horizon FI Fund 226,FND0226,LU9052879214,FI,United States,Value,JPY,luxembourg,583.19,70.36,0.32,-6.75,0.29%,12.03,21.43,1.45,-23.70,438.38,-0.73,55.62%,1999,N/A,5,11.17%,7.32,3.20
+Horizon fixed-income Fund 227,FND0227,LU6973322179,fixed-income,Emerging Markets,growth,USD,France,890.94%,34.45,0.49,4.45%,3.25,7.81,14.48,0.53,-11.50,372.77,-2.28,40.19,2002,Article 9,2,5.51,8.26,2.53
+Horizon Fixed Income Fund 228,FND0228,,Fixed Income,Global,Growth,EUR,luxembourg,6237.98,58.23,0.42,8.44,,5.85,13.95,-0.15,-13.48,102.65,-4.10,30.59,2020,article 6,,9.13,8.83,4.74
+Horizon Money Market Fund 229,FND0229,LU6447920392,Money Market,APAC,Growth,EUR ,luxembourg,1166.04,112.75,0.27,16.26,12.08,15.23,11.82%,,-18.33,-72.42,3.26,49.05%,2020,N/A,5,11.37,9.63,1.01
+Horizon Money Market Fund 230,FND0230,LU1210487006,Money Market,US,Growth,JPY,IE,,100.80,0.38,5.71,9.37,4.97,6.46,0.16%,-27.29,-50.52,-2.58,5.00,2012,article 6,4,7.62,8.44,5.79
+Horizon Money Market Fund 231,FND0231,LU6695509781,Money Market,europe,Value,EUR ,Ireland,267.56,108.76,0.40,7.25,5.61,-3.18%,13.07,0.47,-23.03,31.75,0.68,66.91%,2012,Art.8,4 stars,5.89,9.10,2.85
+Horizon Equity Fund 232,FND0232,,Equity,US,growth,EUR ,Ireland,509.26,48.86,0.35,5.62,9.40,5.32,18.49,1.02,-13.96,362.96,-4.71,14.90,2017,article 6,2,4.29,11.05,10.49
+Horizon Fixed Income Fund 233,FND0233,LU4427726813,Fixed Income,Asia Pacific,VALUE,usd,Luxembourg,1006.77,56.27,0.23,11.05,0.75,-6.38,9.97%,0.55%,-22.42,45.08,-2.07,29.57,2001,Art.8,,11.50,5.06,1.36
+Horizon Mixed Fund 234,FND0234,LU4203121176,Mixed,United States,Growth,EUR,Luxembourg,906.31,78.12%,0.37,2.97,0.92,4.26,20.86,0.91%,-3.25,201.02,1.24,25.37,2015.0,article 6,4 stars,4.60,16.20,6.99
+Horizon FI Fund 235,,LU7212785496,FI,United States,growth,EUR,IE,51.94%,77.90,0.08,14.95,-2.20,26.21,11.58,0.94,-9.26,,5.18,15.38,2012,Article 6,4 stars,1.37,3.86%,2.76
+Horizon fixed-income Fund 236,FND0236,LU9389866404,fixed-income,Europe,Aggressive,usd,France,94.55,51.57,0.40,-11.45,9.43,19.32,16.25%,0.85%,-25.47,-55.81,2.18,127.25,2018,Art 9,3,0.20,8.34,4.97
+Horizon Fixed Income Fund 237,FND0237,,Fixed Income,APAC,Growth,EUR,luxembourg,806.99,103.17,0.29,17.04,7.50,17.10,10.46%,1.32,-17.18,164.17,-4.19,59.48,01/2018,Article 8,4 stars,11.03%,11.92,4.18
+Horizon Alternatives Fund 238,FND0238,LU5290348114,Alternatives,US,growth,EUR ,Luxembourg,254.60%,83.84,0.34,24.78,,4.51,19.40,0.18,-21.49,,0.01,92.87%,2013,Article 6,1,8.04,10.37,4.67
+Horizon Equity Fund 239,FND0239,LU2166254191,Equity,europe,Income,USD,Cayman,62.74%,61.35,0.24,5.68,-0.55,17.42,23.95,0.68,-21.68,274.77,1.46,10.09,2010,article 6,1,0.45,13.51,0.00
+Horizon Equity Fund 240,FND0240,,Equity,APAC,Value,usd,France,209.13,41.39,0.18,-3.51,5.65,10.25,14.78,0.61,-28.55,-146.70,0.09,52.25,2005,Article 6,4 stars,4.76,8.44,5.18
+Horizon Mixed Fund 241,FND0241,LU3038487188,Mixed,Emerging Markets,growth,JPY,Luxembourg,163.02,25.06,0.22,6.35,4.01,15.63,,0.84,-18.18%,219.73,-4.05,19.08,2006,Article 8,3,3.83,10.79,0.00
+Horizon FI Fund 242,FND0242,LU4748966112,FI,Europe,Aggressive,usd,UK,88.02,15.36,1.32,8.83,-0.79,7.24%,17.72,0.58,-21.63,166.65,2.06,79.98,2001,Article 9,2,6.93%,2.78,0.00
+Horizon Equity Fund 243,FND0243,LU8186411101,Equity,europe,Income,USD,luxembourg,386.72,22.23,0.37,-11.14,8.42,7.30,20.69,0.38,-10.48,-529.75,-1.00,138.06,2022,Art 9,n/a,4.32,4.56,3.54
+Horizon Equity Fund 244,FND0244,LU9745075068,Equity,US,Value,EUR,IE,129.80,46.69,0.26%,-24.89,2.29,10.28,16.03,0.49,-26.02,,4.44,85.80,1998,Art 9,4,0.20,1.00,3.87
+Horizon Fixed Income Fund 245,FND0245,LU9142837877,Fixed Income,APAC,Aggressive,usd,Luxembourg,463.07,100.13,0.42,10.14%,20.60,7.74,26.31,0.75%,-19.99,-76.10,2.67,15.40,2005,Article 8,,0.79,8.92,0.00
+Horizon Fixed Income Fund 246,FND0246,LU5508131731,Fixed Income,United States,Income,JPY,Cayman,531.20,35.39,0.22,14.64,8.69,6.73,10.84,0.26,-5.67,572.47,3.59,56.52,2009,,,10.82,9.01,0.81
+Horizon FI Fund 247,FND0247,LU3991926616,FI,Emerging Markets,Income,EUR,Cayman,1292.42,90.66,0.68,9.52,3.77,10.87,23.04,0.73,-17.76,194.14,-2.07,32.60,2016,Art 9,4,4.85,4.53,2.39
+Horizon Money Market Fund 248,FND0248,LU7172371657,Money Market,EM,Value,usd,Ireland,693.86,38.93,0.75,18.29,-1.66,7.14,17.10,0.63,-29.04,-42.20,-3.34,11.10,2010,Art.8,n/a,8.40,4.54,2.33
+Horizon Alternatives Fund 249,FND0249,LU4033074092,Alternatives,Asia Pacific,VALUE,JPY,Ireland,319.64,130.61,0.10,5.15,7.67,-0.45,14.18,0.16,-25.21,-180.63,4.43,55.30,2023,Article 6,★★★,6.23,10.11,0.00
+Horizon Money Market Fund 250,FND0250,LU9075133498,Money Market,Global,growth,JPY,US,301.75,147.89,1.02,19.62,14.10,4.60,14.00,0.40,-19.92,-236.09,-3.80,38.82,2005,,3,8.65,10.74,0.00
+Horizon Fixed Income Fund 251,FND0251,LU4147878576,Fixed Income,Asia Pacific,growth,EUR,Ireland,20834.48,62.01%,0.41,10.67,0.49,8.64,21.59,0.87,-19.09,-120.39,2.26,44.60,2020,Article 9,3,13.66,7.69,4.22%
+Horizon Money Market Fund 252,,LU3174342936,Money Market,europe,VALUE,EUR,Ireland,1091.54,25.44,0.14,15.62,3.86,6.95,25.63,0.46,-13.49,55.99,1.91,79.40,2018,Article 6,4,4.50,15.61,0.00
+Horizon fixed-income Fund 253,FND0253,LU1827948899,fixed-income,europe,VALUE,JPY,Ireland,197.53,67.57,0.49,12.79,3.78%,11.19,18.00,0.56,-22.96,164.24%,5.71,25.96,2012,N/A,1,2.43,7.74,6.78%
+Horizon Money Market Fund 254,FND0254,LU7815202842,Money Market,Asia Pacific,Blend,EUR ,France,45.17%,22.42,0.20,-4.71,0.91,-12.61,20.29,-0.13,-15.69,56.16,1.10,37.63,2003,Art.8,1,4.44%,7.78,0.00
+Horizon equity Fund 255,FND0255,LU4048802110,equity,Emerging Markets,growth,USD,Ireland,982.70,55.09,0.45,2.08,-16.70,20.52,10.78,0.36,-4.14,261.53,1.93,15.55,2009,Article 8,4,0.20,5.81,5.09
+Horizon Alternatives Fund 256,FND0256,LU2733010497,Alternatives,Europe,Value,GBP,Cayman,68.67,46.58,0.60,,2.56,-7.25,10.54,0.48,-20.65,-87.91,-4.65,32.23,2013,N/A,5,5.53%,8.01,3.02
+Horizon Fixed Income Fund 257,FND0257,LU5913673842,Fixed Income,Global,growth,EUR ,US,659.61,60.72%,0.19%,34.73,8.78,6.38%,12.58,0.38,-15.00%,175.84,0.06,36.21,2018,Article 9,5,3.20,10.08,2.76
+Horizon equity Fund 258,FND0258,LU6791340569,equity,APAC,Income,GBP,Ireland,,79.36,0.14%,,-1.35,9.91%,18.50%,1.05,-16.25,35.23,-0.99,5.06,2022,Art 9,,11.51,8.46,3.09
+Horizon FI Fund 259,FND0259,LU4432218388,FI,Asia Pacific,Value,EUR ,France,324.97%,29.69,0.63,26.32,6.91,19.19%,17.10,0.14,-26.46,-229.62,-3.24,11.84,2005,Art.8,2,8.11,7.53,3.42
+Horizon Alternatives Fund 260,,,Alternatives,europe,Aggressive,GBP,Luxembourg,404.73,26.41,0.26,-2.87,12.69,6.08,18.06,0.91,-33.75,306.48,-3.49,53.45,2009,Article 8,n/a,5.90,13.72,0.00
+Horizon Fixed Income Fund 261,FND0261,LU4570960165,Fixed Income,Europe,VALUE,EUR,luxembourg,248.21,85.05,0.40,9.00,9.22,-0.18,19.80,0.42%,-22.41,-206.86,10.20,19.91,2017,Article 8,2,0.20,1.71,2.81
+Horizon fixed-income Fund 262,FND0262,LU2691126388,fixed-income,APAC,Value,USD,Cayman,648.66,64.99,0.16,7.69,-1.81,1.54,6.30,0.38,-2.00,179.43,5.77,20.35,2000,article 6,★★★,7.30,12.91,6.46%
+Horizon Equity Fund 263,FND0263,LU4348485055,Equity,Emerging Markets,growth,usd,UK,65.81,61.28,0.35,26.50,-2.88,8.96,,0.79,-15.06,74.04,6.27,29.32,2009,Article 6,5,4.62,10.06,2.41%
+Horizon fixed-income Fund 264,FND0264,LU3425045215,fixed-income,US,growth,JPY,luxembourg,623.60,87.45,0.05,-17.08,9.17,7.17,14.25,0.12%,-17.60%,158.50%,3.80,52.00,2005,article 6,3,8.43,14.32,5.72
+Horizon Mixed Fund 265,FND0265,LU4024792946,Mixed,United States,Income,USD,France,431.05,38.46,0.23,15.86,-15.37,2.08,3.94,0.39,-15.37,-259.75,-7.09,72.85,2012,N/A,★★★,14.07,8.45,4.89
+Horizon Mixed Fund 266,FND0266,LU7815461763,Mixed,Asia Pacific,Income,GBP,Cayman,939.39%,142.53,0.39,13.44,7.27,-1.93,20.67,0.65,-2.00%,-213.59,0.34,21.36,2000,Article 6,3,6.14,3.19,7.00
+Horizon Fixed Income Fund 267,FND0267,,Fixed Income,US,Value,USD,Luxembourg,,57.43%,0.29,-0.91%,4.25,0.93,13.41,0.09%,-15.23,-133.78,-5.27,15.47,2000,Article 9,3,4.79,10.80,3.78
+Horizon FI Fund 268,FND0268,,FI,Emerging Markets,growth,usd,Luxembourg,2277.51,26.77,0.23,4.72,2.56,8.00,22.34,0.54,-7.07%,162.10,2.70,66.55,2008,Article 8,5,7.24,13.89,3.52
+Horizon Alternatives Fund 269,FND0269,,Alternatives,APAC,growth,USD,US,396.16,50.74,0.46,13.03,6.86,1.05,27.63,1.31,-21.46,62.81,1.01,39.81,2011,Art.8,n/a,5.91,5.11,1.03
+Horizon Money Market Fund 270,FND0270,LU3119954897,Money Market,US,growth,GBP,France,2092.25,109.38,0.50,3.34,-4.24%,4.17,,0.31,-7.99,200.91,-0.47,19.50,2020,Article 9,★★★,2.10,6.68,9.14
+Horizon equity Fund 271,FND0271,LU3966249895,equity,europe,Aggressive,usd,Ireland,6859.79,35.44,0.13,11.06,7.89,17.90,2.22,-0.05,-24.28,,-2.22,115.62,2015,Article 8,5,12.96,6.75,4.12
+Horizon Fixed Income Fund 272,FND0272,LU9658821904,Fixed Income,Emerging Markets,Growth,JPY,UK,8292.69,40.79,0.19,-0.27,,27.83,12.93,0.38,-16.07,,2.71,10.32,2001,Article 8,★★★,1.45,5.43,0.00
+Horizon Fixed Income Fund 273,FND0273,LU8904558004,Fixed Income,US,growth,EUR,US,427.73,99.72,0.28,6.79,23.91,19.11,9.85,-0.46,-21.85,344.28,2.57,17.03,1998,Article 8,5,5.37,7.88,0.14
+Horizon Money Market Fund 274,FND0274,LU1926554756,Money Market,Europe,VALUE,JPY,US,,94.23,0.14%,4.21,5.78%,23.68,24.42,0.86%,-19.30,72.20,-2.21,51.62,2018,Article 9,2,9.89,11.75,6.79
+Horizon equity Fund 275,FND0275,LU4120711565,equity,Europe,Income,JPY,Cayman,1948.54,59.00,0.19,1.44,13.63,2.44,,0.48,-7.15,-82.43,0.19,17.57,2020,Art.8,,6.07%,3.76,0.00
+Horizon fixed-income Fund 276,FND0276,,fixed-income,United States,Income,GBP,US,,66.22,0.25,-0.54,9.42,5.67,15.69,0.54,-15.42,144.56,-2.10,27.43,2008,Article 6,4,1.40,8.94,0.00
+Horizon FI Fund 277,FND0277,LU7547974003,FI,United States,VALUE,USD,Luxembourg,1922.76%,105.99,0.23,-15.46,-6.76,-0.63,22.06,0.21,-11.03,75.66,2.76%,30.35,2018,Article 8,2,2.72,11.48,6.83
+Horizon fixed-income Fund 278,FND0278,LU6410801252,fixed-income,US,Growth,EUR ,France,127.80,62.67,0.41%,19.71%,14.35,4.27,6.29,0.85,-17.51,-328.36,2.15,12.61,2021,article 6,n/a,0.20,1.84,6.00%
+Horizon equity Fund 279,FND0279,LU9881550315,equity,Emerging Markets,growth,JPY,Cayman,1207.83,222.47,0.26,16.38,-0.13,9.85,9.83,0.77,-17.75,,5.46,37.30,2000,Article 8,2,3.28,7.53,0.43
+Horizon Mixed Fund 280,FND0280,LU9687451694,Mixed,United States,growth,USD,Luxembourg,617.93,21.80,0.12,-21.21,6.38,7.84,9.34,0.21,-14.32,-467.48,0.66,19.59,2016,,n/a,9.57,2.19,3.95%
+Horizon Money Market Fund 281,FND0281,LU9376054701,Money Market,Asia Pacific,VALUE,JPY,IE,,50.71,0.18,9.87,2.13,19.07,17.43,0.78,-23.28,-162.91,-2.01,28.62,2020,Art.8,★★★,8.17,1.00%,1.99
+Horizon Fixed Income Fund 282,FND0282,LU2563885198,Fixed Income,United States,Aggressive,EUR ,luxembourg,189.74,85.23,0.09,,13.94,10.71,11.70,0.47,-7.47,129.51,-2.71,8.68,2006,article 6,5,7.66,8.50,3.24
+Horizon Mixed Fund 283,FND0283,LU8326942573,Mixed,europe,VALUE,usd,IE,429.96,27.33,0.27,23.51,5.91,17.26%,16.98,0.74,-22.28,-136.32,3.79,11.87,2010,N/A,4 stars,3.08,1.00,1.10
+Horizon Mixed Fund 284,FND0284,LU5241008710,Mixed,europe,VALUE,JPY,IE,1909.24,31.17,0.17,,6.19,2.66,23.69,0.30,-2.00,459.92,-0.63,54.96,2003,Art.8,5,0.20,12.08%,3.86
+Horizon Mixed Fund 285,FND0285,LU2083243699,Mixed,APAC,VALUE,EUR ,luxembourg,38.87,54.20,0.30,16.80,8.08,1.85,14.11,0.12,-5.33,11.62,4.35,12.00,2007,Art.8,1,8.46,7.86,4.92%
+Horizon Alternatives Fund 286,FND0286,,Alternatives,Global,Growth,EUR,Luxembourg,95.12,89.20,0.33,-3.84,-0.66,-1.32,8.48,0.91,-15.11,106.94,1.86,31.84,2019,article 6,1,7.90,12.33,2.89
+Horizon Equity Fund 287,FND0287,LU3644962248,Equity,APAC,Value,EUR,Cayman,2751.37,56.64,0.53,9.32,-1.18,9.57,21.94,-0.07,-8.53,,1.21,63.64,2000,Article 8,3,5.22,4.71,6.06
+Horizon fixed-income Fund 288,FND0288,LU4167490492,fixed-income,US,Blend,USD,Ireland,1474.20,25.86,0.11%,0.48,1.11,10.49,3.93,0.76,-2.82,-114.16,0.68,82.02,2007,Art.8,★★★,9.80,11.27,2.19
+Horizon fixed-income Fund 289,FND0289,LU6874308733,fixed-income,EM,VALUE,JPY,US,1442.09,29.94%,0.16,9.99,-0.18,1.09,9.21,0.11,-20.44,125.75,-1.67,24.19,n.a.,Art 9,n/a,4.38,4.99,1.20
+Horizon Alternatives Fund 290,FND0290,LU4444900829,Alternatives,EM,Value,JPY,Ireland,604.47,60.27,0.18,-0.25,16.14,5.64,7.89,0.92,-22.55,-57.01,4.95,14.56,2011,Article 9,★★★,12.13,13.43,4.82
+Horizon fixed-income Fund 291,FND0291,LU9085971891,fixed-income,United States,Blend,JPY,Ireland,595.66,70.62,0.41,,17.16,13.91,11.13,-0.37,-20.12,-227.78%,0.32,6.41,2015,N/A,4,0.20,10.35,1.89
+Horizon Money Market Fund 292,FND0292,LU4249279170,Money Market,APAC,Income,EUR ,UK,480.00,82.47,0.77,7.61,19.59,3.85,8.28,0.20,-25.83,-32.70,1.02,74.94,2018,Article 9,★★★,13.16,9.99,0.00
+Horizon fixed-income Fund 293,FND0293,,fixed-income,Global,VALUE,usd,UK,924.64,70.77,0.31,10.60,3.36,20.03,14.73,0.50,-18.85,-157.58,4.09,10.67,2019,Article 6,2,2.21,3.42,0.74
+Horizon FI Fund 294,FND0294,LU9945774955,FI,Asia Pacific,Value,EUR ,France,560.18,133.11,0.34,-10.66,19.61,-0.20,29.24,0.97,-5.67,49.43,1.46,51.47,2004,,2,0.20,7.66,1.25
+Horizon Equity Fund 295,FND0295,LU8108852682,Equity,EM,Aggressive,usd,Cayman,210.22,42.99,0.59,15.06,4.96,11.97,,-0.05,-19.44,29.86,-1.95,12.75,2002,Article 8,4,4.81,10.57%,0.00
+Horizon FI Fund 296,FND0296,,FI,APAC,growth,USD,Luxembourg,675.36,39.61,0.18,,15.56,5.17,18.57%,0.53,-31.90,88.73,8.19,11.70,2018,Article 6,,6.10,4.76,4.77
+Horizon Equity Fund 297,FND0297,,Equity,Emerging Markets,Aggressive,EUR,Ireland,8313.16,44.52,0.06,10.92%,8.37,6.18,12.45,0.78,-19.86,277.37,0.62,56.61,2019,Article 9,n/a,3.13,7.45,6.25
+Horizon Equity Fund 298,FND0298,LU2003875194,Equity,United States,growth,usd,luxembourg,114.42,53.86,0.30,3.15,8.34,20.13,16.29,0.50,-20.12,-376.32,-0.02,90.68%,2010,,5,14.28,1.18,5.07%
+Horizon Mixed Fund 299,FND0299,LU8284399499,Mixed,US,Growth,usd,Cayman,515.59,136.32,0.25,-4.14,0.25,14.88%,,0.45,-20.37,26.33,4.48,15.19,2014,Article 6,1,1.14%,4.07,1.85
+Horizon Equity Fund 300,FND0300,LU6990879657,Equity,europe,Blend,GBP,Ireland,286.51%,36.26,0.13,9.32%,13.72,12.90,16.97,0.93,-15.78,-635.80,2.01,22.15,2022,Article 8,4 stars,11.92,4.80,6.82
+Horizon Money Market Fund 301,FND0301,LU7350399957,Money Market,europe,VALUE,GBP,Cayman,351.63,83.74,0.16,6.44,0.63,5.20,4.32,0.09%,-29.42,-194.80,-4.98,23.02%,2018,Art 9,2,6.11,7.13,1.01
+Horizon Alternatives Fund 302,FND0302,LU6876584682,Alternatives,Emerging Markets,Blend,EUR,UK,11339.14%,38.79,0.15,10.12,15.81,9.14,12.61,1.03,-13.60,79.40,6.49,11.32,2005,Article 6,3,10.44,6.20,5.81
+Horizon Equity Fund 303,FND0303,LU5380560536,Equity,APAC,Blend,JPY,luxembourg,261.72,48.76,0.19,16.28,-2.07,25.08,9.31,0.12,-14.23,-20.56,-6.87,31.10,2008,article 6,4 stars,0.37,2.35,0.00
+Horizon Mixed Fund 304,FND0304,LU3866985010,Mixed,US,Value,GBP,Ireland,303.90,61.72,0.31,5.15,8.19,2.80,15.93,0.20,-11.50,-70.23%,1.74%,30.41,2013,Article 8,4 stars,3.84,13.98,5.11
+Horizon Fixed Income Fund 305,FND0305,LU2828429514,Fixed Income,Global,VALUE,GBP,UK,1195.51,49.41,0.30,5.50,,19.88,18.19%,-0.14,-7.30,,2.19,24.47,2006,Art.8,4,5.35,11.01,3.27
+Horizon fixed-income Fund 306,FND0306,,fixed-income,APAC,Blend,EUR,luxembourg,11189.69,33.91,1.03,,15.27,9.57,6.54,1.17,-11.65,137.58%,0.92,13.27,2013,Article 8,4,12.56,11.51,4.10%
+Horizon Equity Fund 307,FND0307,LU9952442558,Equity,Global,Blend,USD,UK,870.91%,81.56,0.34,1.77,3.15,17.09,14.27,0.71,-10.90,-463.32,1.19,54.68%,2016,Article 6,4,11.20,4.23,1.83
+Horizon FI Fund 308,FND0308,LU3985866571,FI,Asia Pacific,Income,EUR ,Ireland,,59.03,0.17,0.86,,5.65,23.42,0.48,-14.13,-174.17,5.19,54.93,2009,Art 9,4 stars,5.38,10.16,0.08
+Horizon equity Fund 309,FND0309,LU7685116763,equity,europe,Income,EUR ,France,148.37,47.87,0.19,-6.71,-2.77,9.90,21.21,,-20.15,87.11,3.84,50.79,2007,Art.8,5,4.54,11.81,0.13
+Horizon Mixed Fund 310,FND0310,LU4606860641,Mixed,europe,Blend,EUR,Cayman,585.13,101.54,0.42,7.73,4.03,0.41,21.86,-0.46%,-15.85,-116.83,6.03,47.78,2002,article 6,★★★,12.02,4.54,2.37
+Horizon Money Market Fund 311,FND0311,LU7367087063,Money Market,US,Blend,usd,France,430.14,46.98,0.17,14.68,15.64,0.02,3.36,1.01,-20.45,-196.61,-2.69,49.06,2018,Article 9,1,7.17,8.72,1.62
+Horizon FI Fund 312,FND0312,,FI,Emerging Markets,Blend,usd,US,1128.69,58.71,0.30,6.20,8.12,2.74,14.88,0.56,-24.49,-19.79,5.96,29.08%,2018,Art.8,4 stars,8.40,7.32,3.96
+Horizon equity Fund 313,FND0313,LU7846361651,equity,EM,Aggressive,EUR ,US,274.24,30.85,0.14,15.17,,13.27%,12.23,0.36,-25.29%,-350.96,0.57,17.92,2014,Article 8,1,8.61,10.55,4.75
+Horizon Mixed Fund 314,FND0314,LU6892267031,Mixed,europe,growth,usd,UK,,32.91,0.33,22.94,0.82,10.16,14.12,1.06,-21.31,386.86,-2.84,42.96,2000,article 6,★★★,12.60,5.76,3.83
+Horizon Alternatives Fund 315,FND0315,LU3948754159,Alternatives,United States,Aggressive,EUR ,Cayman,264.42,97.04,0.30,28.81,4.14,11.27,14.78,1.05,-17.66,-4.01,-1.88,23.07%,2011,Article 6,4 stars,8.14,10.02%,1.87
+Horizon Money Market Fund 316,FND0316,LU8242872779,Money Market,Asia Pacific,Income,EUR,Ireland,406.66,99.03,0.08%,28.33,12.64,5.89,19.72,0.42,-12.85,143.14,3.98%,13.05,2019,Article 8,2,11.84,1.00,5.97
+Horizon Fixed Income Fund 317,FND0317,LU2638355535,Fixed Income,Asia Pacific,Blend,EUR,IE,1457.21,79.90,0.52,0.03,6.31,7.71,1.32,-0.34,-27.95%,180.77%,2.40,23.79%,1999,article 6,2,5.78,8.31,2.87
+Horizon Fixed Income Fund 318,FND0318,LU9499875704,Fixed Income,EM,Value,EUR ,IE,405.15,35.31,0.34,9.11,5.80,14.15%,22.04,0.20%,-17.27,40.08,1.61,18.47,1999,Article 8,4,4.16,9.44,6.46
+Horizon FI Fund 319,FND0319,,FI,europe,Value,GBP,luxembourg,164.82,76.18,0.19%,7.71,-2.98,12.04,20.38,-0.39,-3.48,191.24,0.86,31.04,2002,article 6,★★★,6.30,6.25,0.00
+Horizon fixed-income Fund 320,FND0320,LU3102948612,fixed-income,Emerging Markets,Value,EUR,luxembourg,1216.66,39.34,1.13,-1.24,10.93%,10.04,12.28,,-16.79,353.97,-0.86,46.07,2009,Article 9,n/a,7.19,7.95,7.36
+Horizon Equity Fund 321,FND0321,LU6082653587,Equity,Europe,VALUE,JPY,US,702.77%,149.83,0.30,23.65,1.00,18.24,13.03,0.82,-23.16,-227.25,0.27,58.97,2014,Article 9,,8.39,9.68,0.00
+Horizon FI Fund 322,FND0322,LU1167876442,FI,Emerging Markets,growth,EUR,IE,1137.55,48.61%,0.14,6.44,25.01,17.06,9.04,1.34,-28.70,162.58,-3.63%,47.55,2004,Art 9,5,5.24,10.44,6.40
+Horizon Alternatives Fund 323,FND0323,LU9927501069,Alternatives,APAC,Income,GBP,UK,1342.75,47.15,0.31,-1.30,15.22,0.28,10.89,-0.07,-3.70,226.72,3.25,10.19,2010,Article 9,2,5.19,10.41,4.85%
+Horizon FI Fund 324,FND0324,LU9326847205,FI,APAC,VALUE,USD,US,137.30,120.39,0.28,23.32,8.98,-5.76,10.45%,0.57,-2.57,-249.99,-4.23,21.88,2014,Art.8,,9.14,6.42,5.58
+Horizon FI Fund 325,FND0325,LU4467198950,FI,Asia Pacific,Growth,usd,Luxembourg,359.74,81.75,0.83,8.88,-1.30,-0.46,7.66,0.81,-24.34,350.36%,-4.68,29.80,2010,Article 9,★★★,0.20,3.85,1.59
+Horizon Fixed Income Fund 326,FND0326,LU7305633143,Fixed Income,Emerging Markets,Value,usd,Luxembourg,,42.30,0.34,4.62,9.83,12.04,,0.73,-8.36,-53.42,-1.35,69.56,2003,Art.8,1,4.22,5.61,3.59
+Horizon Money Market Fund 327,FND0327,LU7042221808,Money Market,europe,Value,EUR ,Ireland,261.46,13.44,1.32,-1.52,-2.24,8.21,7.30,1.60%,-24.34,210.48,3.94,28.16,2021,Article 9,n/a,4.12,11.95%,3.79
+Horizon Money Market Fund 328,FND0328,,Money Market,US,Blend,EUR ,IE,5984.75,89.56,0.28,8.63,,6.29%,6.56%,-0.10,-16.54,-348.65,7.20,48.20,n.a.,Art 9,2,2.81%,6.72,4.44%
+Horizon Money Market Fund 329,FND0329,LU6048222282,Money Market,APAC,VALUE,usd,luxembourg,,68.15,0.33,-3.70,1.62,13.80,12.87,1.05%,-12.28,411.61,2.34,47.54%,2003,Article 8,5,5.80,1.00,2.76
+Horizon equity Fund 330,FND0330,,equity,EM,Value,USD,US,84.10%,30.28,0.21%,-17.93,11.32,6.35,21.69%,1.02,-10.42,61.52,-2.27,9.20,2020,article 6,2,10.59,8.98,0.00
+Horizon fixed-income Fund 331,FND0331,LU4118132090,fixed-income,Europe,Growth,GBP,Luxembourg,2004.82,56.58,0.12,12.95,20.12,11.91,20.00,0.64,-21.83,-44.34,0.01,18.45,2006,,2,3.87,4.92,3.91
+Horizon FI Fund 332,,LU9529080184,FI,EM,VALUE,usd,Luxembourg,1237.22,42.09,0.48,8.06,-0.50%,0.67,7.09,1.13,-22.86,128.24,4.16,12.41,2008,N/A,4 stars,10.70%,8.55,1.19
+Horizon FI Fund 333,FND0333,LU5126707611,FI,United States,VALUE,usd,US,70.55,46.97%,0.40,-6.07%,7.98,21.88,,0.66,-16.10,220.31,-2.75,49.70%,2018,,4 stars,7.50,6.14,4.29
+Horizon Mixed Fund 334,FND0334,LU6358317786,Mixed,europe,Aggressive,EUR,IE,270.38,37.28,0.51,-10.91,4.09,11.48,14.51,0.07%,-10.78,42.54,2.30,182.31,2023,Article 8,5,9.49%,9.89,3.38%
+Horizon equity Fund 335,FND0335,LU6024726807,equity,APAC,Blend,EUR ,UK,5672.58%,107.61,0.42,6.99,9.96,3.37,8.45%,0.67,-9.49,8.44,0.37,45.53,2004,,5,9.45,10.25,2.87
+Horizon FI Fund 336,FND0336,LU6583881185,FI,APAC,Income,GBP,Luxembourg,6685.48,30.11%,0.19,14.10,-3.53,12.14,23.23%,0.53,-12.00,126.30,0.26,46.44,2013,,3,3.67,1.00,4.79
+Horizon Money Market Fund 337,FND0337,LU4094020835,Money Market,United States,Blend,GBP,UK,8742.06,15.46,0.22,-2.14,8.69,10.58,5.76,0.82,-25.21,-24.82,1.62,82.75,2009,,n/a,0.20,5.29,3.59
+Horizon equity Fund 338,FND0338,LU6383257250,equity,Europe,Income,EUR ,Cayman,1342.39,76.69,0.29,6.12,6.43,15.90,8.52,0.63,-31.30,119.66,2.14,50.33,2017,Art 9,n/a,4.33,10.82,2.27
+Horizon fixed-income Fund 339,FND0339,LU1627528901,fixed-income,Europe,Blend,EUR,France,,104.05,0.21,3.72,22.89,18.47,19.58%,-0.30,-27.09,309.32,4.90,21.20,2022,N/A,★★★,8.03,2.44,3.77
+Horizon FI Fund 340,FND0340,LU7314562791,FI,APAC,Income,JPY,US,1632.69,45.45,0.44,33.79,12.95,10.45,3.93,0.54,-7.54%,216.41,6.22,78.48,1998,Article 9,4 stars,10.64,4.65,5.68%
+Horizon Mixed Fund 341,FND0341,LU4051177575,Mixed,US,Income,GBP,Luxembourg,268.50,165.60,0.44,16.08,24.19,23.77,,0.14,-19.61,328.56,1.45,22.55,2021,Article 8,n/a,4.33,8.77,0.86
+Horizon Mixed Fund 342,FND0342,LU9180354120,Mixed,APAC,Growth,GBP,Cayman,480.17,44.74,0.22,25.06,16.16,3.49%,9.08,0.25,-16.90,-57.60,2.45,5.91,2002,Article 8,3,4.30,1.61,6.71
+Horizon equity Fund 343,FND0343,LU9232853197,equity,Emerging Markets,Growth,EUR,UK,527.28,73.52,0.47,,12.01,4.32,9.77,0.80,-21.56,-354.93,-1.81,61.07,2005,Article 8,★★★,6.30,9.28,5.43
+Horizon fixed-income Fund 344,FND0344,LU8480536464,fixed-income,Global,Blend,EUR ,Luxembourg,200.66,75.43,0.19,4.46%,3.06,8.80,14.52,,-22.45,,-1.94,11.29,2016,Art 9,★★★,4.88,5.50,0.53
+Horizon Fixed Income Fund 345,FND0345,LU6454708710,Fixed Income,APAC,Value,EUR ,Luxembourg,2343.48%,85.51,0.84,-4.62%,,6.29,18.53,1.28,-12.79,215.36,-4.97,28.24,2017,Article 6,3,8.62,9.60,4.13
+Horizon Fixed Income Fund 346,FND0346,LU2250355164,Fixed Income,Emerging Markets,Value,usd,Cayman,228.69,76.51%,0.28,7.30%,20.94,1.66,16.90,1.05,-16.58,-330.76,0.97%,27.43,2016,Art.8,,6.42,10.91,6.22
+Horizon Mixed Fund 347,FND0347,LU4459081841,Mixed,APAC,VALUE,usd,luxembourg,447.78%,72.60,0.81,2.82,17.34,11.85,12.65%,1.18,-13.42,,1.34,98.75,2018,Article 8,5,8.04,14.14%,2.31
+Horizon Money Market Fund 348,FND0348,LU8792469929,Money Market,Europe,Blend,EUR ,Ireland,1141.26,76.35,0.44%,23.97,22.73,11.39,11.81,1.63,-11.35,-162.06,3.27,29.06,2003,Article 9,★★★,10.32,4.21,1.93
+Horizon FI Fund 349,FND0349,LU1781752370,FI,europe,Aggressive,EUR,UK,498.67,142.58,0.96,-16.39,3.97,4.53%,23.86%,0.79,-18.83,206.86,-0.22,23.81,2019,Article 6,★★★,0.20%,8.80,6.35
+Horizon Money Market Fund 350,FND0350,LU8623718534,Money Market,Emerging Markets,Blend,USD,France,23273.85,57.59,0.14%,9.45,7.09,10.80,8.94,0.56,-12.76,254.77,-3.26,44.46,2012,Article 9,n/a,14.26,14.57,4.64
+Horizon Fixed Income Fund 351,FND0351,LU7962561069,Fixed Income,Europe,Value,EUR,Luxembourg,122.93,40.95,0.62,16.69,4.46,15.14,18.88,0.65,-26.32,50.83,-0.18,74.38,2008,N/A,★★★,3.52,11.54,3.37
+Horizon fixed-income Fund 352,FND0352,LU2995077797,fixed-income,Europe,Growth,JPY,IE,267.55%,81.45,0.17,25.30,10.15,22.65,13.37,0.26,-13.91,-66.05,3.92,48.22,01/2018,article 6,3,0.85,14.59%,3.97
+Horizon FI Fund 353,FND0353,,FI,Asia Pacific,Value,JPY,UK,443.19,35.87%,0.13,20.26,17.32,9.61,8.92,0.51,-22.35,-135.76,-1.23,14.63,2020,Article 6,2,3.09,4.99,4.23
+Horizon Mixed Fund 354,FND0354,LU9481000873,Mixed,APAC,growth,USD,UK,1500.08,40.76%,0.45,16.35,15.76,3.08,21.85,0.62,-17.88,46.98,-2.25,11.46,1998,Article 6,5,3.44,3.14,2.44
+Horizon Fixed Income Fund 355,FND0355,LU1771152303,Fixed Income,EM,Value,GBP,Luxembourg,1088.64,39.29,0.18,-4.99,4.77,10.54,21.73,0.60,-28.30,161.84%,2.19%,131.37,1998,Article 9,2,11.68,3.32,1.63%
+Horizon equity Fund 356,FND0356,LU7003616830,equity,Europe,Growth,EUR,US,640.62,60.76,0.32,23.32,7.18,0.11,1.49,0.41,-13.31,132.30,-2.02,37.99,2001,article 6,4 stars,7.88,7.77,1.29
+Horizon fixed-income Fund 357,FND0357,,fixed-income,europe,Blend,EUR,Luxembourg,1582.90,61.64,0.42,-14.67,21.24,19.59,17.58,1.82,-10.51,-329.55,1.80,18.02,1998,Article 9,3,0.20,5.09,4.81
+Horizon Mixed Fund 358,FND0358,LU5550285223,Mixed,United States,Value,USD,US,2699.50,83.73,0.44,0.17,14.57,13.99,15.33,0.38,-2.00,-112.78,0.25,327.90,2022,Article 8,,3.67,9.91,2.34
+Horizon Money Market Fund 359,FND0359,LU4575557001,Money Market,Europe,VALUE,JPY,IE,,31.55,0.15,1.50,8.09,6.34%,8.46,0.06,-25.14,328.12,2.42,13.06,2018,Art.8,3,8.62,4.37%,6.51
+Horizon Money Market Fund 360,FND0360,LU1615710225,Money Market,Europe,Aggressive,USD,Luxembourg,1320.73,95.39,0.26,-20.10,4.73,9.20,20.62,0.90,-19.00,217.26,3.57,5.00,n.a.,Article 6,2,6.34,5.72,2.63
+Horizon fixed-income Fund 361,FND0361,LU4547312130,fixed-income,Emerging Markets,Blend,USD,Cayman,4403.08,78.15,0.22,0.53,8.96,11.00,5.77,0.60,-24.27,-126.17,-2.95,30.62,2022,,4 stars,3.86,4.33,2.41
+Horizon Mixed Fund 362,FND0362,LU9290738650,Mixed,Europe,VALUE,USD,UK,142.67,46.59,0.79,10.14,19.48,0.55,5.99,1.07,-25.01%,176.60,-3.25%,17.83,2019,article 6,4,4.55,6.33,0.00
+Horizon equity Fund 363,FND0363,LU2872291339,equity,Asia Pacific,growth,EUR ,Luxembourg,359.44,41.75,0.25,,5.11,8.20,14.40,0.66,-23.34,37.55,1.35,16.38,2008,Article 6,5,9.69,1.28%,3.31
+Horizon Alternatives Fund 364,FND0364,LU9984964724,Alternatives,Asia Pacific,growth,usd,IE,3836.43,78.30,0.33%,18.93,8.61%,6.33,11.79,1.14,-14.98,321.79,2.02,56.22,2018,Article 8,1,8.33,6.68,4.04
+Horizon equity Fund 365,FND0365,LU1893769533,equity,United States,Value,usd,France,4933.54,23.29,0.19,,8.31%,21.91,12.90,0.72,-24.73,43.32,-1.20%,62.03,2022,Article 8,5,3.52,10.13,4.16
+Horizon Mixed Fund 366,FND0366,,Mixed,United States,Income,EUR ,UK,148.34,30.45,0.17,30.06,25.09%,15.47,13.80,0.72,-6.53,27.30,-1.44,20.31%,2000,,4 stars,11.94,10.43,5.73
+Horizon Equity Fund 367,FND0367,LU4224398869,Equity,US,Aggressive,EUR,IE,1658.44,55.87,1.35,12.54,7.61,21.91,17.48,0.62,-11.21,-36.93,-3.67,82.13,2016,N/A,★★★,9.01,8.70%,9.22%
+Horizon FI Fund 368,FND0368,LU6993018225,FI,EM,Aggressive,USD,UK,313.13,47.13,0.46%,15.41,10.61,14.86%,23.20,-0.05,-6.41,573.14,-1.13,25.81,2021,Art 9,4 stars,2.70,6.25%,3.59
+Horizon Fixed Income Fund 369,FND0369,LU7641330441,Fixed Income,Europe,Value,USD,IE,781.19,30.68,0.08,16.08,6.29,8.38,14.39,0.73,-16.06,31.64,2.13,96.13,2003,article 6,4 stars,9.83,1.00,0.85
+Horizon FI Fund 370,FND0370,LU2598313909,FI,APAC,Aggressive,EUR,luxembourg,728.47,79.31,0.23,28.35,10.29,12.51%,13.26,0.48,-28.41,-348.47,-0.09,78.86,2008,Article 8,4,4.20%,2.07,0.00
+Horizon Money Market Fund 371,FND0371,LU2927592644,Money Market,Global,Blend,usd,Luxembourg,1404.19,88.30,0.80,15.79,2.39,11.52,7.76,0.47,-17.19,-407.33,1.30,34.05,2006,Art.8,★★★,2.09,5.60,8.39
+Horizon equity Fund 372,FND0372,LU2739317405,equity,Europe,Growth,EUR,Ireland,,55.82,0.26,7.98,2.75,-2.04,5.14,1.17,-23.67,,-0.12,96.65,2017,Article 9,5,5.12,8.29,0.00
+Horizon Equity Fund 373,FND0373,LU7710844791,Equity,Global,Income,JPY,UK,1496.31,50.59,0.49,-4.03%,1.42,4.50,7.68,,-10.59,234.48%,0.23,78.62,2006,N/A,5,5.45,4.43%,0.00
+Horizon Fixed Income Fund 374,FND0374,LU1531185269,Fixed Income,Asia Pacific,Value,EUR,luxembourg,5030.74,82.52,0.26%,20.33,7.07,0.10,13.68%,0.37,-33.94,-337.93,2.98,43.49,2019,Article 9,5,7.81,12.88,2.39
+Horizon Money Market Fund 375,FND0375,LU5228508436,Money Market,APAC,growth,GBP,luxembourg,160.13,54.31,0.29,32.56,-0.76,-5.10,11.30,0.06,-17.74%,244.63,-0.94,83.26,2014,,1,3.21,8.42,0.00
+Horizon FI Fund 376,FND0376,LU3680980097,FI,US,Growth,EUR,IE,441.46,44.31,0.34,-10.06,9.96,2.35,14.84,0.12,-12.89%,-167.15,-1.75,160.53%,2023,article 6,5,5.56%,10.99,0.00%
+Horizon Alternatives Fund 377,FND0377,,Alternatives,EM,VALUE,usd,France,287.81,41.15,0.32,11.06%,4.88,14.14,18.18,0.69%,-21.70,439.84,1.20,40.64%,2014,Article 8,3,5.92,8.97,7.76
+Horizon Fixed Income Fund 378,FND0378,LU4314921854,Fixed Income,Emerging Markets,Income,EUR ,IE,1384.77,70.73,0.18,6.75,12.17,0.23,11.62,0.77,-26.16%,9.23,3.69,41.13,2017,Article 9,5,0.40,7.73,6.55
+Horizon Mixed Fund 379,FND0379,LU1457912541,Mixed,Global,VALUE,EUR ,US,3857.46,79.36,0.26,-1.11,0.49,-0.13,15.17,0.85,-18.15,,2.15,60.84,2009,N/A,5,4.11,7.51,1.42
+Horizon Money Market Fund 380,FND0380,LU6636522184,Money Market,United States,growth,JPY,IE,,53.52,0.25,7.87,12.31%,9.43%,,0.23,-24.96,356.02,0.45,11.77,2013,Article 9,n/a,3.03,4.61,0.00
+Horizon Alternatives Fund 381,FND0381,LU5095476140,Alternatives,US,Growth,EUR ,Ireland,1669.01,41.46,0.36,-14.61%,-2.37,-4.93,21.68,0.23,-8.48,39.67,-2.56,8.61,2003,Article 6,4 stars,6.25,11.13%,3.07
+Horizon Money Market Fund 382,FND0382,LU3730188645,Money Market,US,Growth,usd,Luxembourg,5986.94,84.57,0.52,26.24,,-0.35,5.85,0.63,-19.73,322.25,-0.02,29.73,2019,Article 6,★★★,12.96,11.80%,4.07%
+Horizon equity Fund 383,FND0383,LU4377270453,equity,US,growth,JPY,US,4716.71%,68.54,0.26,22.99,4.29,2.51,23.86,0.28,-13.64,-8.87,0.41%,26.28,2010,Article 6,★★★,0.42,8.52,3.19
+Horizon Mixed Fund 384,FND0384,LU4370543445,Mixed,Asia Pacific,Income,EUR ,US,183.99,54.34%,0.08,10.60,4.14%,0.39,8.02,0.13,-27.26%,-71.89,-4.65,33.80,2013,Art.8,1,9.30,4.57,0.00
+Horizon Equity Fund 385,FND0385,LU9698855571,Equity,Europe,Blend,GBP,luxembourg,358.40,44.09,0.24,12.28%,7.24,16.74,8.22,0.65,-15.34,356.82,-2.16,14.79,2001,Article 9,1,7.20%,15.84,3.45
+Horizon Fixed Income Fund 386,FND0386,LU3665196842,Fixed Income,Global,growth,EUR ,luxembourg,226.99,76.96,0.06,5.94,-3.26,-1.07,15.21,0.98,-18.46,-107.63,4.27,75.06,1999,Article 9,n/a,0.20,13.92,4.09
+Horizon Alternatives Fund 387,FND0387,LU5253182702,Alternatives,Asia Pacific,growth,JPY,IE,301.92,77.32,0.27,14.20,13.37%,-3.71,14.21,0.56%,-6.59,45.26,4.34,21.34,1998,Article 8,n/a,7.31%,9.81,0.00
+Horizon Fixed Income Fund 388,FND0388,LU7190904891,Fixed Income,Emerging Markets,VALUE,GBP,luxembourg,135.66,61.84%,0.21,4.16,7.90,10.17,,0.57,-19.45,193.93,-4.42,8.39,2010,N/A,4 stars,9.36,11.79,4.67%
+Horizon Mixed Fund 389,FND0389,LU3610685976,Mixed,Asia Pacific,Blend,usd,US,243.67,45.53,0.24,8.54,3.14,16.28,11.63,1.20,-24.04,-167.85,2.13,14.69,2017,N/A,★★★,4.40,6.93,2.30
+Horizon Mixed Fund 390,FND0390,LU4920292665,Mixed,Emerging Markets,VALUE,EUR ,France,427.12,80.31,0.16,3.73,5.47,18.95,1.00,0.35,-15.27,486.16,7.98,25.05%,2001,,3,9.23,12.01,4.78
+Horizon Alternatives Fund 391,FND0391,LU8060083904,Alternatives,europe,Aggressive,usd,Luxembourg,252.84,114.31,0.24,26.93,-3.40,12.75,8.29,0.61%,-9.04%,-220.73,0.23,112.65,2013,Article 8,★★★,8.04,8.22,8.74
+Horizon equity Fund 392,FND0392,,equity,EM,Income,USD,luxembourg,652.40,21.68,0.14,-7.21,-4.17,4.99,1.45,,-29.78,-35.87,1.81,9.07,2014,,2,6.79,13.94%,1.47
+Horizon fixed-income Fund 393,FND0393,LU8865766485,fixed-income,United States,Growth,EUR ,Luxembourg,5212.22,36.40,0.21%,3.10,1.36,7.14,15.94,0.14,-21.82,298.84%,0.13,27.04%,2023,article 6,1,8.20,2.16,3.55
+Horizon Alternatives Fund 394,FND0394,LU1845732737,Alternatives,Emerging Markets,Growth,EUR ,Luxembourg,758.72,34.81,0.18,7.48,-0.98,6.88,8.78,0.74,-20.55,214.21,-3.72,29.68%,2008,Art.8,4 stars,7.35,7.52,5.90
+Horizon equity Fund 395,,LU5824989029,equity,EM,Income,EUR ,France,407.01,26.97,0.83,0.30,-2.72,2.82,16.59,0.57,-17.58,353.17%,2.45,39.81,2009,N/A,n/a,8.30,10.86,2.99
+Horizon fixed-income Fund 396,FND0396,LU2214100762,fixed-income,United States,Income,JPY,Luxembourg,17011.63,34.62,0.16,16.96,14.93%,3.49,6.64%,0.59,-21.06,-101.80%,1.26,111.01,2019,Article 9,,3.04,9.76,2.04
+Horizon Money Market Fund 397,,LU2201406406,Money Market,EM,Blend,EUR,Cayman,969.97,48.06%,0.13,7.33,12.71,5.06,21.36,0.37,-18.08,2.34,-6.75%,5.93,2015,,5,0.20,3.59,0.00
+Horizon fixed-income Fund 398,FND0398,LU6982137959,fixed-income,Europe,Value,JPY,IE,1408.62,41.35%,0.15%,7.61,0.59%,8.80,24.29%,0.94,-18.93,,-3.75,18.97,2022,Article 6,1,0.20,3.34,0.84
+Horizon Alternatives Fund 399,FND0399,LU5301829998,Alternatives,europe,Value,USD,France,2031.36,44.90,0.14%,-7.11,-2.07,16.34,12.71,0.71,-12.29,-235.09,0.44,43.03%,2005,Article 9,5,3.28,13.70,1.06
+Horizon Money Market Fund 400,FND0400,LU6822531856,Money Market,United States,Blend,usd,Cayman,76.24,21.30,0.10,-8.70,-7.33%,3.57,13.69,0.27,-9.03%,190.40,4.54,76.94%,2012,Article 6,,2.05,5.47,2.82
+Horizon Money Market Fund 401,FND0401,LU3172837707,Money Market,europe,VALUE,USD,US,169.94,93.67,0.44,5.13,-17.12,22.06%,11.84,0.10,-26.23,232.53,-0.11,64.18,2000,Art.8,n/a,4.32,11.63%,0.00
+Horizon fixed-income Fund 402,FND0402,LU9332940885,fixed-income,Global,Income,GBP,luxembourg,,73.47%,0.09,7.60,,1.29,,-0.00,-25.15,-266.26,-4.51,13.03,2006,article 6,n/a,10.80,10.80,5.22
+Horizon Fixed Income Fund 403,FND0403,LU7518479224,Fixed Income,europe,Blend,usd,France,201.68%,48.50,0.34,9.24%,18.35,11.19,21.85%,1.05,-14.89,-4.08%,0.87,10.58,2007,N/A,n/a,7.10,3.47,0.00
+Horizon FI Fund 404,FND0404,LU2304211890,FI,US,Income,EUR,US,,91.35,0.11,15.67,3.54,-0.17,19.55,0.79,-27.02,87.58,-5.94,82.96,1999,N/A,5,7.05,6.62,5.68
+Horizon fixed-income Fund 405,FND0405,LU3466186757,fixed-income,APAC,Growth,USD,IE,1567.59,96.54%,0.13,2.85%,3.00,-3.79,8.71,0.40,-19.27,-32.95,-4.43,46.12,2017,Art.8,★★★,10.88,10.24,0.35
+Horizon Alternatives Fund 406,FND0406,LU4742212917,Alternatives,Global,Income,EUR ,Cayman,357.15%,21.55,0.28,-2.87,11.85,16.39,9.71%,0.30,-6.68%,-199.41,4.50,34.75%,2004,Article 9,3,3.47,10.19,2.61
+Horizon Mixed Fund 407,FND0407,LU3284543929,Mixed,europe,Aggressive,GBP,Cayman,2894.67,65.41,0.62,-2.64%,15.82,4.68,15.07%,1.62,-25.39,226.78,0.38,29.31,2003,Article 8,4,0.93,8.63,2.51
+Horizon fixed-income Fund 408,FND0408,LU4137353528,fixed-income,United States,Growth,JPY,US,39.09%,27.66,0.95,7.84,20.19,11.14,1.00,0.67,-11.61,-62.49,1.52,22.90,2003,Article 8,4 stars,7.65,5.94,1.77
+Horizon Mixed Fund 409,FND0409,LU9345878429,Mixed,APAC,Value,USD,luxembourg,2329.45,52.94,0.42%,2.12,10.57%,15.36,17.84%,0.31,-13.30%,-19.36,-3.83,25.09,2011,,2,6.81%,9.90%,1.85
+Horizon FI Fund 410,FND0410,LU1152207540,FI,Global,Value,USD,IE,96.67,57.73,0.29,15.44,-15.04,13.04,10.23,0.70,-25.44,396.20,2.97,15.40,2003,Art.8,4,13.94,5.65,1.54%
+Horizon Fixed Income Fund 411,FND0411,LU7139992391,Fixed Income,US,Income,EUR,UK,873.42,36.44,0.36,15.96,,13.26,20.17,1.49,-22.77,92.36,3.75,77.85,2020,Article 6,4 stars,10.70,7.19,4.95
+Horizon Equity Fund 412,FND0412,LU1435135968,Equity,europe,Value,GBP,US,269.20,72.43,0.12,-6.79%,10.76,10.03,,0.00,-2.00,74.27,-5.46%,5.58,2011,Article 8,1,5.37,12.17,4.63
+Horizon Alternatives Fund 413,FND0413,,Alternatives,Global,VALUE,EUR ,Cayman,2296.97,61.98,0.31,9.53,12.19%,9.67%,11.40,0.55,-22.20,-260.38,2.56,54.73,2018,Article 6,2,5.09,6.37,0.00
+Horizon Equity Fund 414,FND0414,,Equity,US,VALUE,JPY,IE,406.82,90.35,0.59,1.60,9.83,21.93,12.72,0.65,-18.86,331.85,-3.88,34.39,2018,Art 9,★★★,0.20,12.48,1.92
+Horizon Mixed Fund 415,FND0415,LU9567703197,Mixed,Europe,Blend,USD,France,1937.29,31.57%,0.12,10.33,,17.35,20.45,0.87,-15.19,-512.91,0.42,6.87,2017,Article 9,4 stars,0.20,5.46,6.00
+Horizon Money Market Fund 416,FND0416,LU6349711692,Money Market,APAC,VALUE,EUR,luxembourg,3760.95,68.37,0.52,15.52,5.82,7.33,7.81,,-20.69,266.03,2.74,40.60,2008,article 6,,3.59,6.76,6.34
+Horizon equity Fund 417,FND0417,LU4203420687,equity,EM,Income,USD,US,2644.95,68.60,0.31%,-3.27,16.80,4.48,12.33,0.77,-29.68,249.59,0.06%,81.24,2001,Art 9,2,6.49,4.99%,6.62
+Horizon fixed-income Fund 418,FND0418,LU2906613171,fixed-income,europe,Aggressive,usd,UK,1828.30,38.89%,0.38,13.93,15.52,-0.45%,,0.85,-20.47,-248.00,1.41,143.42,2023,article 6,5,9.08,10.23,3.39
+Horizon Equity Fund 419,FND0419,LU6930255308,Equity,europe,growth,GBP,France,304.56,36.73,0.17%,-5.94,-7.19,3.91,7.12%,0.28,-18.91,-106.97,-2.31,18.68,2007,article 6,★★★,14.00%,8.59,1.76
+Horizon Alternatives Fund 420,FND0420,LU6618408058,Alternatives,United States,growth,USD,Luxembourg,431.37,45.04,0.31,13.68,3.49,6.77,9.45,-0.24,-24.33,441.39,-1.47,64.15,2002,Article 8,n/a,9.59,7.04%,2.52
+Horizon Alternatives Fund 421,FND0421,LU7333095518,Alternatives,EM,Income,JPY,Ireland,140.31,47.38,0.32%,14.05,12.28,10.09,20.48,0.10,-15.37%,65.10,-5.90,55.84,2002,article 6,★★★,5.44,7.81,2.39
+Horizon Fixed Income Fund 422,,LU7935080906,Fixed Income,Global,Growth,EUR ,luxembourg,279.24,70.97,0.11,24.27,5.28%,-2.99,,0.86,-14.29,-154.44,-1.06,75.40,n.a.,Art 9,1,8.32,6.09,2.87
+Horizon fixed-income Fund 423,FND0423,LU6787245122,fixed-income,APAC,growth,EUR,luxembourg,102.07%,27.33,0.39,27.17,-1.42,-12.43,14.74,0.98%,-6.61,77.45,-2.65,63.14,1999,Article 8,1,9.96,7.86,1.22
+Horizon equity Fund 424,FND0424,LU7487861232,equity,europe,Income,GBP,Luxembourg,9465.41,58.23,0.35%,19.15,8.20,25.92,12.14%,0.20,-12.26,-246.18,-5.01,16.43,2015,Art.8,5,9.67,3.54,2.28%
+Horizon Fixed Income Fund 425,FND0425,,Fixed Income,Global,Value,USD,luxembourg,12289.90,35.50,0.46,12.34,3.69,-5.04,18.21,-0.21,-8.33,145.11,-1.57,21.04,2022,Article 8,2,20.69,6.90,5.72%
+Horizon Alternatives Fund 426,FND0426,LU2131571800,Alternatives,EM,growth,JPY,luxembourg,944.35,74.02,0.44%,-9.99,7.79,7.52,26.82,-0.35,-7.25,-116.41,5.08,34.53,2005,N/A,4,1.84,9.42,1.15
+Horizon fixed-income Fund 427,FND0427,LU4992460614,fixed-income,Global,Growth,JPY,France,771.76,34.83,0.45%,0.99,-2.82,9.09,3.18,0.80,-9.70,84.21,6.02,140.99,2006,Art.8,2,3.65,4.58,3.76
+Horizon Equity Fund 428,FND0428,LU8988125758,Equity,US,VALUE,EUR ,Cayman,1965.69,101.30%,0.21%,23.55,14.40,5.24,6.82,0.25,-8.81,-643.69,2.66,20.88,2006,article 6,4,4.66,7.38%,4.53
+Horizon equity Fund 429,FND0429,LU5748754309,equity,Global,growth,USD,Cayman,4487.45,34.95,0.39,-12.13,10.69,-1.49,2.33,,-15.44,548.95,-1.00,26.19,2013,Art 9,,10.52%,1.00,0.15
+Horizon FI Fund 430,FND0430,LU8600987135,FI,Emerging Markets,Growth,USD,UK,583.06,30.02,0.26,-9.02,5.94,0.01,18.40,0.75%,-31.08,-106.94,0.98,17.97%,2019,Art 9,3,14.76,5.45,0.59
+Horizon FI Fund 431,FND0431,,FI,Europe,Growth,EUR,Luxembourg,324.25,39.22%,0.25,6.03,19.23%,10.78,19.24,0.85,-17.73,-509.67,3.69,21.82,2006,article 6,★★★,6.92,8.85,4.14
+Horizon Equity Fund 432,FND0432,LU2617026995,Equity,US,Growth,USD,Ireland,356.93,80.94,0.26,21.67,7.52,6.83,5.94%,0.98,-13.88,-51.82,0.03,29.63,n.a.,Article 8,5,5.07,3.96,4.81
+Horizon Money Market Fund 433,,LU2339852125,Money Market,Global,Blend,JPY,US,5365.06,41.00,0.86,4.80,16.65,-1.38%,23.84,1.64,-10.31,-216.89,5.08,81.32,2012,Art 9,4 stars,2.48,9.54,4.43
+Horizon Money Market Fund 434,FND0434,,Money Market,Emerging Markets,Value,usd,US,4580.23,77.49,0.30,-4.00,,14.85,23.31,1.63,-13.45,172.62,1.13,115.68,2002,Article 6,5,12.22,5.87,0.00
+Horizon Equity Fund 435,FND0435,LU1448972960,Equity,EM,Growth,EUR,Cayman,1925.04,56.99,0.48,-15.05,4.03,7.75,19.40,0.60,-20.43,-37.91%,-1.96,19.91%,2004,Art.8,5,2.27,6.27,7.53
+Horizon FI Fund 436,FND0436,LU8167534944,FI,europe,Blend,JPY,France,109.22,134.62,0.54,-1.25%,7.37,14.11,7.22,1.38,-20.39,132.09,1.40,49.46,2018,Article 6,5,6.00,14.20,3.50
+Horizon Alternatives Fund 437,FND0437,LU1479827949,Alternatives,US,growth,JPY,UK,,30.90,0.43,,4.39,14.64,17.77,0.34,-15.01,-26.59,6.38,75.73,2014,,4,5.52,1.93,7.03
+Horizon Alternatives Fund 438,,LU6711135150,Alternatives,Global,growth,JPY,UK,8025.01%,30.31,0.47,3.62,-3.79,9.16,,1.58,-16.47,312.34,1.76,28.62,2013,Art.8,2,5.76,5.71,4.47
+Horizon Fixed Income Fund 439,,,Fixed Income,Global,VALUE,EUR ,Luxembourg,295.27,22.85,0.83%,21.59,4.35,5.71,15.62,0.45,-11.90,-48.69,0.42%,40.57%,2015.0,Article 8,3,14.27,14.10,4.49
+Horizon Money Market Fund 440,FND0440,LU4234121765,Money Market,Europe,Aggressive,EUR ,luxembourg,1545.77,84.62,0.13,,3.61,9.09,,0.18,-21.64,354.33,-1.50,62.44,2015.0,N/A,4,5.54,7.52,0.00
+Horizon Equity Fund 441,FND0441,LU5766877113,Equity,EM,Blend,usd,IE,839.67,60.96,0.98,-9.82,-4.27,9.99,13.08,1.29,-35.31%,307.89,-1.12,49.46,1998,Article 8,2,8.85,14.56,3.64%
+Horizon fixed-income Fund 442,FND0442,LU5487897154,fixed-income,EM,VALUE,EUR,IE,1251.02,29.66,0.21%,20.27,,-3.02,3.18,0.43,-26.07,-22.70,1.59,31.68,2022,N/A,4 stars,0.20,8.41,5.45
+Horizon Fixed Income Fund 443,FND0443,,Fixed Income,Europe,Aggressive,EUR ,luxembourg,604.12,94.87,0.32,-11.38,,7.18,17.87,0.49,-18.40,82.37,-2.86,13.73,2009,article 6,5,8.96,12.07,4.58
+Horizon FI Fund 444,FND0444,LU5186607074,FI,Global,Value,EUR ,UK,82.13,122.54,0.12,4.40%,0.76,20.08,13.91,0.15,-29.41%,-52.85,0.15%,163.60,2000,Art 9,4,10.57,9.18,5.55
+Horizon Equity Fund 445,FND0445,LU6207300842,Equity,Emerging Markets,Value,USD,Ireland,2023.15,26.11,0.13,23.36,-1.35,2.58%,14.48,1.04,-22.60,-197.94,2.08,11.83,2015,Article 8,3,2.77,11.55,5.55%
+Horizon Money Market Fund 446,FND0446,,Money Market,APAC,Value,GBP,Luxembourg,2603.44,19.73%,0.77,11.64,16.07,10.43,7.21,1.11,-31.15,33.37,-8.77,82.89,2020,N/A,1,6.42,12.42,1.80
+Horizon fixed-income Fund 447,FND0447,LU8270506843,fixed-income,Europe,Blend,GBP,luxembourg,25.07,97.42,0.31,-2.13,8.55,-8.15,25.30,0.09,-25.11,182.11,-3.07,74.43,2010,Article 8,★★★,3.31,12.09,3.83
+Horizon Fixed Income Fund 448,FND0448,LU2386979864,Fixed Income,europe,Blend,JPY,Luxembourg,1104.18,24.46,0.31,11.54,11.16,0.13,14.46,1.07,-28.54,-60.83,4.86,17.11,2005,Art 9,1,5.13,10.27,8.89
+Horizon FI Fund 449,FND0449,LU5555404386,FI,europe,Aggressive,USD,UK,1427.93,64.29,0.69,8.94,14.39%,7.82,23.89,0.36,-16.70,-89.91,1.89%,45.84,2020,Art 9,1,9.09,3.63,3.29
+Horizon FI Fund 450,FND0450,LU2442529516,FI,US,Blend,JPY,Cayman,1129.92,119.04,0.42,3.34,23.47,3.33,15.10,0.51,-12.63,246.43,-5.87,18.54,2006,Art.8,,5.55,7.03,1.86
+Horizon fixed-income Fund 451,FND0451,LU2086688361,fixed-income,Global,growth,usd,Cayman,126.35,105.60,0.18,23.33,12.08,-5.76%,18.43,,-17.15,-96.52,1.43,53.50,2011,Article 9,1,4.74,7.47,4.11
+Horizon equity Fund 452,FND0452,LU2947818490,equity,Emerging Markets,VALUE,JPY,France,7141.73%,48.99,0.34,5.67,2.45,5.31,16.81,0.68,-17.28,-404.56,-0.35,88.08,2017,N/A,3,6.47,9.91,3.64
+Horizon fixed-income Fund 453,FND0453,LU7357068451,fixed-income,europe,VALUE,USD,Ireland,1123.52,34.04,0.46,22.58,11.79,-2.00,10.37,0.71,-19.38,-336.96,3.38,33.42,2023,Article 9,★★★,6.29,7.96,1.61
+Horizon Money Market Fund 454,FND0454,LU5792961859,Money Market,Global,growth,USD,US,370.93,75.36,0.49,-0.53,,3.67,9.85,0.50,-19.95,79.87,2.55,28.00,2010,Article 9,4 stars,8.55,1.89%,2.24
+Horizon Money Market Fund 455,FND0455,LU9100219703,Money Market,Europe,Blend,JPY,US,865.27,46.77,0.82,-0.99,,5.73,9.98,,-16.37,-100.79,2.33,108.20,1998,Art.8,4,7.40,4.01,0.00
+Horizon fixed-income Fund 456,FND0456,LU3094147115,fixed-income,Emerging Markets,Blend,EUR ,US,658.55,58.01,0.32%,15.08,3.14,2.70,,0.68,-18.16,-474.00,-2.41,32.98,2011,article 6,1,4.85,6.09,2.00
+Horizon Mixed Fund 457,FND0457,LU2217812714,Mixed,US,Aggressive,EUR,IE,665.81,71.79,0.88,18.87,10.79,8.81,10.06,1.05,-32.78,-80.79,4.02,65.71%,2000,N/A,3,6.74,7.09,7.03
+Horizon equity Fund 458,FND0458,LU7332193768,equity,APAC,Blend,JPY,France,763.16,92.45,0.14,32.42,12.60,15.99,23.83,1.06,-21.69,224.43,3.10,38.01,1999,,★★★,11.71,9.45,5.23
+Horizon Fixed Income Fund 459,FND0459,LU8535746310,Fixed Income,United States,Value,EUR,Cayman,15061.27,29.33,0.40,1.83%,11.11%,4.41,13.76,0.14,-22.28,-548.51,-2.12,76.71,2015,article 6,5,6.13%,4.58,1.54
+Horizon Fixed Income Fund 460,FND0460,LU4315660063,Fixed Income,United States,Blend,usd,Luxembourg,159.85,58.03,0.41,10.66,11.60,12.19,13.76,0.54,-18.06%,172.75%,-2.10,15.99%,1998,article 6,5,17.93,7.70%,3.32
+Horizon Money Market Fund 461,FND0461,LU9475383254,Money Market,EM,Value,EUR,France,158.82%,61.12%,0.38,20.87,-4.77,13.58,13.62,0.51,-21.64,30.31,-0.31,42.30%,2023,Article 9,4,3.58,5.09,1.00
+Horizon Money Market Fund 462,FND0462,LU3897473235,Money Market,Global,Blend,USD,luxembourg,602.66%,26.92,0.51,13.61,-8.87,-0.41,19.81,0.33,-14.54,-57.87,3.36,28.19,2019,article 6,★★★,0.42,4.68%,3.68
+Horizon Fixed Income Fund 463,FND0463,LU5475403181,Fixed Income,Global,Income,GBP,Cayman,1121.11,28.30,0.57%,13.23,3.54%,11.10%,6.31,-0.22,-3.82,569.03,-3.15,42.98,2009,Article 9,4,1.62%,5.65,3.83
+Horizon fixed-income Fund 464,FND0464,LU7400413912,fixed-income,US,growth,EUR ,IE,158.86,59.49,0.40,19.75,10.19,0.03,1.16,0.01,-10.57,-11.08%,-0.26,83.16,2017,Art 9,n/a,10.07,7.47,1.61
+Horizon FI Fund 465,FND0465,,FI,EM,Income,EUR ,Luxembourg,614.44,59.79,0.36,24.03,,4.32,14.36,1.08,-26.59,-263.73,-0.33,48.60,2013,Art.8,1,7.07,13.79,3.81
+Horizon FI Fund 466,FND0466,LU8168291465,FI,EM,Growth,usd,US,182.71,65.78%,0.44,32.50,3.83,7.42,13.85,1.22,-24.51,335.25,-1.08,39.05,2016,Art.8,3,9.06,11.75,4.72
+Horizon Money Market Fund 467,FND0467,LU3330591318,Money Market,APAC,Income,usd,Luxembourg,431.61,54.70,0.39,6.69,12.10,0.07,17.04,1.24,-31.02,8.55,0.16,59.15,2018,Article 6,5,11.04,4.77,3.04
+Horizon equity Fund 468,FND0468,LU4865270189,equity,US,Value,EUR ,Ireland,140.63,110.69,0.33,12.22,-0.96,4.22,7.77,0.39,-20.83,-152.71,2.51%,13.13,2004,Article 8,n/a,8.13%,6.56,5.22
+Horizon Money Market Fund 469,FND0469,LU9739420466,Money Market,Emerging Markets,Blend,USD,IE,709.49,122.67,0.25,-1.33,11.24,0.30,11.48,0.57,-14.19%,,-0.60,35.51,2007,Art 9,1,9.44,11.99,9.11
+Horizon FI Fund 470,FND0470,LU8952104426,FI,APAC,Value,usd,Cayman,683.77,53.15,0.25,20.70,8.84,12.25,18.27%,0.41,-10.22,381.60,-4.79,65.82,2016,Art 9,4 stars,9.37,9.02,2.40
+Horizon Equity Fund 471,FND0471,LU8909916298,Equity,europe,Aggressive,usd,UK,1285.64,49.24,0.21,18.66,-1.85,-2.18,23.12,0.73%,-21.09,-642.71%,4.87,11.89,2009,Article 6,n/a,8.56%,9.40,4.19
+Horizon Mixed Fund 472,FND0472,LU7297622554,Mixed,United States,Growth,usd,Luxembourg,926.38,42.71,0.13,1.71,5.18,2.40,21.80,0.97,-18.91,144.75,4.24,38.12,2016,Article 6,4 stars,8.83,3.40,5.81
+Horizon FI Fund 473,FND0473,LU3803155359,FI,Asia Pacific,VALUE,EUR,Ireland,213.24,64.05,0.26,-6.26%,10.53,23.85,2.45,,-6.21%,162.43,2.47,38.82,2018,Art 9,4 stars,8.44,7.64,2.22
+Horizon fixed-income Fund 474,FND0474,LU7196713539,fixed-income,Asia Pacific,Value,EUR,US,735.80%,35.67,0.49,,3.12,-1.41,9.07,-0.60,-6.49,-170.84,-0.42,14.83,2006,article 6,1,4.54,5.44,6.01
+Horizon fixed-income Fund 475,FND0475,,fixed-income,Asia Pacific,Growth,usd,France,45.09,48.85,0.77,-1.85,3.80,8.34,10.53,0.24,-16.34,-37.02,-0.61,17.00,2023,Art 9,2,2.24,10.03,0.00
+Horizon FI Fund 476,FND0476,LU4965208854,FI,Global,Aggressive,USD,UK,380.51,30.09,0.18,5.58,2.38,2.41%,23.13,0.32,-23.25,53.25%,4.11,41.43,2002,Art.8,n/a,3.96%,13.55,0.00
+Horizon Money Market Fund 477,FND0477,LU3658506308,Money Market,Europe,growth,usd,Ireland,8257.54,97.80,0.05,14.32,17.38,13.23,9.53,0.53,-13.98,229.35%,10.42,17.63,2016,article 6,3,4.58,8.25,5.41
+Horizon Alternatives Fund 478,FND0478,LU7809982116,Alternatives,US,Growth,EUR,Ireland,2906.05,35.61,0.22,-2.64,9.59,1.70,10.02%,0.48,-19.45,116.79%,1.93,14.00,2015,Article 6,5,4.29,5.04,1.86
+Horizon Fixed Income Fund 479,FND0479,LU7797399861,Fixed Income,US,VALUE,usd,IE,395.94,38.54,0.64,25.11,,5.59,21.71,0.19,-12.54,-226.41,-0.84,18.10,2017,Art 9,4 stars,0.20,14.86%,3.01
+Horizon Alternatives Fund 480,FND0480,LU2598793001,Alternatives,Asia Pacific,Blend,EUR,IE,1778.60,42.96,0.24,-2.17,18.64,11.08,11.64,0.83,-8.61,23.53,-3.36,13.03,2000,Article 9,4,4.47,8.25,0.00
+Horizon FI Fund 481,FND0481,LU4660693393,FI,APAC,Value,GBP,Ireland,35.19,197.57,0.52%,1.61,-3.96,14.49,5.79,0.48,-23.86,102.52,-3.02,32.72%,2023,article 6,1,0.61%,14.45,4.39
+Horizon Equity Fund 482,FND0482,LU9304399714,Equity,Asia Pacific,Value,usd,US,121.59,45.62,0.68,7.14,-2.03,10.59,6.97,-0.06%,-16.19,-203.43,3.67,29.41,2001,,3,7.31,7.30%,0.00
+Horizon Fixed Income Fund 483,FND0483,,Fixed Income,EM,Aggressive,usd,Luxembourg,573.32,48.00,0.34%,2.05,21.59,-5.90,11.27,0.92%,-16.52,293.87,-3.57,174.11,2000,Art.8,★★★,5.32%,10.95,6.49
+Horizon Money Market Fund 484,FND0484,LU4676234137,Money Market,Global,Aggressive,usd,UK,8427.55,46.27,0.07,6.82,-0.43,-1.45,8.16,0.73,-2.00,569.06,4.33,5.00,2014,,2,3.13,7.48,0.00
+Horizon fixed-income Fund 485,FND0485,LU3035907342,fixed-income,US,Blend,usd,Ireland,229.11,51.87,0.31,0.18,6.44,8.97,11.34,1.28,-12.31,255.61,-3.93,41.57%,2010,N/A,2,3.97,20.21,1.65
+Horizon Money Market Fund 486,FND0486,,Money Market,APAC,Income,JPY,UK,8228.81,39.26%,0.57,4.88,-11.28,12.95,12.92,0.32%,-20.99%,149.26,5.02,37.53%,2016,Article 9,,6.72,8.68,2.34
+Horizon fixed-income Fund 487,FND0487,LU7794031038,fixed-income,europe,Blend,JPY,France,235.36,53.32,0.38,2.06,9.75,11.25,9.51,0.96,-2.98,-238.66,3.05,59.05,2016,Article 6,★★★,11.92,3.92,6.66
+Horizon fixed-income Fund 488,FND0488,LU9538134817,fixed-income,Emerging Markets,Growth,EUR ,US,434.87,51.92,0.69,31.25,14.84,12.08,4.84,0.68,-25.74,-220.98,-6.96,32.35,2022,article 6,4,5.91,6.72,4.41
+Horizon Mixed Fund 489,FND0489,LU7826667935,Mixed,europe,Blend,EUR,IE,284.13%,74.55,0.11,14.00,9.62,-1.38,18.66,-0.04,-34.95,36.60,3.55,129.62,2014,Art.8,1,11.99,4.97,4.51
+Horizon Fixed Income Fund 490,FND0490,LU4067719924,Fixed Income,EM,Aggressive,GBP,Cayman,5467.70,27.62,0.18,4.12,11.00,-5.81,15.21,0.36,-10.97,277.97%,-3.74,8.58,2012,Art.8,5,2.67,6.97,5.47
+Horizon Fixed Income Fund 491,FND0491,LU4159493002,Fixed Income,Asia Pacific,Aggressive,EUR,France,383.18,95.06%,0.25,0.70,9.91%,2.68,27.05,0.92%,-28.55,77.65%,-1.43,5.00,2020,N/A,1,8.26,7.37,3.98
+Horizon equity Fund 492,FND0492,LU2198209550,equity,APAC,Value,GBP,Luxembourg,468.57,44.13,0.17,16.42%,13.12,1.80,17.06,0.03,-20.20,275.42,6.17,21.69,2014,Art.8,2,2.97,10.32,4.17
+Horizon FI Fund 493,FND0493,,FI,US,Blend,USD,France,2015.23,62.23,0.23,0.64%,26.82,1.03,15.07%,0.83,-16.20,74.25,-7.07,82.50,2018,Article 8,5,8.82,12.11,4.42
+Horizon Alternatives Fund 494,FND0494,,Alternatives,APAC,Growth,USD,Luxembourg,701.10,38.86%,0.21%,13.70,-0.55,-0.51,4.61,-0.05,-18.78,-29.15,0.69%,6.74,2015,article 6,2,3.46,11.00,0.00
+Horizon FI Fund 495,FND0495,LU6362407948,FI,US,Value,EUR ,UK,477.44,38.63%,0.45%,11.77,3.05%,2.21,18.07,0.04,-13.59,-23.31,1.17,100.21,2023,article 6,4 stars,11.69%,8.68,5.02
+Horizon FI Fund 496,FND0496,LU9960688718,FI,Asia Pacific,Income,USD,Ireland,687.02,36.57,0.28,-3.93,,4.22,13.27,0.36,-12.03,-132.82,-2.61,8.11,2009,Article 9,★★★,0.93,2.55,3.81
+Horizon Mixed Fund 497,FND0497,,Mixed,Asia Pacific,Growth,EUR ,Cayman,436.31,47.62,0.39%,19.41,6.26,2.95,6.85,1.00,-15.97,123.53,1.81,5.20,2015,Art.8,,11.24,9.43,2.02%
+Horizon fixed-income Fund 498,FND0498,LU7962286921,fixed-income,United States,Aggressive,USD,Cayman,551.10,61.15,0.54%,-9.86,-0.50,4.31,16.81,-0.28,-13.86,-2.33,1.25,60.39,2010,Article 6,1,3.41,2.85%,3.43%
+Horizon equity Fund 499,FND0499,LU2862754776,equity,APAC,Value,USD,UK,60.67,65.81,0.20,5.52,-12.59%,0.52,17.86%,1.14,-20.94%,-196.40%,5.23,36.73,2015,Article 6,n/a,7.15,7.45,0.13
+Horizon Equity Fund 500,FND0500,LU7191107496,Equity,europe,Income,EUR ,luxembourg,3152.44,29.11%,0.36,-31.18,1.76,1.57,1.32,,-32.83,-206.19,-1.15,111.85%,1999,Article 6,4 stars,3.19,3.68,5.58
+Horizon Money Market Fund 501,FND0501,LU7295414750,Money Market,Global,Aggressive,EUR,Cayman,,101.73,0.25,19.44,12.78,4.92,6.12,0.16%,-2.00,99.00,-2.66,30.43,2000,Article 6,n/a,6.79,6.42,0.95
+Horizon Fixed Income Fund 502,FND0502,,Fixed Income,Asia Pacific,Value,EUR ,Ireland,4771.17,34.14,0.34,-3.81,12.27,13.19,14.19,0.20,-24.88,-254.83,-4.10,106.57,2018,Art.8,3,4.77,4.09,4.92
+Horizon Mixed Fund 503,FND0503,LU4129993615,Mixed,Europe,Aggressive,JPY,Cayman,164.89,50.91%,0.23,4.37,6.40,9.07,7.31,0.85%,-25.09,-440.18,-1.16,15.70,2018,Article 6,1,1.77,9.51,4.43
+Horizon equity Fund 504,FND0504,LU8538063857,equity,Europe,Aggressive,usd,US,688.05,63.88,0.89,,0.77,-1.02,6.51,0.50,-25.33%,-120.86,2.36,32.45,2010,Article 9,,10.22,1.00,0.90
+Horizon Fixed Income Fund 505,FND0505,LU9002206959,Fixed Income,Emerging Markets,Blend,EUR,IE,48598.54,38.72,0.21,-12.66,11.98%,7.51,11.69,0.56,-25.29,-339.56,4.62,66.57,2005,article 6,4,2.26,7.00,1.88
+Horizon fixed-income Fund 506,FND0506,LU6591535170,fixed-income,europe,VALUE,GBP,luxembourg,3364.65,61.81,0.29,,10.84,11.20,13.70,0.47,-12.66,178.99,-4.11,38.39,2007,N/A,1,6.70,1.00,2.02
+Horizon Alternatives Fund 507,FND0507,LU6022295691,Alternatives,EM,VALUE,JPY,UK,386.64,44.04,0.16%,8.62,5.51,16.72%,27.96,,-24.75,397.84,9.30,24.65,1999,N/A,★★★,5.24%,8.00,3.36
+Horizon equity Fund 508,FND0508,LU8040309481,equity,Emerging Markets,Income,USD,Cayman,,39.39,0.34,3.38,14.24,10.11,17.31,-0.08,-17.11,,9.76,145.86,2015,Art 9,5,2.57,5.02,2.28
+Horizon fixed-income Fund 509,FND0509,LU9411479192,fixed-income,US,Income,USD,Cayman,63.39,42.27,0.31,24.25,13.48,11.02%,12.35,0.35,-2.00,98.78%,1.91,16.37,2019,article 6,n/a,6.45,7.94,0.00
+Horizon equity Fund 510,FND0510,LU8239201823,equity,EM,Aggressive,JPY,UK,218.17,37.23,0.20,14.22,6.52,4.11,6.50,0.99,-5.56,-40.17,-4.79,32.23,2013,Article 9,3,4.12,12.24,6.07
+Horizon Mixed Fund 511,FND0511,,Mixed,Asia Pacific,Aggressive,JPY,Cayman,2588.93,72.37,0.44%,20.21,10.97,10.93,17.22,0.89,-22.42,171.54%,2.95,43.18,2012,Art 9,3,2.08,12.63,4.36
+Horizon Equity Fund 512,FND0512,,Equity,APAC,Income,GBP,Luxembourg,895.60%,21.55,0.25,-3.24,6.23,-2.11,,0.58,-6.29,494.64,-0.52,12.91,2008,Art 9,n/a,0.20,10.25%,4.84
+Horizon fixed-income Fund 513,FND0513,,fixed-income,US,Growth,USD,France,679.62,23.03,0.30%,15.52,11.93,5.24,24.44,0.69,-17.55,,1.20,65.93,2005,N/A,3,5.29,9.27,0.41
+Horizon equity Fund 514,FND0514,LU8280034880,equity,Global,VALUE,EUR ,France,1809.00%,22.91,0.29,-22.76,,15.55,26.34,0.66,-31.23,224.36,-1.75,101.29,2013,article 6,1,2.38,10.96,3.82
+Horizon Money Market Fund 515,FND0515,,Money Market,europe,Income,EUR ,Ireland,3489.37,41.98,0.09,10.95,21.60%,6.52,10.24,-0.05,-27.62,268.20,-0.56,250.62,2020,Art 9,1,2.71,5.41,4.11
+Horizon Alternatives Fund 516,FND0516,LU2254892650,Alternatives,Europe,Value,GBP,US,853.03%,83.62,0.86,7.42,-6.11,10.73,11.26,0.27,-25.30,383.24,6.70,33.68,2007,Art.8,5,8.51,9.46,8.16
+Horizon Alternatives Fund 517,FND0517,LU9129788880,Alternatives,Emerging Markets,Value,EUR,France,750.98,34.12%,0.17,5.88,17.13,5.72,19.30,0.58%,-20.15,51.52,-0.74,59.82,2018,Article 8,4 stars,4.90,5.31,1.78
+Horizon FI Fund 518,FND0518,LU1315944327,FI,EM,Growth,USD,UK,1689.45,50.50,0.25,,-0.55,4.26,6.08,0.15%,-9.79,-394.23,0.75,29.98,2001,Article 9,4 stars,6.58,10.40,4.28
+Horizon fixed-income Fund 519,FND0519,LU2889797283,fixed-income,APAC,Blend,USD,luxembourg,1616.57,32.54,0.26,19.07,17.73,3.98,8.71,0.83%,-10.57,-184.82,-4.35%,31.81,2005,Article 9,1,8.27,11.23,2.69
+Horizon Equity Fund 520,FND0520,LU2518090412,Equity,EM,Value,JPY,France,466.48,73.60,0.22,,4.61,2.02,17.63,0.92,-31.47,,2.19,31.57%,2016,N/A,,2.51,7.58,6.52
+Horizon Alternatives Fund 521,FND0521,LU6955503762,Alternatives,europe,VALUE,GBP,IE,1835.83%,72.37,0.34,-6.96,6.93,18.94,6.38,,-20.32,-8.51,-7.88,52.97,2007,Art 9,2,7.50,7.02,2.18
+Horizon Fixed Income Fund 522,FND0522,LU1562820887,Fixed Income,United States,Income,USD,Ireland,174.54,61.61,0.17%,5.74,5.37,4.72,3.22,-0.02,-22.91%,-413.72%,-2.25,21.93,2022,Article 9,4 stars,2.22,6.87,2.92
+Horizon equity Fund 523,FND0523,LU9558330954,equity,APAC,Aggressive,GBP,luxembourg,2230.08,10.62,0.49,3.50,1.01,-6.95,13.05,,-13.87,102.86,0.93,9.13,2010,Article 6,n/a,8.89,6.79,0.87
+Horizon Mixed Fund 524,FND0524,LU2456258962,Mixed,APAC,Blend,USD,Luxembourg,1215.14,45.94,0.21,-4.12,8.67,-7.59,20.20%,0.92,-8.70%,-311.21,-7.74,71.93,2002,Article 6,4 stars,14.47,12.56,4.39
+Horizon FI Fund 525,FND0525,LU9489617527,FI,Asia Pacific,Growth,GBP,Cayman,840.47,48.47,0.26,8.11,19.28,15.36,15.94,0.51,-30.97%,247.94,-3.48,20.15,2009,Art 9,n/a,1.68%,10.89,4.97
+Horizon Money Market Fund 526,FND0526,,Money Market,United States,VALUE,EUR,Ireland,461.74,99.83,0.25,15.86,1.31,-1.53,13.29,,-15.44,24.81,-5.81,18.58%,2019,Article 9,4,2.23,13.85,2.94
+Horizon FI Fund 527,FND0527,LU6526019352,FI,Europe,growth,usd,UK,575.06,40.37,0.34,-3.45,-2.47,8.03,15.51,0.49,-20.08,-364.40,-4.35,17.67,2006,N/A,2,8.58,17.85,3.73
+Horizon Fixed Income Fund 528,FND0528,LU3061922146,Fixed Income,Asia Pacific,Income,usd,US,259.55%,102.40,0.44,-8.58,0.34,20.07,,0.82,-14.97,-147.65,5.74,13.79,2016,Art.8,2,5.76%,7.40,3.95
+Horizon Fixed Income Fund 529,FND0529,LU1927211402,Fixed Income,Europe,VALUE,EUR,Cayman,40.09,32.98,0.32,24.92,14.27,-15.39,1.00,0.27,-27.34,-6.15,0.25,37.09,2020,Article 6,3,1.46,14.48,4.84
+Horizon FI Fund 530,FND0530,,FI,Asia Pacific,growth,usd,luxembourg,248.31,39.32,0.15,16.10,0.18,2.25,5.14,1.43,-18.20%,-156.77,5.94,20.04,2019,Art.8,3,4.09,3.94,0.00
+Horizon equity Fund 531,,LU2050688730,equity,europe,Growth,usd,France,581.20,98.27,0.45,4.76%,1.77%,3.50,22.37,0.33,-15.45,-483.50%,2.46,130.11,2001,Art 9,3,15.39,11.19,0.00
+Horizon equity Fund 532,FND0532,LU5052852701,equity,Europe,Blend,EUR,Luxembourg,308.98,21.22,0.37%,33.62,10.77,2.21,19.85,0.46,-21.18,43.29,5.75,23.26,2013,Article 8,n/a,3.79,7.05,3.79
+Horizon Equity Fund 533,FND0533,LU7895321498,Equity,Global,Blend,GBP,luxembourg,221.78,60.54,0.18,11.87,26.48,-2.01,16.58,0.88,-4.97,84.50,0.96,35.34,2020,Art 9,★★★,10.64,9.75,1.35
+Horizon Fixed Income Fund 534,FND0534,LU2259789030,Fixed Income,Emerging Markets,growth,JPY,France,163.76,76.36,0.27,18.26,8.82,8.78,13.11,0.51%,-18.07,-456.58,3.65,22.40,2015.0,Article 8,4 stars,0.20,7.04,5.19
+Horizon Money Market Fund 535,FND0535,LU7066287354,Money Market,US,Income,USD,IE,983.48,75.37,0.61,0.95%,-12.99,6.12,22.44,1.04%,-9.24,-15.08%,-2.46,137.52,2015,N/A,2,5.50,7.83,3.37
+Horizon fixed-income Fund 536,FND0536,LU3244612085,fixed-income,US,Aggressive,EUR,UK,2065.44,50.24,0.21,3.39,13.57,5.41,12.51,0.22,-12.53,-236.63,0.74,14.62,2008,article 6,4,10.79,2.04,9.23
+Horizon Alternatives Fund 537,FND0537,LU2721715044,Alternatives,Global,VALUE,usd,IE,672.00,26.88,0.13,,6.05,6.77,9.88,0.55,-17.82,,4.83,43.43,2017,Article 9,1,5.50,4.81,0.00
+Horizon Mixed Fund 538,FND0538,LU4206541890,Mixed,Europe,growth,usd,UK,414.51,67.56,0.66,17.09,19.46,-0.93,6.31,0.55,-15.06,352.27,-3.90,68.40,2000,Article 9,2,1.47,1.50,0.70
+Horizon equity Fund 539,FND0539,LU7031351770,equity,Emerging Markets,Income,EUR ,UK,3679.07,44.26,0.37,-3.48,-0.88,10.17,23.06,1.18,-23.26,13.29,4.86,129.86%,2023,Article 8,1,8.38,5.83,1.59
+Horizon fixed-income Fund 540,FND0540,LU8434679616,fixed-income,europe,Value,JPY,IE,538.41%,25.99%,0.13,-4.66,6.85,1.67,12.67,0.40,-26.45,,1.54,41.00,2021,,3,5.02%,12.66%,1.63
+Horizon Fixed Income Fund 541,FND0541,LU9781005660,Fixed Income,europe,Value,GBP,Cayman,464.10,48.91,0.35,18.12,-0.36,11.56,16.26,1.29,-18.91,46.22%,1.07,26.99,2001,article 6,4,9.02,3.86,1.52
+Horizon Equity Fund 542,FND0542,LU2606720976,Equity,Asia Pacific,Value,EUR ,US,,70.37,0.22,21.41%,-2.11,5.25,,0.85,-16.91,-378.58,-3.60,94.24,2010,article 6,5,6.08,8.63,4.32
+Horizon Fixed Income Fund 543,FND0543,LU9933201589,Fixed Income,Emerging Markets,growth,EUR,US,1828.01,47.65,0.22,-6.34%,0.92,9.05%,8.18%,1.27,-18.90,354.52,-4.81,11.21,2005,N/A,★★★,9.88,11.67,0.51
+Horizon Mixed Fund 544,FND0544,LU8349254432,Mixed,Global,Aggressive,USD,UK,122.55,98.82,0.63,-11.36,10.08,13.15,24.68,0.02%,-9.39,448.41,2.66,115.42,2002,Art.8,★★★,9.37,12.17,3.09
+Horizon Money Market Fund 545,FND0545,LU6785030175,Money Market,US,Value,USD,Cayman,846.25,35.79,0.36,-7.20,2.08,9.91,8.05%,-0.03,-13.36,408.40%,-2.00,38.08,2000,Article 6,★★★,1.83,7.44%,1.41
+Horizon fixed-income Fund 546,FND0546,LU9106970608,fixed-income,Emerging Markets,Blend,JPY,US,4538.77%,47.55,0.46,,-7.63,6.86,16.94,1.29,-25.74,367.71,-1.34,24.62,2006,Art 9,2,8.57,1.23,5.54
+Horizon Equity Fund 547,FND0547,LU8904564928,Equity,US,VALUE,EUR,IE,65.92%,33.82,0.22,12.46,5.25%,3.03,10.98,0.96,-16.80%,225.73,0.77,51.08,2003,,,1.10,9.74%,1.40
+Horizon Mixed Fund 548,FND0548,,Mixed,US,growth,usd,Cayman,1215.90,54.08,0.18,0.43,13.68,11.52,10.79,-0.03%,-11.20,-422.15,1.76,175.47%,2010,article 6,4,8.37,7.90,0.00
+Horizon Equity Fund 549,FND0549,LU2109882597,Equity,APAC,Aggressive,EUR,France,538.66,80.29,0.20,,9.84,1.81,18.69,1.39%,-21.25,-39.67,1.57,9.41,2004,N/A,4 stars,7.26,5.27,4.18
+Horizon FI Fund 550,FND0550,LU9803619957,FI,Emerging Markets,Growth,GBP,France,3327.45,219.73,0.20,-5.59,2.96,3.16,1.00,0.69,-30.93,-225.49,-1.09,25.54,2021,Article 6,3,8.76%,13.37,7.54
+Horizon Fixed Income Fund 551,FND0551,LU4798939140,Fixed Income,APAC,growth,GBP,Cayman,540.41,35.86,0.46,19.67,-4.88,4.30%,7.76%,0.53,-28.37,168.54,-4.66,8.88,2015,Article 6,,0.20,2.42,2.36
+Horizon fixed-income Fund 552,FND0552,LU1509321930,fixed-income,US,Income,EUR,US,126.64,83.04,0.17,13.17%,6.03,-2.98,10.22,,-22.70,138.65,-0.94,33.82%,1999,,1,0.20,9.09,3.38
+Horizon FI Fund 553,FND0553,LU9606875110,FI,Global,VALUE,EUR ,Luxembourg,231.40,129.40,0.34,4.01,17.91,8.92,20.57,-0.18,-17.81,-693.89%,-2.70,18.65,1998,Article 9,5,7.80,8.02,4.73
+Horizon Alternatives Fund 554,FND0554,LU8061350889,Alternatives,United States,Value,EUR,IE,296.20,18.41,0.62,9.94,16.73,7.42%,11.73,-0.63,-14.25,,7.09,74.51,2014,Article 6,2,7.22,6.12,10.88
+Horizon Money Market Fund 555,FND0555,LU4489800336,Money Market,United States,growth,JPY,UK,4094.95,137.80,0.20,2.23,-0.22,12.44,1.00,0.68,-13.14,,0.79%,9.00,2017,Article 6,4 stars,7.51,6.14,7.99
+Horizon FI Fund 556,FND0556,LU8650393617,FI,APAC,growth,usd,IE,2477.76,62.67,1.15,6.35,-8.02,9.40,19.14,1.61,-14.27,,-0.10%,85.66,2013,Article 6,4 stars,2.21,4.90,3.10
+Horizon Money Market Fund 557,FND0557,LU4131581204,Money Market,EM,VALUE,usd,US,11500.43,53.36,0.05,,-0.62,14.90,16.81%,0.65,-37.82,194.86,0.37,17.11,2003,Article 8,3,4.95,12.57,4.11
+Horizon FI Fund 558,FND0558,LU8702232760,FI,europe,Value,EUR ,US,395.08,27.96%,0.67,7.25,8.12,10.27,2.80,,-2.00,,3.21,31.58,2005,Article 8,★★★,6.96,14.33%,1.31
+Horizon Money Market Fund 559,FND0559,LU4260842279,Money Market,Europe,growth,EUR,UK,3475.88,61.28,0.24,-17.57,3.25,1.11,9.18,0.35%,-17.97,159.49,5.29,30.20,2018,,2,1.00,7.75,2.40
+Horizon Mixed Fund 560,FND0560,LU1027505727,Mixed,United States,Blend,JPY,Ireland,933.43,92.70,0.63%,18.99%,28.21,8.88,,0.71,-26.88,-261.15,-0.52,9.03,2002,Art.8,★★★,9.99,14.90,5.36
+Horizon FI Fund 561,FND0561,LU9488436072,FI,europe,growth,usd,Luxembourg,1043.82,26.09,0.60,,8.95%,6.54,9.18,0.87,-29.07%,328.93,3.50,143.12,2013,Art 9,★★★,2.63%,9.42,5.15
+Horizon fixed-income Fund 562,FND0562,,fixed-income,EM,Value,EUR ,UK,40.02,32.07,0.56,,18.34,7.35,19.05,0.72,-15.43,98.98,3.63,30.99,2003,Article 9,★★★,7.84%,1.00,0.00
+Horizon FI Fund 563,FND0563,LU5185298231,FI,Asia Pacific,Income,GBP,Luxembourg,763.59,49.99,0.21,30.53,4.78,13.90,7.56,0.79,-6.59,-112.32,1.09,69.71,2007,Article 9,n/a,10.85,7.87%,4.70
+Horizon Fixed Income Fund 564,FND0564,LU6167906150,Fixed Income,United States,growth,usd,US,4646.87,32.07,0.73,10.48,10.14,9.12,11.85,0.10,-31.64,394.67,-1.94,56.98,2002,article 6,3,5.96,14.73,4.42
+Horizon Equity Fund 565,FND0565,LU5813338578,Equity,Europe,Income,GBP,IE,1039.31,48.29,0.26,-0.80%,4.21,4.32,12.65,0.80,-29.75,278.89,2.92,24.69,2011,,2,4.30,7.71,3.05
+Horizon Money Market Fund 566,FND0566,LU9009183903,Money Market,APAC,growth,usd,IE,201.48,66.21%,0.23,-1.35,0.07,2.92%,19.93,-0.15,-2.00,527.19,1.91,14.90,2001,Article 8,4 stars,10.24,4.79,5.95
+Horizon Fixed Income Fund 567,FND0567,LU5957239839,Fixed Income,EM,Growth,GBP,IE,,31.06,0.45,5.22,-2.04,-4.89,11.56,1.20,-20.39,-42.38,0.18,27.64,2000,Article 9,4,2.16,10.34,2.36
+Horizon Equity Fund 568,FND0568,LU4967777845,Equity,APAC,VALUE,JPY,Luxembourg,2001.11,32.05,0.24,15.99,-5.82%,9.41,14.78,0.66,-17.03%,121.90,0.14,7.53,2001,article 6,1,10.46,11.73,3.71
+Horizon fixed-income Fund 569,FND0569,,fixed-income,Emerging Markets,Value,usd,Ireland,998.23,57.46%,0.34,18.80,7.54,17.73,19.83,,-21.11,-74.61%,1.30%,10.64,01/2018,Art.8,3,8.04,6.29,2.42
+Horizon Alternatives Fund 570,FND0570,LU3772761261,Alternatives,EM,Value,JPY,Luxembourg,12570.36,92.91,0.18,26.17,16.52,12.16,24.16,0.51%,-26.75,-254.66,-2.83,62.40,2019,Article 9,1,0.92,4.86,0.37
+Horizon Money Market Fund 571,FND0571,LU1183502500,Money Market,United States,Blend,JPY,France,1437.56,55.00,0.24,16.69,8.40,3.88,16.11,0.88,-13.74,,6.45%,9.34%,2002,Art 9,,5.92,8.90,3.40
+Horizon equity Fund 572,FND0572,LU7031054837,equity,APAC,Blend,JPY,France,584.24,51.24,0.94,25.12,7.76,15.78%,23.83%,1.10,-14.56,-59.25,-0.06,109.89%,1999,Art.8,1,4.20,9.67,4.41
+Horizon FI Fund 573,FND0573,LU1390776421,FI,United States,VALUE,EUR ,Ireland,2333.95,39.90,0.14,0.25,-4.23,13.80,23.27,0.93,-30.85,142.01,4.38,95.22%,2008,,n/a,10.83,13.41,0.46
+Horizon FI Fund 574,FND0574,,FI,europe,Aggressive,USD,Cayman,918.91,35.94,0.35,1.85,14.68,19.07,13.64,,-27.81,-376.39%,-2.51,31.84,2022,Art 9,★★★,0.20,5.57,6.11
+Horizon Money Market Fund 575,FND0575,LU2871146904,Money Market,US,VALUE,EUR ,IE,3895.80,52.74,0.52,15.41,3.67,12.40,14.86,0.28,-37.18,-198.46,-0.15,50.14,2018,Article 8,4,11.37,7.10,0.00%
+Horizon Equity Fund 576,FND0576,LU9404414766,Equity,europe,Income,EUR ,IE,738.42,28.07,0.32,1.03,11.75,-4.69,20.45,0.46,-6.10,-40.36,-1.89,102.01,2014,Article 8,n/a,9.65,7.57,4.13
+Horizon Money Market Fund 577,FND0577,LU8799977039,Money Market,Global,VALUE,EUR,Ireland,124.58%,56.17,0.11,8.71,9.54,18.08,14.87,1.12%,-12.69%,-35.19,1.10,41.86,2019,Article 8,★★★,6.32,11.50%,4.08
+Horizon Money Market Fund 578,FND0578,,Money Market,Global,Blend,JPY,Luxembourg,1047.65%,35.05,0.14,7.27,,-2.17,11.92%,0.49,-17.46,166.30%,-3.35,72.65,2009,Article 8,5,0.20,8.75,2.08
+Horizon equity Fund 579,FND0579,LU1676670338,equity,Global,Aggressive,GBP,US,605.73,17.82,0.25,18.12,7.60,10.57,14.09,0.38,-13.02,135.86,0.53,36.83,2013,Article 9,4,1.22,6.80,1.20
+Horizon equity Fund 580,FND0580,LU5028498386,equity,Emerging Markets,Growth,JPY,Cayman,,28.36,0.06,,9.90,15.49,6.15,1.39,-25.86,,-0.36,7.94,2005,Article 8,5,6.70,6.81,5.32
+Horizon Mixed Fund 581,FND0581,LU4947213772,Mixed,europe,Aggressive,usd,Luxembourg,683.05%,58.76,0.15,12.15,-2.65,2.37,20.63,0.92%,-26.19,-206.48%,2.95,17.53,2013,article 6,4,7.65%,14.71%,9.14%
+Horizon Money Market Fund 582,FND0582,,Money Market,EM,Income,GBP,France,189.36,94.29,0.34,18.23,19.30,14.74,13.11,0.67,-25.87,58.61,-3.91,77.64,2015,N/A,4,8.82,8.13,1.69
+Horizon Equity Fund 583,FND0583,LU2842956367,Equity,Global,VALUE,EUR,US,1239.26,50.42,0.53,-20.94,6.70,-1.71%,20.32,1.31,-19.51,-304.60,0.98,5.00,2018,,,1.13,7.90,5.51
+Horizon fixed-income Fund 584,FND0584,LU4931255344,fixed-income,Emerging Markets,Income,JPY,Luxembourg,,70.66,0.66,33.08,6.98,11.88,22.76,0.59%,-8.31,414.64,-1.96,13.05,1998,Article 6,3,7.82,4.20,0.37
+Horizon equity Fund 585,FND0585,LU3799467994,equity,US,Growth,EUR,UK,791.07,62.87,0.60,19.35,4.70,12.70,8.01,0.44,-18.66,75.16,2.85,14.96,2020,Article 9,1,1.89,9.19,4.54
+Horizon Fixed Income Fund 586,FND0586,LU3997107725,Fixed Income,Europe,Value,USD,Luxembourg,1506.00,54.96,0.71,18.61%,19.05,13.92,9.31,,-18.63,-395.14,-2.70,49.60,2006,Art.8,5,0.20%,12.19,1.74
+Horizon Fixed Income Fund 587,FND0587,LU3417154652,Fixed Income,europe,Income,JPY,US,1108.70,43.93,0.23,15.23,15.67,5.35,21.82,0.41,-20.21,182.37,-2.00,15.83,2013,Article 9,5,2.94,7.70,0.34
+Horizon Fixed Income Fund 588,FND0588,LU8424143664,Fixed Income,APAC,Value,usd,Cayman,1487.23,62.55,0.33%,10.41,1.97,0.92,5.00%,,-20.67,-128.73%,-1.63%,84.11,2004,N/A,4,6.75,2.36,2.25
+Horizon Equity Fund 589,FND0589,,Equity,US,Blend,EUR ,France,184.76,63.15,0.45,2.08,4.93,9.39,16.91,0.71,-23.72,-29.22,3.71,21.20,2007,article 6,★★★,8.02,11.24%,5.37
+Horizon Mixed Fund 590,FND0590,LU9506306647,Mixed,Asia Pacific,Aggressive,USD,Ireland,636.23,32.43,0.67,-2.14,-2.25,26.05,16.44,1.20,-2.00,-211.48,-3.09,18.93,1999,article 6,1,6.81,10.72%,5.35
+Horizon Equity Fund 591,FND0591,LU3307154218,Equity,US,Aggressive,JPY,Cayman,3287.66,51.32,0.43,12.23,2.20,-2.94%,18.12,0.53,-2.00,-87.86,-0.77,22.78%,2017,Art.8,2,11.34,5.62,4.64
+Horizon Mixed Fund 592,FND0592,LU1588282636,Mixed,Asia Pacific,growth,JPY,Cayman,172.88,53.09,0.26,33.71,6.16%,-14.73,20.38,0.80,-24.34,334.91,0.95,24.79,2000,article 6,n/a,0.20,1.00,2.30
+Horizon Mixed Fund 593,FND0593,LU1013956998,Mixed,United States,Income,EUR,France,58.16%,90.40,0.09,-1.54,17.05,20.16,13.95,0.20,-25.00,-0.64,0.01,11.41,2008,Article 9,4,5.06,11.47,0.58
+Horizon Fixed Income Fund 594,FND0594,LU4169121084,Fixed Income,APAC,growth,JPY,Ireland,461.81,22.63%,0.27,10.40%,18.72,3.06,13.56,1.22%,-16.76,-487.43,5.16,125.54,2022,Art.8,n/a,3.78,7.96,1.73
+Horizon Mixed Fund 595,FND0595,LU9504924846,Mixed,Asia Pacific,Value,EUR,Luxembourg,1175.79,54.43%,0.37,16.72,16.92,14.24,23.87,-0.15,-15.75,-347.17,-1.87,18.72,2015,Art.8,,0.62,10.04,4.46
+Horizon Alternatives Fund 596,FND0596,LU9264371593,Alternatives,Europe,VALUE,USD,IE,,36.74,0.64,-2.41,6.80,5.35,4.00,0.73,-13.17,285.67%,2.10,15.91,2002,Art 9,4 stars,6.49,16.64,2.31
+Horizon Money Market Fund 597,FND0597,LU2102717082,Money Market,Asia Pacific,VALUE,JPY,Luxembourg,231.33,47.44,0.18,4.93,,5.46,21.43,0.74,-12.30,-336.54,-4.48,10.30,2005,N/A,4 stars,6.61,1.67,5.41
+Horizon Alternatives Fund 598,FND0598,LU3933086266,Alternatives,Asia Pacific,Income,USD,luxembourg,2126.21,46.05,0.40,-4.44,,9.79,10.39,0.64,-34.13,-339.42,-4.97,48.74,2011,Art.8,4,8.94,8.38,1.84
+Horizon Fixed Income Fund 599,FND0599,LU8115174386,Fixed Income,US,Income,JPY,IE,300.38,33.44,0.16,-2.24,2.38,7.27,8.46,0.23,-17.29,242.11,-0.66,10.60,2020,N/A,4 stars,5.52,9.22,0.00
+Horizon FI Fund 600,,LU6537853930,FI,Global,Aggressive,EUR,Luxembourg,1135.72,108.11,0.15,,16.63%,7.19,9.82,0.92,-24.42,207.23,-4.11,36.72,2010,Art.8,2,3.93,12.26,2.89
+Horizon equity Fund 601,FND0601,LU4835158697,equity,EM,Aggressive,EUR ,France,347.41,25.36,0.05,2.20,,-1.58,22.75,0.20,-17.86,36.34,-2.84,34.94,2022,Article 6,3,7.58%,5.10,3.85
+Horizon FI Fund 602,FND0602,LU8141188700,FI,Global,Aggressive,USD,Ireland,748.45,67.26,0.27,-3.56,8.84,8.64,18.71,0.52,-21.58,-22.54,0.78,24.47,2013,N/A,★★★,0.20,2.88%,0.00
+Horizon Fixed Income Fund 603,FND0603,LU4487876756,Fixed Income,europe,Blend,JPY,IE,125.55%,55.91,0.61%,9.76,14.38,1.02,7.67,0.36,-34.55,371.81,-8.02,20.83,2010,N/A,3,3.66,5.79,0.01
+Horizon Alternatives Fund 604,FND0604,LU9938908137,Alternatives,EM,growth,EUR ,Ireland,1394.09,55.40,0.16,11.77,4.80,7.16,19.86%,0.59,-2.00,58.80,-1.00,12.06,2002,Article 6,4,4.63,6.11,5.87%
+Horizon Fixed Income Fund 605,FND0605,LU7791137012,Fixed Income,APAC,growth,EUR,US,162.08%,105.08,0.32%,-7.29,4.12,10.39,2.17,1.01,-19.61,138.53,0.68,59.58,2009,Article 6,,3.34,5.33,3.93
+Horizon Fixed Income Fund 606,FND0606,LU1676104126,Fixed Income,US,Blend,JPY,Cayman,276.75,49.86,0.40,6.21,5.54,19.03,10.65,0.78,-16.96,377.03,-1.76,36.39,2008,N/A,1,12.14,8.61,6.92
+Horizon Fixed Income Fund 607,FND0607,LU3560640805,Fixed Income,europe,Value,JPY,Ireland,7851.41,51.30,0.25,16.04,6.35,9.33,21.64,0.68,-19.23,27.48%,5.08,11.98,2003,Article 9,n/a,8.89,11.99,5.31
+Horizon FI Fund 608,FND0608,LU8186879282,FI,Emerging Markets,Income,EUR,UK,219.29%,58.55,0.18,24.16,2.07,8.72,6.99,0.64,-14.10%,50.28,-0.55,28.60,2013,Article 6,3,2.41,8.03,0.15
+Horizon equity Fund 609,FND0609,LU2051504828,equity,United States,VALUE,GBP,UK,800.15,29.96,0.46%,,-0.69,11.54,10.67,0.56%,-5.68,,1.54,103.84,2004,Article 8,5,5.13,4.54%,1.68
+Horizon FI Fund 610,FND0610,LU6255486115,FI,Europe,growth,EUR ,IE,3747.56,50.25,0.41,20.97%,5.12,11.54,11.87,0.95,-16.88%,137.81%,-4.21,12.02,2003,Article 8,4 stars,0.20%,9.05,2.47
+Horizon Alternatives Fund 611,FND0611,LU6397894447,Alternatives,Emerging Markets,Income,USD,France,48.49%,42.88,0.18,,11.15,6.71,,1.48,-15.05,-72.11,7.79,43.98,2015,Art.8,n/a,4.95,7.39,2.19
+Horizon Equity Fund 612,FND0612,,Equity,Europe,Growth,EUR,Luxembourg,3535.33,39.59,0.21,25.63,12.32,6.88,10.62,0.44,-16.64,-46.59,-3.28,19.08,2017,article 6,2,9.46%,13.73,3.89
+Horizon Money Market Fund 613,FND0613,LU8940985971,Money Market,Asia Pacific,Aggressive,EUR ,luxembourg,3860.67%,30.33,0.31,13.92,-6.72,11.00,,-0.01%,-16.58,-116.89,1.15,26.53%,2022,Article 8,2,0.20,7.94,2.58
+Horizon FI Fund 614,FND0614,LU5881750223,FI,EM,Growth,EUR,France,1599.34,101.44,0.34,-1.80,3.05,1.17,18.55%,0.89,-22.20,-412.77,-4.58,26.97%,2017,Art 9,n/a,15.33,12.37,3.50
+Horizon fixed-income Fund 615,FND0615,LU8582022506,fixed-income,europe,Aggressive,usd,luxembourg,358.14,121.92,0.42,-10.39,-5.67%,12.64,23.94,-0.38,-17.99,-511.80,0.20,47.74,2003,Article 8,,5.45,6.01,0.00
+Horizon Mixed Fund 616,FND0616,LU3482355105,Mixed,APAC,Value,EUR ,France,204.83,24.12,0.21,30.28,3.06%,9.28,14.26,0.99,-18.70,87.85,-6.15,34.14,2019,Article 9,3,0.20,4.31,5.91%
+Horizon Money Market Fund 617,FND0617,LU9361390762,Money Market,APAC,VALUE,JPY,UK,409.93,81.72,0.41,24.12,5.75,22.38,17.69,,-21.96,,2.54,26.71,2011,N/A,4,0.20,5.35%,2.83%
+Horizon Money Market Fund 618,FND0618,LU9960180582,Money Market,EM,Blend,EUR,UK,1673.70,88.06%,0.68,4.37,7.36,9.07,5.82,0.09,-16.42%,89.91,4.47,69.19,2012,Art.8,★★★,7.30%,12.24,4.46
+Horizon Equity Fund 619,FND0619,LU6961028575,Equity,US,Growth,usd,Luxembourg,3002.00,76.78,0.25,-9.37,-7.70,8.85,8.14,-0.57,-21.51,228.12,0.58%,9.48,2013,article 6,3,3.24,9.84,1.75
+Horizon Mixed Fund 620,FND0620,,Mixed,United States,Value,EUR,IE,403.49,52.13,0.41,7.53,8.82,5.84,19.23,0.98,-22.17,324.34,-0.79,77.80,2019,Article 8,★★★,2.01,10.84,0.00
+Horizon FI Fund 621,FND0621,LU9334996882,FI,Europe,Income,GBP,Cayman,240.11,77.87,0.14,22.79,14.20%,-1.56,19.52,0.39%,-2.23,-212.32,0.31,105.13,2006,article 6,2,4.77,11.97,2.71
+Horizon Mixed Fund 622,FND0622,,Mixed,Global,Value,EUR ,Ireland,,32.12,0.69,3.97,-3.51,-3.43,1.24%,0.61,-18.88,-402.33,1.54,7.86%,2015.0,Article 8,,9.22,12.95,4.75
+Horizon fixed-income Fund 623,FND0623,LU4471927663,fixed-income,Emerging Markets,Aggressive,usd,Cayman,985.69,39.89,0.28,17.02,10.95,6.27,,-0.55,-11.39,66.01,-4.48,73.04%,01/2018,Article 9,,6.81,3.77%,0.93
+Horizon FI Fund 624,FND0624,LU4230192966,FI,Emerging Markets,Growth,JPY,France,1248.29,77.43,0.29,2.57,7.30,25.86,16.33,0.60,-17.81,-176.56,-1.25,40.78%,2011,Article 8,4,7.77,3.88,4.00
+Horizon Mixed Fund 625,FND0625,LU1963106497,Mixed,APAC,Value,GBP,Ireland,102.34,31.36,0.43,38.14,,8.09,14.74,0.65,-15.16,261.04,-2.40,114.89,1998,article 6,4 stars,5.08,5.64,6.57%
+Horizon Money Market Fund 626,FND0626,LU3193238797,Money Market,Global,growth,JPY,Cayman,633.90,64.51,0.38,21.80,-4.70,11.66,12.95,0.73,-14.06,-45.50,1.02,18.19,2006,Article 6,4,9.51,5.40,2.99
+Horizon Money Market Fund 627,FND0627,LU2968605833,Money Market,Asia Pacific,Aggressive,JPY,IE,3397.81,52.87,1.07,13.40,-3.24%,6.82,28.32%,,-20.41,-201.18,-0.31,42.40,n.a.,Article 6,n/a,9.53,1.00,2.38
+Horizon equity Fund 628,FND0628,LU5624332250,equity,Emerging Markets,Growth,GBP,France,405.74,116.70%,0.90%,-10.96,10.63,10.04,12.94,,-24.74,25.08,1.47,28.14,2007,article 6,4,0.20,11.40,3.61
+Horizon Mixed Fund 629,FND0629,LU8035212354,Mixed,Global,Growth,EUR,IE,1787.31,59.47,0.82,-3.86%,5.60,13.00,17.37,-0.13,-12.93,1.02%,-3.03,28.30,1999,Article 8,3,6.27%,10.00,1.16%
+Horizon equity Fund 630,FND0630,LU1604906455,equity,EM,Value,usd,UK,32.98,21.85,0.47,-3.56,20.07,1.38,14.00,1.24,-23.54,,-3.66,20.13,2008,Article 8,4 stars,7.32,8.36,0.00%
+Horizon Alternatives Fund 631,FND0631,LU4000112223,Alternatives,Emerging Markets,Aggressive,EUR ,Cayman,5618.88,23.35,0.39,5.22,6.08,5.28,9.75,0.23,-29.51,-2.52,8.36%,43.96,2011,N/A,★★★,7.63,9.21,0.02
+Horizon Mixed Fund 632,FND0632,,Mixed,APAC,Aggressive,GBP,luxembourg,1002.10,122.13,1.20,14.27,-4.51,7.15,13.26,,-16.50,16.21,2.12,114.75,2015.0,Article 8,n/a,5.80,8.61,6.20%
+Horizon Mixed Fund 633,FND0633,LU2222307686,Mixed,Europe,Blend,usd,UK,3986.42,65.74%,0.26,-4.16,3.27,8.46,22.97,0.00,-6.47,926.00,-7.11,24.60,2002,article 6,2,10.08%,6.79,0.00%
+Horizon Alternatives Fund 634,FND0634,LU1113091861,Alternatives,Europe,Aggressive,usd,UK,285.51,58.41,0.32,10.22,-3.22%,4.82,20.42,0.68,-2.00,151.79,3.33,50.09,2007,article 6,5,5.06%,11.44,6.86
+Horizon equity Fund 635,FND0635,LU5687109117,equity,Global,Growth,GBP,France,239.72,18.65,0.34%,0.29,6.49,9.95,25.76,0.95%,-23.42,-473.66,2.39,61.99,2010,Article 6,★★★,2.21,12.12,2.54
+Horizon Fixed Income Fund 636,FND0636,LU1318899967,Fixed Income,US,Blend,EUR ,IE,1239.06,92.35,0.24,1.76,7.99,-3.05,18.13,1.28,-20.07,39.53,1.58,27.42,1998,,1,13.27%,5.24,2.43
+Horizon fixed-income Fund 637,FND0637,LU3569683372,fixed-income,US,Value,EUR,Cayman,730.12,57.70,0.41,16.50,17.11%,10.72,6.78,0.57,-16.45,10.66,-5.26,60.66%,2017,Art 9,,0.20,6.87%,3.10
+Horizon Equity Fund 638,FND0638,LU9037566013,Equity,United States,Aggressive,usd,luxembourg,,75.78%,0.19,,,3.04%,26.18,0.71,-12.21,34.79,-0.59,53.75,1998,,,8.81,1.00,3.61
+Horizon Fixed Income Fund 639,FND0639,,Fixed Income,EM,Blend,JPY,Ireland,920.79,71.32,0.47,10.01,-1.80%,13.92,14.17,0.04,-17.50,-416.81,-2.44,35.17,2014,article 6,2,10.21,1.99,5.34%
+Horizon Equity Fund 640,FND0640,LU3561413678,Equity,Global,Growth,usd,IE,3899.99,64.72,0.45,2.66,-0.72%,1.13%,14.50,0.41%,-14.21,,-3.59,55.23,2018,Art.8,★★★,4.20,11.90,0.81
+Horizon Money Market Fund 641,,LU7800176062,Money Market,EM,growth,USD,Ireland,2044.86,51.98,0.40,7.34,-9.85,8.43,3.74,0.31,-12.85,295.95,-1.21,33.37,2018,Art.8,★★★,2.61,11.31,2.75
+Horizon equity Fund 642,FND0642,LU9382457066,equity,US,growth,JPY,France,141.00,25.07,0.26,-13.43,5.94,9.71,20.37,0.51%,-9.98,-186.09,6.22,56.05,2005,Article 8,2,8.41,6.77,2.66
+Horizon fixed-income Fund 643,FND0643,LU8710932144,fixed-income,Asia Pacific,Growth,USD,Luxembourg,,29.08,0.25,28.90,22.88%,6.52,15.25,0.53,-14.70,-125.29%,0.23,53.63,2011,Art.8,n/a,4.01,9.47,5.19
+Horizon Fixed Income Fund 644,FND0644,LU5400007874,Fixed Income,europe,Blend,EUR,Luxembourg,214.38,45.35,0.69,7.96,16.09,3.55,14.32,0.43,-13.91,2.44,-2.68,103.28,1998,Article 9,4,0.20,7.09,8.82
+Horizon Mixed Fund 645,FND0645,,Mixed,United States,Growth,JPY,Ireland,1213.73,23.75,0.19,26.05,4.88,14.98,14.04,0.66,-14.80,435.44,0.86,23.19,1999,Art 9,4 stars,3.72,9.74%,4.52
+Horizon equity Fund 646,FND0646,LU7868731917,equity,US,Value,usd,US,341.57,76.73,0.69,-1.40,9.41,10.67,14.45,0.61%,-14.63,,1.35%,94.18,1999,Article 8,★★★,4.84,8.00,0.08
+Horizon Alternatives Fund 647,FND0647,LU2530576780,Alternatives,Europe,Value,USD,US,350.85,46.50,0.36,20.89,8.13%,10.14,15.88,0.71,-33.14,,4.44,30.69,2002,Art 9,★★★,2.92,9.86,2.74
+Horizon equity Fund 648,FND0648,LU1665774454,equity,US,VALUE,GBP,UK,334.39,46.79,0.36,26.98,-2.95,11.87,17.28,-0.29,-15.05,-4.25,-8.35,11.98%,2018,,1,8.23,10.27,2.89
+Horizon fixed-income Fund 649,,LU8501445084,fixed-income,Global,growth,JPY,France,240.48,18.15,0.19,6.05,18.42,15.40,12.48,0.31%,-9.43,117.70,1.60,91.00,2022,article 6,1,0.20,7.38%,1.54
+Horizon fixed-income Fund 650,FND0650,,fixed-income,europe,Aggressive,usd,Ireland,683.31,67.93,0.22,30.19,9.31,4.50,,0.43,-27.95,-105.38,-3.54,8.87,2017,N/A,5,2.34,12.21,1.42
+Horizon Mixed Fund 651,FND0651,LU9664614117,Mixed,United States,Growth,JPY,IE,659.68,42.47,0.23,21.20,-1.30,2.41,12.30,1.23,-14.24%,25.14%,-6.65,43.39,2019,Art.8,3,11.15,9.40,6.49
+Horizon Equity Fund 652,FND0652,,Equity,europe,Income,GBP,IE,282.03,60.53%,0.19,5.82,9.30,3.27,3.71,0.13,-5.74,-193.82,-0.32,18.63,2021,article 6,4 stars,3.60,2.65,3.68
+Horizon FI Fund 653,FND0653,LU8808579156,FI,Asia Pacific,growth,usd,Ireland,1021.94,47.96,2.80,30.07%,-0.40,5.96,26.33,0.93,-37.89,-195.35%,-1.80,31.48,2002,Art 9,5,6.83,11.54,2.66
+Horizon equity Fund 654,FND0654,LU2924425830,equity,EM,growth,EUR,Cayman,902.76,96.30,0.56,31.64,-0.78,10.44,14.11,0.36,-18.53,-229.57,3.41,26.23,2006,Art 9,3,11.37,7.38,2.65
+Horizon fixed-income Fund 655,FND0655,LU7700261102,fixed-income,US,Blend,USD,luxembourg,622.95,66.42,0.19,1.42%,1.17,2.90,23.43,-0.19,-6.02%,235.96,0.35,21.87,2019,Article 6,1,10.73,3.65,2.19
+Horizon FI Fund 656,FND0656,LU9057286063,FI,europe,growth,JPY,Cayman,644.65,47.82,0.30%,34.83,14.64,15.39,21.56,-0.03%,-2.86%,-295.03,-4.60,11.85,2020,Article 9,4 stars,8.93,8.69,3.30
+Horizon Fixed Income Fund 657,FND0657,LU2380452673,Fixed Income,Global,Value,USD,IE,631.76%,32.29,0.37,-5.76%,20.55,8.17,19.67,,-23.00,-25.34,-3.78,11.39,2006,article 6,★★★,4.55%,12.08,4.42
+Horizon fixed-income Fund 658,FND0658,LU3257073733,fixed-income,Europe,Blend,usd,France,,119.05,0.22,9.36,,3.21,23.27,0.14,-25.59,281.18,-0.98,132.22,2020,Article 8,★★★,8.46,15.74,6.19
+Horizon fixed-income Fund 659,FND0659,LU9894274644,fixed-income,Global,Income,EUR ,luxembourg,418.45,67.98,0.74,3.23%,8.45,1.60,10.37,-0.05,-23.31,3.04,-1.07,63.88,2004,Article 6,2,9.87,5.20,4.79
+Horizon Money Market Fund 660,FND0660,LU6074375374,Money Market,APAC,Growth,GBP,Luxembourg,254.18,35.20,0.38,16.78,,-4.66%,16.42,1.09%,-25.28,-542.07,0.14,32.47,2020,Article 9,3,10.61,3.71,3.73
+Horizon Money Market Fund 661,FND0661,LU5347233063,Money Market,Asia Pacific,Blend,JPY,Ireland,860.95,37.99,0.37,-27.92,-1.13,-9.89,9.51,0.43,-17.24,294.69,7.48,47.60,1999,N/A,4 stars,7.26,5.05,3.71%
+Horizon FI Fund 662,FND0662,LU8963774590,FI,United States,Aggressive,JPY,UK,630.89,55.89,0.32,-4.45,6.12,10.40,17.01,0.37,-15.90,356.38,-3.31,14.09,2007,article 6,5,13.69,9.27,2.74
+Horizon Mixed Fund 663,FND0663,LU2271641402,Mixed,Asia Pacific,growth,GBP,Luxembourg,289.04,111.59,0.15,-12.46%,4.78,2.37,12.27,0.82,-11.94,-299.88,-1.89,22.09,2008,Article 9,n/a,5.21,2.46,2.07
+Horizon Alternatives Fund 664,FND0664,LU3470199226,Alternatives,United States,growth,EUR,luxembourg,,43.05,0.35,20.61,-7.98,10.86,11.51,0.76,-12.94,46.50,2.96,5.00,2017,Article 9,2,7.36%,5.72,0.00
+Horizon Fixed Income Fund 665,FND0665,,Fixed Income,Global,Income,EUR,Cayman,1432.96,32.21,0.18,3.72,-0.06,13.41%,1.00,,-28.96,201.91%,-0.70,16.18,2000,Art.8,2,2.23,1.00,2.90%
+Horizon Money Market Fund 666,FND0666,LU9653935792,Money Market,United States,Blend,EUR,US,4153.34,73.02,0.26,15.94%,3.88,-9.42,,1.07,-5.25,,2.79,10.89,2012,Article 8,4 stars,3.41,18.36,5.44
+Horizon equity Fund 667,FND0667,LU9114455524,equity,United States,Income,EUR,US,1640.37,28.83%,0.17,4.75,11.93,-6.98,20.45,0.88,-2.80%,-420.00,1.99,11.71,2015,N/A,2,10.89,6.19,7.01
+Horizon FI Fund 668,FND0668,LU9853011551,FI,EM,Value,usd,Cayman,298.99,77.35,0.66,1.81,3.87,-2.02,16.83,0.97,-2.00,-125.70,1.88,17.21,2007,N/A,5,12.35,7.96,0.84
+Horizon FI Fund 669,FND0669,LU9382375809,FI,APAC,Aggressive,USD,US,,24.58,0.32,,-6.40,15.76,25.16,0.81,-29.47%,-19.77,-0.13,70.82,2006,Article 8,3,0.20,5.86,0.00
+Horizon equity Fund 670,FND0670,LU6428071784,equity,Emerging Markets,Value,EUR ,Ireland,130.93,50.31,0.90,-9.38,,11.95,23.03,1.49,-25.09,60.25,2.71,51.42,2018,Art.8,1,6.20,7.69,1.61%
+Horizon Mixed Fund 671,FND0671,LU4194049335,Mixed,Europe,Value,JPY,IE,312.70,18.38,0.19,1.46,,22.64%,8.62,0.65,-9.97,-110.41,-2.29,29.13,01/2018,Art.8,4,8.95,9.37,4.96
+Horizon FI Fund 672,FND0672,LU3793572449,FI,Global,Blend,JPY,UK,191.32,67.34,0.36,8.45%,7.86,-0.79,19.09,0.71,-31.78,,0.56,106.28,2007,N/A,n/a,4.12,1.00,3.28
+Horizon Alternatives Fund 673,FND0673,,Alternatives,Global,Aggressive,GBP,IE,,68.46,0.10,27.49,19.26,-9.55,8.13,0.07,-22.52,,-4.43,27.54%,2004,Art.8,4,8.86%,6.52,2.81
+Horizon Alternatives Fund 674,FND0674,LU4955387299,Alternatives,US,VALUE,JPY,Luxembourg,1419.36,54.33,0.32,23.95%,9.82,-3.44,16.81,1.43,-25.94,55.30,2.80,11.89,2002,N/A,2,1.37,7.99,4.70
+Horizon Fixed Income Fund 675,FND0675,LU3820273572,Fixed Income,APAC,Income,GBP,US,1463.34,32.61,0.87,25.99%,25.81,-2.63,22.47,0.87,-17.40,124.84,1.92,60.64,2004,Art.8,2,2.41,6.48,2.62
+Horizon Mixed Fund 676,FND0676,LU8308829899,Mixed,US,Growth,usd,Luxembourg,326.46,34.40,0.11,9.99,-6.88,-2.14%,23.70,,-23.32,-201.20%,-2.94%,9.33,2020,Article 6,2,0.91,9.15,2.32
+Horizon FI Fund 677,FND0677,LU6042154892,FI,Asia Pacific,Blend,EUR,IE,,72.17,0.18,3.98,8.01,7.57,10.63,1.02,-9.09,-79.42,-7.09,38.15%,2022,Art 9,4,4.56,6.86,0.00
+Horizon Fixed Income Fund 678,FND0678,LU7559356820,Fixed Income,APAC,Blend,EUR ,Luxembourg,3643.00%,21.65,0.22%,9.93,9.77%,10.45,20.52%,1.21,-17.63,213.87,5.48,19.24,2023,,4 stars,7.41,8.97,3.66%
+Horizon Mixed Fund 679,FND0679,,Mixed,Europe,Blend,EUR,Ireland,1022.38,55.85%,0.33,10.40%,9.28,8.15,9.60,0.19,-26.10,195.24,1.67,131.75,2016,article 6,,6.72,9.47,2.20
+Horizon Alternatives Fund 680,FND0680,LU8677824741,Alternatives,EM,Growth,USD,Ireland,12547.13,61.13,0.50,-3.75,-12.30,6.93%,20.15,1.45,-24.39,175.70,4.24,11.95,2001,Article 6,,6.36,8.01,6.71
+Horizon Mixed Fund 681,FND0681,LU3054142702,Mixed,EM,Value,GBP,Luxembourg,4606.54,49.03,0.21,4.42,10.63%,-1.04,6.26,-0.27,-15.34,-112.59,-1.47,35.83,2020,,3,3.30,2.10,3.74
+Horizon Equity Fund 682,FND0682,,Equity,Europe,VALUE,EUR,luxembourg,,36.46,0.42,,6.83,4.34,16.05,0.18,-16.93,-20.38%,4.65,23.19,1999,Art.8,4 stars,11.38,6.67,5.77
+Horizon Alternatives Fund 683,FND0683,,Alternatives,APAC,Value,usd,France,2578.89,46.06,0.43,,7.41,-4.62,8.35,0.80,-7.19,-28.65,-2.58%,27.79,2015.0,Article 9,★★★,12.44,10.41,0.69
+Horizon Alternatives Fund 684,FND0684,LU2908972038,Alternatives,Europe,Aggressive,EUR,luxembourg,172.97,72.63,0.67,10.61,2.04,11.83,15.33,1.19,-19.86,260.88,-0.18,20.95,2011,Article 6,4 stars,9.19,6.88,4.91
+Horizon Money Market Fund 685,FND0685,,Money Market,europe,Growth,EUR ,France,1672.71,71.26,0.24,13.20,9.52,8.19,19.79,0.77,-21.66,191.88,-0.73,17.33,2023,Article 6,5,10.39,10.05,2.84
+Horizon Money Market Fund 686,FND0686,LU7141324255,Money Market,APAC,Growth,JPY,US,2989.57%,22.06,0.42,,-5.39,-0.08%,10.68,0.09,-15.01,-345.06,-0.08,83.91,2005,Article 6,5,8.85%,16.99,2.27
+Horizon fixed-income Fund 687,FND0687,LU2337837100,fixed-income,europe,Aggressive,EUR ,France,339.00,46.43,0.26,8.65,-3.89,8.46,,0.91,-7.99,-24.72,0.28,27.54,2015,,5,4.06,6.72,2.45
+Horizon Fixed Income Fund 688,FND0688,LU9712995044,Fixed Income,Asia Pacific,Income,usd,Cayman,128.86,59.53,0.54,1.04,6.69,13.12,9.73,1.50%,-15.05,-116.71%,-3.95%,39.56,2010,Art 9,4 stars,10.08,6.05,4.24
+Horizon Mixed Fund 689,FND0689,LU2119348913,Mixed,Global,Value,EUR,US,,22.70%,0.42,,,6.86,12.22,-0.20,-17.33,88.86,1.37,35.59,2000,Article 6,1,6.25,11.03,2.49
+Horizon Mixed Fund 690,FND0690,LU8417259971,Mixed,Asia Pacific,VALUE,usd,UK,431.97,50.27%,0.77,4.55,0.10,13.52,17.82,0.30,-30.61,16.70%,-3.94,14.24,2016,Article 8,1,1.49,8.13,5.51
+Horizon FI Fund 691,,LU1746626850,FI,Asia Pacific,Income,GBP,luxembourg,492.00,53.35,0.40,,-6.78%,-3.17,22.97%,,-32.21%,264.20,-3.49,45.65,1999,Article 8,1,0.52,7.91%,3.05
+Horizon fixed-income Fund 692,FND0692,LU8348607891,fixed-income,APAC,Income,GBP,IE,158.74,38.44,0.77,9.17,8.05,-5.08,12.59,,-15.83,14.96,4.92,10.65,2002,Article 9,,6.59,6.46,1.34
+Horizon FI Fund 693,FND0693,LU7820848074,FI,Asia Pacific,Aggressive,EUR,US,671.15,30.54,0.63,,14.24,5.16,1.00,0.61,-26.91,329.08,8.61,18.93,2023,Article 8,n/a,9.47,9.79,2.93
+Horizon fixed-income Fund 694,FND0694,LU2138185939,fixed-income,US,Income,USD,Luxembourg,2891.06,34.56,0.13%,-3.26,5.22,5.60,,0.02%,-13.16,-37.22%,2.68,113.88,2003,Article 9,4 stars,12.11,10.34,1.93
+Horizon Alternatives Fund 695,FND0695,LU5338201983,Alternatives,Global,Blend,EUR,Ireland,671.90%,49.42,0.18,17.86,-1.53,8.57,25.39%,,-15.61,-62.61,2.76,9.94%,2019,Art.8,★★★,10.13,14.62,9.66
+Horizon Alternatives Fund 696,FND0696,LU6515550954,Alternatives,europe,Income,usd,US,380.97,42.34,0.46,0.27,11.48,14.11,13.38,0.34,-7.00,42.41,-3.83,35.70,2012,,4,3.84,14.98,3.20
+Horizon Fixed Income Fund 697,FND0697,LU8451069208,Fixed Income,United States,growth,EUR ,US,52.36,31.60,0.20,5.21,2.05,4.52,14.42,1.02,-33.04,-509.33,-3.23,59.61%,2003,,,5.52,7.95,2.25
+Horizon Equity Fund 698,FND0698,LU9354659906,Equity,europe,Blend,EUR ,UK,253.63,55.87,0.28,2.87,11.99,3.22,12.50,1.16,-15.32,-19.50,-2.59,39.75,2015,Art 9,3,6.38,6.35,2.73
+Horizon Equity Fund 699,FND0699,LU5791785799,Equity,EM,Value,JPY,Cayman,82.95,42.94,0.37,7.81,12.68,-3.24,16.87,0.32,-29.32,277.80,2.05,48.14,2009,Art.8,n/a,6.24,12.46,6.45
+Horizon Equity Fund 700,FND0700,LU3168789673,Equity,United States,VALUE,USD,Ireland,593.13,139.20,0.07,0.51,9.15,2.56,12.36,-0.04,-23.71%,341.85%,1.12,70.22,2002,Article 8,3,6.14,4.82,1.81
+Horizon Fixed Income Fund 701,FND0701,LU8138643055,Fixed Income,Europe,growth,USD,UK,62.44,81.31,0.25,,9.65,1.13,18.48,0.43%,-23.73,-162.07,-1.51%,14.30%,2011,Article 8,1,4.99,6.82%,4.59
+Horizon Fixed Income Fund 702,FND0702,,Fixed Income,APAC,Blend,EUR,IE,5195.93,79.39,0.29,-13.37,-0.39,4.59,23.24,1.03,-20.39,241.90,0.75,61.96,2010,article 6,4,1.04,11.33,0.00
+Horizon Money Market Fund 703,FND0703,LU1482294127,Money Market,US,growth,EUR,US,560.67,87.46,0.21,13.64,7.89%,5.96%,25.79,0.43,-12.28,506.37,-4.05,13.86,2022,Art.8,1,1.77,7.81,7.96%
+Horizon fixed-income Fund 704,FND0704,LU6460264177,fixed-income,europe,Value,usd,Luxembourg,1090.41,71.36,0.25%,33.89,16.40,5.16,14.88,0.73,-2.00,83.72,5.13,106.50,2017,article 6,4,0.20,13.81,3.45
+Horizon FI Fund 705,FND0705,LU9082094880,FI,Global,Aggressive,EUR,luxembourg,1042.71,155.85,0.48,-7.31%,,6.42,23.51,0.74,-27.44,-3.80,4.51,24.89,2006,Art.8,5,3.00,10.25,4.07
+Horizon Equity Fund 706,FND0706,,Equity,EM,Aggressive,usd,Luxembourg,337.79%,75.63,0.45,,16.76,11.85,21.75,1.09,-15.15,,7.61,19.49,2013,Art.8,1,3.84,16.38,6.39
+Horizon equity Fund 707,FND0707,LU5931617814,equity,APAC,growth,EUR,UK,774.84,94.37,0.50,14.21,18.75%,1.92%,18.07,1.22,-29.46,127.02,-2.23,127.74,01/2018,N/A,4 stars,7.74,12.16,2.49
+Horizon FI Fund 708,FND0708,LU5656224557,FI,APAC,Value,EUR ,France,147.87,85.20,0.44,,21.46,9.45,,1.26,-21.77%,-463.59,5.64%,32.51,2021,Article 6,2,4.77,4.43,4.06
+Horizon FI Fund 709,FND0709,LU3599533825,FI,EM,Income,JPY,France,192.88,105.46,0.87%,1.58,-9.46,0.87,9.14,0.22,-23.62%,229.59,4.38,25.80,2020,Article 6,4 stars,4.69,5.27,3.60%
+Horizon fixed-income Fund 710,FND0710,LU7508249922,fixed-income,APAC,Aggressive,JPY,luxembourg,233.15,31.05,0.10,14.39,-2.77,8.82,19.12,0.44,-19.05%,452.83,-3.37,63.75,2006,Art.8,1,6.48,5.12,4.52
+Horizon fixed-income Fund 711,FND0711,LU4688571649,fixed-income,Global,Income,usd,IE,652.57,28.50,0.42,8.11,18.58,13.40%,5.36,0.39,-19.00%,90.23,4.47%,35.73,2010,Art 9,★★★,0.20,12.52,0.00
+Horizon equity Fund 712,FND0712,LU9132089553,equity,europe,Blend,JPY,IE,3723.14,58.36%,0.60,15.09,11.90,5.68,24.19,0.02,-19.47%,135.71,3.77,32.00,2009,Art.8,5,11.05,3.01,5.04
+Horizon Fixed Income Fund 713,FND0713,LU5050362396,Fixed Income,Asia Pacific,Value,EUR,Cayman,549.41,121.66,0.26,5.75,,8.04,11.84,0.80,-7.27,-411.89,4.69,29.15,2019,N/A,n/a,5.29,1.00,4.72
+Horizon Mixed Fund 714,FND0714,LU8760890552,Mixed,Europe,growth,usd,France,520.14,51.54,0.22,22.93,1.23,9.59,16.19,,-2.00,143.35,-2.84,34.21,2011,Article 9,2,5.98,12.03,2.04%
+Horizon Alternatives Fund 715,FND0715,LU2559278790,Alternatives,United States,growth,usd,US,1043.15,50.82,0.38,0.96,-1.70,9.72,6.55,0.69,-11.09,-269.31,4.45%,46.26%,2010,Article 8,★★★,4.63,3.70,3.61
+Horizon Fixed Income Fund 716,FND0716,LU2371538719,Fixed Income,europe,Aggressive,JPY,Ireland,,93.45,0.08,-12.79%,6.63,15.00,7.94%,0.38,-14.91,164.09,1.25,65.05,2003,,4 stars,2.44,12.66,2.63
+Horizon Money Market Fund 717,FND0717,LU1145806999,Money Market,United States,Income,USD,luxembourg,1133.74,46.26,0.70%,7.50,,4.54,6.11,0.97,-5.88,296.73,-0.51,6.59,2012,Article 8,2,10.28,5.26,1.99
+Horizon Alternatives Fund 718,FND0718,LU7982599207,Alternatives,Europe,Value,EUR,US,1013.36,91.55,0.22,-2.15,16.49,6.81,9.13,0.76,-17.23,163.38,-8.03%,86.31,2014,article 6,,9.70,2.71%,3.62
+Horizon equity Fund 719,FND0719,LU9612072361,equity,United States,growth,GBP,UK,,112.76,0.72,9.00%,-1.47,10.62,22.68,0.57,-19.65,500.73,5.98,30.47,2004,Article 8,2,5.27,5.51,0.15
+Horizon FI Fund 720,FND0720,LU2425641990,FI,United States,Growth,JPY,US,935.73,26.75,0.62,5.34,9.62,4.22,11.66,,-16.22%,7.42,-0.14,122.27,n.a.,N/A,★★★,10.52,3.78,3.24
+Horizon Alternatives Fund 721,,LU3318151185,Alternatives,Asia Pacific,Aggressive,USD,IE,151.01,132.09,0.19,13.93,,7.19,15.03,0.11,-14.79,59.22,4.86,24.69,2005,,n/a,9.49,11.03,5.66
+Horizon Mixed Fund 722,FND0722,LU5073498229,Mixed,US,growth,GBP,UK,622.16,29.11,0.32%,13.95,8.26,7.30,11.88,0.78,-9.28,-50.22,5.44,16.64,2012,Art 9,5,4.96,10.51,0.00
+Horizon FI Fund 723,,LU4123622787,FI,US,Income,JPY,US,390.36,75.95,0.37,8.27,10.09,1.91,,0.56,-22.02,-490.78,4.03,34.90,2022,Article 9,★★★,4.48,9.71,0.00
+Horizon Equity Fund 724,FND0724,LU8047664921,Equity,APAC,Blend,GBP,Ireland,296.77,47.82%,0.20,12.77,6.35,5.18,18.68,0.41,-2.00,134.41,-0.68,14.74,2006,Art 9,★★★,3.31,12.67,0.00
+Horizon FI Fund 725,FND0725,LU1372714198,FI,APAC,Growth,JPY,IE,2455.12,61.30%,0.14,16.09%,9.13,7.08,16.45,0.82,-23.08,-196.98,-0.77,32.04,2007,Art.8,4 stars,6.67,3.19,4.18%
+Horizon Alternatives Fund 726,FND0726,LU2844244973,Alternatives,US,Blend,EUR ,luxembourg,992.90,16.59,0.36,0.39,,19.75,11.44%,0.23,-20.28,-25.14,8.20,15.07,2000,Article 6,n/a,3.26,2.72,2.51
+Horizon Alternatives Fund 727,FND0727,LU2743536167,Alternatives,europe,Growth,EUR ,luxembourg,416.30,91.48,0.33%,23.98,4.62,10.64%,,1.38,-14.27,252.29,-4.04,236.02,2019,Article 8,2,8.20,6.00,0.62
+Horizon FI Fund 728,FND0728,LU6466224167,FI,Global,growth,USD,France,,84.20,0.70,10.15,7.08,14.42,4.83,,-12.39,176.60%,0.27,27.61,2017,N/A,4,3.79,6.97,9.10%
+Horizon Mixed Fund 729,FND0729,LU5159019088,Mixed,europe,Income,usd,Ireland,343.02%,32.59,0.45,-17.16,20.39%,3.99,15.04,0.43%,-6.30%,-402.28,5.28,18.95,2001,,4 stars,4.60,2.93%,2.92
+Horizon Money Market Fund 730,FND0730,LU4726520291,Money Market,Asia Pacific,Income,JPY,UK,2149.45,69.65,0.28,18.38,14.53,12.37,3.00,0.05,-16.51,675.17,-1.17,30.49,2004,Article 9,n/a,7.33,13.08,0.00
+Horizon Money Market Fund 731,FND0731,LU2312460244,Money Market,US,Aggressive,EUR ,Cayman,349.57,34.45,0.20,15.41,1.23,13.01,,0.33%,-25.23%,27.34,1.00,31.72,2020,Article 8,3,6.73,5.83,6.41
+Horizon equity Fund 732,FND0732,LU3831405945,equity,US,Aggressive,EUR ,US,317.49,93.98,0.35%,9.51,-6.14,6.87,12.89,-0.10,-11.46,380.19,8.40,32.45%,2015,article 6,,5.32,5.37,2.11
+Horizon Mixed Fund 733,FND0733,LU6050629518,Mixed,APAC,Value,GBP,US,3470.88,68.72,0.32,3.41,17.97,5.60%,10.49,0.44%,-9.72,-235.24,-0.29,39.19,2011,article 6,,0.20,7.50%,1.03%
+Horizon Money Market Fund 734,FND0734,LU6098103603,Money Market,United States,Value,GBP,IE,1704.90%,114.89,0.71,8.79,14.05,15.71,16.08,0.21,-16.51,82.70,0.07,21.61,2004,Article 9,4,13.96,5.66,6.88
+Horizon equity Fund 735,FND0735,LU5350670789,equity,Europe,Growth,USD,Luxembourg,152.88,85.54,0.36,15.85,-6.07,0.87,18.15,-0.10,-16.02,142.50,8.08,37.63,2009,Article 8,3,0.20,2.08,0.62
+Horizon FI Fund 736,FND0736,LU4207379219,FI,Emerging Markets,Aggressive,GBP,US,124.32,39.06,0.23,-10.76%,11.09,5.16,14.81,0.68,-18.63,,-3.70,33.57,2008,Art 9,5,3.18,2.65,6.27
+Horizon Equity Fund 737,FND0737,LU2284212891,Equity,Asia Pacific,Blend,GBP,France,3071.49,276.49,0.38%,9.63%,13.22,-0.79,16.51,0.92,-30.91,54.97,-1.15,42.45,2020,N/A,1,12.41,7.47,4.24
+Horizon fixed-income Fund 738,,LU8701109053,fixed-income,United States,VALUE,usd,UK,239.49,106.40,0.17,3.77,-1.33,10.34,18.91,1.33,-18.93%,-480.34,-5.91,24.61%,2001,Art.8,★★★,7.91,6.57,1.36%
+Horizon Alternatives Fund 739,FND0739,LU8681115652,Alternatives,Emerging Markets,Blend,usd,UK,3821.39,32.51,0.07,15.20,27.15,15.24,,0.97,-22.11,-130.56,0.58,19.76,1998,N/A,4,0.20,12.73,3.03
+Horizon Equity Fund 740,FND0740,LU6001240286,Equity,Europe,growth,EUR ,US,270.83,52.48,1.15,32.31%,8.23,14.11,15.25,-0.15,-24.43,124.08,2.79%,9.19%,2007,,★★★,2.33,5.39,0.86
+Horizon FI Fund 741,FND0741,LU2233929076,FI,US,VALUE,usd,Cayman,531.98,62.21,0.26,3.07,11.59,5.91,25.67,0.46,-23.06,-36.03,1.98,28.13%,2019,Art 9,4 stars,8.42,2.72,1.70
+Horizon equity Fund 742,FND0742,LU5203557926,equity,Asia Pacific,Income,JPY,IE,624.19,40.29,0.34,21.03,2.98,3.93,7.47,1.70,-13.53,,5.32,6.60,n.a.,Article 8,2,4.46,10.50,4.72%
+Horizon Mixed Fund 743,FND0743,LU7398689335,Mixed,EM,Aggressive,EUR ,UK,299.74%,44.97,0.80%,24.56,10.85,0.99,14.33,0.20,-16.88,-266.47,3.49,44.12,2022,,3,9.72,13.44,5.75
+Horizon Equity Fund 744,FND0744,LU5970624135,Equity,EM,Blend,EUR ,France,253.02,67.56,0.20,,,3.15,11.40,0.85,-23.24%,160.95,2.85,10.52,2010,Art.8,5,1.58,7.88,2.82
+Horizon Alternatives Fund 745,FND0745,LU4960476940,Alternatives,APAC,Value,EUR ,Ireland,1679.65,22.31,0.27%,,-6.44,13.51,13.47,0.98,-10.56,-123.99,-5.09,54.89,2023,Article 8,3,3.79,11.25%,6.45
+Horizon Equity Fund 746,FND0746,LU8021779088,Equity,EM,growth,EUR ,Ireland,389.67,84.42,0.44,17.92,,3.31,13.83,0.08%,-27.47,,-0.44,86.01%,2008,Art.8,2,4.01,11.81,3.07
+Horizon Alternatives Fund 747,FND0747,LU8908180187,Alternatives,EM,Value,EUR,Cayman,283.12,55.40,0.22,13.05,14.51,-0.97,10.03,0.38,-14.47,-132.59,4.85,49.06,2012,,★★★,5.11,10.86,2.73
+Horizon Money Market Fund 748,FND0748,,Money Market,United States,Value,EUR ,UK,19802.34,54.48%,0.57,13.38%,17.49,10.07,4.23,1.15,-9.88,-437.63,0.91,20.11,2023,N/A,n/a,0.20,10.87,0.00
+Horizon Equity Fund 749,FND0749,LU9695484086,Equity,United States,Aggressive,USD,IE,727.21,49.20,0.40,-1.10,1.43,6.12,13.83,0.85,-19.13,-163.59,0.21,200.97,2020,Art 9,3,9.73,7.55,3.18
+Horizon Mixed Fund 750,FND0750,LU8161891600,Mixed,EM,VALUE,usd,France,761.72,74.50,0.39,-6.22,-6.43,-3.90,22.61%,0.82,-12.82%,-22.70%,-5.44,31.64,2002,Article 9,2,3.47,7.70,3.16
+Horizon FI Fund 751,FND0751,LU1273339687,FI,APAC,Value,EUR,US,183.46,55.83,0.36%,1.64,21.10,-7.01,19.59,0.33%,-18.01,-23.71,-5.79,26.96,1999,article 6,4,1.58%,11.57,6.13%
+Horizon Equity Fund 752,FND0752,LU4203951524,Equity,Asia Pacific,Income,GBP,luxembourg,2618.15,88.95,0.33,10.57,17.57,-7.79,8.48,0.68,-14.49,-268.05,1.64,23.44%,2015,Article 8,5,4.82,11.23,5.18%
+Horizon Alternatives Fund 753,FND0753,LU8690765974,Alternatives,europe,Growth,usd,Luxembourg,337.11,81.79,0.30,2.74,-10.08,3.99,15.85,0.70,-14.09,,-1.04,72.44,2019,N/A,,7.35,13.80,3.99
+Horizon Equity Fund 754,FND0754,LU2128702592,Equity,United States,Aggressive,USD,Ireland,153.42,65.51,0.24%,-10.94,,-1.03,15.20,1.19,-20.71%,268.67,1.21,16.75%,2017,Article 8,1,9.39,3.31,2.69
+Horizon fixed-income Fund 755,FND0755,,fixed-income,Europe,Aggressive,EUR,UK,794.52,61.20,0.39,22.15,13.59,6.38,15.00,0.80,-17.40,522.61,0.24,16.72,2017,Article 8,4,0.54,14.11,5.25%
+Horizon FI Fund 756,,LU3968539486,FI,Global,Aggressive,USD,IE,153.33,128.92,0.25,-10.41,13.49%,12.40,13.41,-0.42,-19.00,196.51,5.21,26.20,2017,,1,3.76,4.27,3.09
+Horizon Equity Fund 757,FND0757,LU7981756711,Equity,US,Value,EUR,Cayman,506.86,33.51,0.14,6.61,2.74,11.21,25.41,0.18,-34.40,-199.50,-0.87,87.18%,2004,Art.8,4,10.48,9.19,1.02
+Horizon equity Fund 758,FND0758,LU4565701986,equity,Emerging Markets,Value,usd,Luxembourg,8440.40,102.52,0.24,9.56,9.18,1.47,3.52%,0.60,-10.66,-577.12,-4.40,22.86,1999,Article 8,4,0.20%,9.25,8.54%
+Horizon fixed-income Fund 759,FND0759,LU4817921015,fixed-income,Global,Income,EUR,Ireland,839.58,93.76,0.43,13.69,11.37,8.36,5.86,0.38,-26.76,-84.10,-2.84,25.58,2016,article 6,4 stars,2.23,2.85,0.28
+Horizon Mixed Fund 760,FND0760,LU9989275875,Mixed,Europe,Growth,JPY,IE,255.55,68.78,0.43,28.28,1.25,3.94,7.46,0.44,-23.99,-189.31,0.69,33.34%,2012,N/A,n/a,13.53,3.85,3.32
+Horizon Money Market Fund 761,FND0761,LU5485046979,Money Market,Europe,Aggressive,usd,France,1129.64,47.07,0.17,16.91,4.11,13.21,23.41,0.98,-19.02,-215.22,0.80,6.89,2014,Article 6,4 stars,7.97%,12.20,0.00
+Horizon Alternatives Fund 762,FND0762,LU9462838700,Alternatives,US,Aggressive,GBP,Luxembourg,757.15,59.64,0.20,20.70,11.87,-9.87,14.44,0.38,-7.62,-123.60,-2.51,24.18,2006,Art.8,★★★,6.61,13.05%,5.05
+Horizon Equity Fund 763,FND0763,LU4396836222,Equity,Emerging Markets,Growth,usd,luxembourg,457.61%,132.49,0.18,3.53,-1.37,7.37,13.05,1.11%,-19.46,225.44,-0.15,53.66,2012,article 6,★★★,8.96,9.00,6.17
+Horizon Fixed Income Fund 764,FND0764,LU3376399725,Fixed Income,US,Value,GBP,luxembourg,887.39%,37.65,0.31,11.11%,,10.68,19.24,1.10,-18.52,-57.83,-0.31,15.92%,2004,Article 8,1,5.05,17.31,3.03
+Horizon Fixed Income Fund 765,FND0765,LU9635906858,Fixed Income,Emerging Markets,Aggressive,USD,luxembourg,1491.10%,58.44,0.45,6.92,12.13,-2.22%,,0.30%,-21.11,,-9.16%,101.67%,2002,Art 9,4,7.56,11.03,3.69%
+Horizon Mixed Fund 766,FND0766,LU6120578837,Mixed,US,VALUE,EUR ,Luxembourg,2007.69,101.40,0.55,14.35,8.83,-0.51,22.07,0.64,-17.96,56.58,1.46%,34.03,2023,Article 8,n/a,1.57,5.02,5.95
+Horizon Fixed Income Fund 767,FND0767,LU7059842194,Fixed Income,Europe,Income,EUR ,Ireland,3434.11%,121.10,0.48,2.13,18.96,6.61,16.74,0.56,-26.05,-23.63,1.74,43.32,2010,Article 8,★★★,3.45,5.39,1.28
+Horizon Money Market Fund 768,FND0768,LU4241388357,Money Market,APAC,Aggressive,EUR ,Cayman,670.68%,43.42%,0.16,7.12,8.50,5.81,1.00%,0.62,-27.61%,-179.72,1.11,38.48,2010,Article 8,3,8.37,4.05,0.00%
+Horizon Mixed Fund 769,FND0769,LU1766549719,Mixed,europe,Aggressive,GBP,IE,302.70,49.97,0.40,5.42,14.80,0.33,17.82,1.08%,-32.68,,-3.46,62.97%,2004,Article 9,4,11.10,12.81,2.35%
+Horizon Equity Fund 770,FND0770,LU2233654143,Equity,Emerging Markets,Value,EUR,France,138.61,44.94,0.31,14.30,15.61,-1.20%,14.52,0.10%,-10.17,124.28,-4.02,22.53,2014,Article 9,4 stars,9.80,8.03,0.00
+Horizon Mixed Fund 771,FND0771,LU2265122853,Mixed,US,Growth,JPY,Luxembourg,,58.03,0.27%,-6.93,15.10%,-1.28,,-0.33,-26.27%,23.30,-3.15,31.69,2012,article 6,n/a,9.47,7.88,4.47
+Horizon Money Market Fund 772,FND0772,LU6795936585,Money Market,Asia Pacific,VALUE,EUR,IE,,32.30%,0.21,13.74,7.34,4.94,15.13,,-3.71%,-187.52,-0.30,23.84,2000,Art 9,2,0.85,6.98,3.76
+Horizon Mixed Fund 773,FND0773,LU3668569664,Mixed,Emerging Markets,Aggressive,EUR,luxembourg,650.20,20.66,0.31%,-15.55,8.64%,7.74,7.87,0.33,-17.51,29.45,-0.92,17.89%,2002,Art 9,5,3.68%,3.07,5.07
+Horizon Alternatives Fund 774,FND0774,LU1422217121,Alternatives,United States,Growth,EUR ,US,1881.87,38.88,0.51,13.99,3.42,0.79,15.60,0.36,-13.49,-171.53%,-6.58,17.23,1998,Art.8,4 stars,2.49,9.35,1.88
+Horizon FI Fund 775,FND0775,,FI,Asia Pacific,Income,GBP,IE,911.97,33.79,0.32,,-0.15%,-1.35,18.73,-0.13,-7.14,-203.14,5.04,29.85,2004,Article 6,1,5.20,9.96,7.18
+Horizon Equity Fund 776,FND0776,LU6370457144,Equity,Asia Pacific,Income,JPY,luxembourg,936.91,57.05%,0.28,42.44,3.51,0.66,10.09,1.30,-19.11,84.62,-0.26,125.02,2016,Article 8,3,3.41,11.70,0.22
+Horizon FI Fund 777,FND0777,LU6065063121,FI,Emerging Markets,VALUE,usd,luxembourg,1437.75,52.19,0.26,7.76,18.44,3.86,13.43,-0.42,-15.56,-346.29,-3.86,70.97,2015,N/A,n/a,13.57,8.55,4.17
+Horizon equity Fund 778,FND0778,,equity,APAC,Value,JPY,Ireland,1804.22,91.32,0.42,32.54,8.98,7.01,12.29,0.34,-7.08,-147.72,0.95,8.39,2015.0,Article 6,5,11.00,9.06,4.08
+Horizon Mixed Fund 779,FND0779,,Mixed,Asia Pacific,Growth,USD,UK,1165.58,142.91,0.53,8.73%,,2.99%,16.65%,0.38,-8.35,113.37,-5.32,64.52,2015,article 6,3,12.37,12.27,1.83
